@@ -1,0 +1,89 @@
+{
+  "slug": "phat-am-co-ban",
+  "stage": 1,
+  "order": 2,
+  "title": "5 nguyên âm và những từ đầu tiên",
+  "goal": "Biết 5 nguyên âm A, E, I, O, U và đọc đúng 5 từ đơn giản bắt đầu bằng chúng.",
+  "minutes": 5,
+  "intro": "Trong tiếng Anh có 5 nguyên âm: A, E, I, O, U. Mỗi nguyên âm có thể phát âm theo nhiều cách khác nhau — đây là lý do người Việt hay đọc sai. Bài này ta học qua 5 từ cực kỳ quen thuộc, bấm 🔊 nghe thật kỹ nhé.",
+  "notes": [
+    "I đọc tên là /aɪ/ (gần giống \"ai\") — và khi đứng trong từ thường đọc là /ɪ/ (giờ \"i\" ngắn).",
+    "O trong từ apple... không có O, nhưng trong orange thì O đọc là /ɒ/ (mép \"o\" ngắn).",
+    "U đọc tên là /juː/ (giu), nhưng trong từ umbrella thì đọc là /ʌ/ (giống \"ă\").",
+    "Mẹo: cùng một chữ cái nhưng mỗi từ đọc khác nhau — vì vậy LUÔN nghe mẫu, đừng đoán theo tiếng Việt."
+  ],
+  "vocab": [
+    {
+      "en": "apple",
+      "ipa": "/ˈæp.əl/",
+      "vi": "quả táo",
+      "example": "I eat an apple.",
+      "exampleVi": "Tôi ăn một quả táo."
+    },
+    {
+      "en": "egg",
+      "ipa": "/eɡ/",
+      "vi": "quả trứng",
+      "example": "This is an egg.",
+      "exampleVi": "Đây là một quả trứng."
+    },
+    {
+      "en": "fish",
+      "ipa": "/fɪʃ/",
+      "vi": "con cá",
+      "example": "The fish is small.",
+      "exampleVi": "Con cá thì nhỏ."
+    },
+    {
+      "en": "orange",
+      "ipa": "/ˈɒr.ɪndʒ/",
+      "vi": "quả cam",
+      "example": "I like oranges.",
+      "exampleVi": "Tôi thích cam."
+    },
+    {
+      "en": "umbrella",
+      "ipa": "/ʌmˈbrel.ə/",
+      "vi": "chiếc ô",
+      "example": "My umbrella is red.",
+      "exampleVi": "Chiếc ô của tôi màu đỏ."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "5 nguyên âm trong tiếng Anh là chữ nào?",
+      "options": ["A, E, I, O, U", "A, Ă, Â, B, C", "A, E, I, Y, O", "U, E, O, A, I"],
+      "answer": 0,
+      "explain": "A, E, I, O, U — đúng 5 chữ, không có Y trong nhóm nguyên âm cơ bản."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của từ:",
+      "word": "egg",
+      "options": ["quả trứng", "con cá", "quả táo", "chiếc ô"],
+      "answer": 0
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của từ:",
+      "word": "umbrella",
+      "options": ["quả cam", "chiếc ô", "quả trứng", "quả táo"],
+      "answer": 1,
+      "explain": "umbrella /ʌmˈbrel.ə/ = chiếc ô. Trọng âm rơi vào âm \"brel\"."
+    },
+    {
+      "type": "choice",
+      "question": "Chữ \"I\" khi đọc TÊN của nó phát âm gần giống tiếng Việt nào?",
+      "options": ["i", "ai", "ây", "e"],
+      "answer": 1,
+      "explain": "I đọc tên là /aɪ/ — giống \"ai\". Đây là lỗi kinh điển của người Việt (đọc thành \"i\")."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"I eat an ___ .\" (Tôi ăn một quả táo)",
+      "answer": "apple",
+      "explain": "apple = quả táo."
+    }
+  ]
+}

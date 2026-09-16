@@ -1,0 +1,103 @@
+{
+  "slug": "cam-on-xin-loi",
+  "stage": 1,
+  "order": 4,
+  "title": "Cảm ơn & xin lỗi",
+  "goal": "Nói được những câu lịch sự quan trọng nhất: cảm ơn, xin lỗi, làm ơn.",
+  "minutes": 5,
+  "intro": "Bốn câu này là \"vía sống\" khi giao tiếp: Thank you (cảm ơn), Sorry (xin lỗi), Please (làm ơn) và You're welcome (không có gì). Thuộc 4 câu này là bạn đã lịch sự rồi đấy.",
+  "notes": [
+    "\"Thank you\" đọc nhanh thường thành \"Thanks\" — cả hai đều đúng, \"Thanks\" thân mật hơn.",
+    "\"You're welcome\" = \"không có gì\" — câu trả lời chuẩn khi được cảm ơn.",
+    "\"Excuse me\" dùng khi muốn đi ngang qua hoặc bắt chuyện ai đó. \"Sorry\" dùng khi bạn có lỗi. Hai từ này khác nhau đấy!",
+    "\"Please\" đặt ở đầu hoặc cuối câu: \"Please help me\" hay \"Help me, please\" đều được."
+  ],
+  "vocab": [
+    {
+      "en": "thank you",
+      "ipa": "/ˈθæŋk juː/",
+      "vi": "cảm ơn bạn",
+      "example": "Thank you very much!",
+      "exampleVi": "Cảm ơn bạn rất nhiều!"
+    },
+    {
+      "en": "thanks",
+      "ipa": "/θæŋks/",
+      "vi": "cảm ơn (thân mật)",
+      "example": "Thanks a lot!",
+      "exampleVi": "Cảm ơn nhiều nhé!"
+    },
+    {
+      "en": "you're welcome",
+      "ipa": "/jʊr ˈwel.kəm/",
+      "vi": "không có gì",
+      "example": "— Thank you! — You're welcome.",
+      "exampleVi": "— Cảm ơn! — Không có gì."
+    },
+    {
+      "en": "sorry",
+      "ipa": "/ˈsɒr.i/",
+      "vi": "xin lỗi",
+      "example": "I'm sorry, I'm late.",
+      "exampleVi": "Tôi xin lỗi, tôi đến muộn."
+    },
+    {
+      "en": "excuse me",
+      "ipa": "/ɪkˈskjuːz miː/",
+      "vi": "xin phép (đi ngang, hỏi đường…)",
+      "example": "Excuse me, where is the bus stop?",
+      "exampleVi": "Xin lỗi, bến xe bus ở đâu ạ?"
+    },
+    {
+      "en": "please",
+      "ipa": "/pliːz/",
+      "vi": "làm ơn / xin mời",
+      "example": "Please say it again.",
+      "exampleVi": "Làm ơn nói lại giùm tôi."
+    },
+    {
+      "en": "no problem",
+      "ipa": "/noʊ ˈprɒb.ləm/",
+      "vi": "không sao đâu",
+      "example": "— Sorry! — No problem.",
+      "exampleVi": "— Xin lỗi! — Không sao đâu."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "Bạn vô tình giẫm chân người khác. Bạn nói gì?",
+      "options": ["You're welcome!", "Sorry!", "Please!", "Thank you!"],
+      "answer": 1,
+      "explain": "Khi mình có lỗi thì nói \"Sorry\". \"Excuse me\" chỉ dùng khi muốn đi qua hoặc bắt chuyện."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "You're welcome",
+      "options": ["Cảm ơn bạn", "Xin lỗi", "Không có gì", "Làm ơn"],
+      "answer": 2,
+      "explain": "\"You're welcome\" là câu đáp lại lời cảm ơn — nghĩa là \"không có gì\"."
+    },
+    {
+      "type": "choice",
+      "question": "Muốn nhờ ai đó giúp đỡ một cách lịch sự, bạn nên thêm từ nào?",
+      "options": ["sorry", "please", "thanks", "goodbye"],
+      "answer": 1,
+      "explain": "\"Please\" = làm ơn, thêm vào để câu nhờ trở nên lịch sự."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"___ me, where is the station?\" (Xin lỗi, nhà ga ở đâu ạ?)",
+      "answer": "excuse",
+      "explain": "\"Excuse me\" dùng khi bắt chuyện người lạ."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "No problem",
+      "options": ["Không sao đâu", "Cảm ơn nhé", "Tạm biệt", "Chào buổi sáng"],
+      "answer": 0
+    }
+  ]
+}

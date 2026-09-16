@@ -1,0 +1,62 @@
+{
+  "slug": "do-an-uong",
+  "stage": 2,
+  "order": 7,
+  "title": "Đồ ăn & đồ uống",
+  "goal": "Gọi tên 8 món đồ ăn, thức uống quen thuộc và gọi món đơn giản.",
+  "minutes": 6,
+  "intro": "Đi quán cà phê, nhà hàng hay siêu thị — đây là những từ bạn sẽ gặp liên tục. Học xong bài này, bạn đã có thể gọi món kiểu \"Tea, please\" (cho tôi trà).",
+  "notes": [
+    "\"Water, please\" = cho tôi nước. Thêm \"please\" ở cuối là lịch sự rồi.",
+    "Rice = cơm/gạo, bread = bánh mì, chicken = gà (thịt gà).",
+    "\"I like…\" = tôi thích. Ví dụ: \"I like coffee\" (tôi thích cà phê).",
+    "Milk = sữa. \"Milk tea\" = trà sữa — từ này chắc bạn gặp nhiều!"
+  ],
+  "vocab": [
+    { "en": "water", "ipa": "/ˈwɑː.t̬ɚ/", "vi": "nước (uống)", "example": "Water, please.", "exampleVi": "Cho tôi một ly nước." },
+    { "en": "rice", "ipa": "/raɪs/", "vi": "cơm", "example": "I eat rice every day.", "exampleVi": "Tôi ăn cơm mỗi ngày." },
+    { "en": "bread", "ipa": "/bred/", "vi": "bánh mì", "example": "This bread is good.", "exampleVi": "Bánh mì này ngon đấy." },
+    { "en": "milk", "ipa": "/mɪlk/", "vi": "sữa", "example": "A glass of milk, please.", "exampleVi": "Cho tôi một ly sữa." },
+    { "en": "coffee", "ipa": "/ˈkɒf.i/", "vi": "cà phê", "example": "I drink coffee in the morning.", "exampleVi": "Tôi uống cà phê vào buổi sáng." },
+    { "en": "tea", "ipa": "/tiː/", "vi": "trà", "example": "Hot tea, please.", "exampleVi": "Cho tôi trà nóng." },
+    { "en": "chicken", "ipa": "/ˈtʃɪk.ɪn/", "vi": "gà / thịt gà", "example": "I like chicken.", "exampleVi": "Tôi thích thịt gà." },
+    { "en": "apple", "ipa": "/ˈæp.əl/", "vi": "quả táo", "example": "An apple a day.", "exampleVi": "Mỗi ngày một quả táo." }
+  ],
+  "quiz": [
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của từ:",
+      "word": "bread",
+      "options": ["cơm", "bánh mì", "sữa", "trà"],
+      "answer": 1,
+      "explain": "bread = bánh mì. Còn bird (chim) và beard (râu) nghe hơi giống nhưng nghĩa khác hẳn."
+    },
+    {
+      "type": "choice",
+      "question": "Muốn gọi một ly nước một cách lịch sự, bạn nói:",
+      "options": ["Water!", "Give water!", "Water, please.", "I water."],
+      "answer": 2,
+      "explain": "\"Water, please\" — ngắn, đúng và lịch sự. Đây là mẫu câu dùng được với mọi món."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của từ:",
+      "word": "chicken",
+      "options": ["cá", "thịt bò", "thịt gà", "trứng"],
+      "answer": 2
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"I drink ___ in the morning.\" (Tôi uống cà phê vào buổi sáng.)",
+      "answer": "coffee",
+      "explain": "coffee = cà phê."
+    },
+    {
+      "type": "choice",
+      "question": "\"Milk tea\" là gì?",
+      "options": ["trà chanh", "trà sữa", "cà phê sữa", "nước cam"],
+      "answer": 1,
+      "explain": "milk = sữa + tea = trà → trà sữa. Ghép hai từ là ra món mới!"
+    }
+  ]
+}

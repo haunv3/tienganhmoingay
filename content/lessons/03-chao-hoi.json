@@ -1,0 +1,102 @@
+{
+  "slug": "chao-hoi",
+  "stage": 1,
+  "order": 3,
+  "title": "Chào hỏi cơ bản",
+  "goal": "Chào hỏi người khác theo buổi trong ngày và hỏi thăm sức khỏe đơn giản.",
+  "minutes": 6,
+  "intro": "Chào hỏi là câu đầu tiên bạn nên thuộc — dùng được ngay khi gặp người nước ngoài. Tiếng Anh chia lời chào theo thời điểm trong ngày: sáng, chiều, tối. Bấm 🔊 nghe rồi đọc theo to nhé.",
+  "notes": [
+    "\"Good morning\" dùng tới trưa, \"good afternoon\" dùng buổi chiều, \"good evening\" dùng buổi tối. Tối đi ngủ thì nói \"good night\" (chúc ngủ ngon), KHÔNG dùng để chào.",
+    "\"How are you?\" là cách hỏi \"Bạn có khỏe không?\". Trả lời quen thuộc nhất: \"I'm fine, thank you\".",
+    "\"Hi\" thân mật hơn \"Hello\" — dùng với bạn bè, người quen.",
+    "Muốn chào tạm biệt lịch sự: \"Goodbye\". Thân mật hơn: \"See you later\" (hẹn gặp lại)."
+  ],
+  "vocab": [
+    {
+      "en": "hello",
+      "ipa": "/həˈloʊ/",
+      "vi": "xin chào",
+      "example": "Hello, everyone!",
+      "exampleVi": "Xin chào mọi người!"
+    },
+    {
+      "en": "good morning",
+      "ipa": "/ɡʊd ˈmɔːr.nɪŋ/",
+      "vi": "chào buổi sáng",
+      "example": "Good morning, teacher!",
+      "exampleVi": "Chào buổi sáng, cô/thầy!"
+    },
+    {
+      "en": "good evening",
+      "ipa": "/ɡʊd ˈiːv.nɪŋ/",
+      "vi": "chào buổi tối",
+      "example": "Good evening, sir.",
+      "exampleVi": "Chào buổi tối, ngài."
+    },
+    {
+      "en": "goodbye",
+      "ipa": "/ˌɡʊdˈbaɪ/",
+      "vi": "tạm biệt",
+      "example": "Goodbye, see you!",
+      "exampleVi": "Tạm biệt, hẹn gặp lại!"
+    },
+    {
+      "en": "see you later",
+      "ipa": "/siː juː ˈleɪ.t̬ɚ/",
+      "vi": "hẹn gặp lại",
+      "example": "See you later, my friend!",
+      "exampleVi": "Hẹn gặp lại bạn nhé!"
+    },
+    {
+      "en": "How are you?",
+      "ipa": "/haʊ ɑːr juː/",
+      "vi": "Bạn có khỏe không?",
+      "example": "Hi! How are you?",
+      "exampleVi": "Chào bạn! Bạn khỏe không?"
+    },
+    {
+      "en": "I'm fine, thank you",
+      "ipa": "/aɪm faɪn θæŋk juː/",
+      "vi": "Tôi khỏe, cảm ơn bạn",
+      "example": "I'm fine, thank you. And you?",
+      "exampleVi": "Tôi khỏe, cảm ơn. Còn bạn thì sao?"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "8 giờ sáng gặp đồng nghiệp, bạn nói gì?",
+      "options": ["Good evening", "Good night", "Good morning", "Goodbye"],
+      "answer": 2,
+      "explain": "Buổi sáng dùng \"Good morning\". \"Good night\" là chúc ngủ ngon, không phải chào."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "How are you?",
+      "options": ["Tạm biệt", "Bạn có khỏe không?", "Cảm ơn bạn", "Xin chào buổi tối"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "question": "Người ta hỏi \"How are you?\" — câu trả lời nào phù hợp nhất?",
+      "options": ["Good morning!", "I'm fine, thank you.", "See you later!", "Good night!"],
+      "answer": 1,
+      "explain": "Hỏi \"Bạn khỏe không?\" thì đáp \"Tôi khỏe, cảm ơn\" — có thể thêm \"And you?\" (còn bạn?)."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"___ you later!\" (Hẹn gặp lại!)",
+      "answer": "see",
+      "explain": "\"See you later\" = hẹn gặp lại."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "Goodbye, see you!",
+      "options": ["Chào buổi sáng!", "Tạm biệt, hẹn gặp lại!", "Bạn khỏe không?", "Chúc ngủ ngon!"],
+      "answer": 1
+    }
+  ]
+}

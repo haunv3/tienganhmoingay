@@ -1,0 +1,61 @@
+{
+  "slug": "i-am",
+  "stage": 3,
+  "order": 11,
+  "title": "Câu đầu tiên: \"I am…\"",
+  "goal": "Tự nói được những câu đầu tiên về bản thân: I am happy. I'm a student…",
+  "minutes": 7,
+  "intro": "Chúc mừng bạn đến chặng cuối! Giờ ta ghép từ thành câu. Mẫu câu đầu tiên và quan trọng nhất: \"I am…\" = \"Tôi là… / Tôi thì…\". Với mẫu này, bạn có thể nói về chính mình được rồi.",
+  "notes": [
+    "\"I am\" viết tắt thành \"I'm\" — nghĩa y hệt, nói tự nhiên hơn: \"I'm fine\".",
+    "Chỉ dùng \"am\" với \"I\" thôi nhé. Nói với người khác sẽ dùng \"are\" (bài sau sẽ học).",
+    "Sau \"I am\" có thể là tính từ: I am happy (tôi vui), I am tired (tôi mệt), I am hungry (tôi đói).",
+    "Hoặc là nghề/nhận dạng: I am a student (tôi là học sinh), I am a teacher (tôi là giáo viên)."
+  ],
+  "vocab": [
+    { "en": "I am", "ipa": "/aɪ æm/", "vi": "tôi là / tôi thì", "example": "I am here.", "exampleVi": "Tôi ở đây." },
+    { "en": "I'm", "ipa": "/aɪm/", "vi": "tôi là (viết tắt của I am)", "example": "I'm fine.", "exampleVi": "Tôi khỏe." },
+    { "en": "happy", "ipa": "/ˈhæp.i/", "vi": "vui vẻ / hạnh phúc", "example": "I am happy today.", "exampleVi": "Hôm nay tôi vui." },
+    { "en": "tired", "ipa": "/taɪɚd/", "vi": "mệt", "example": "I'm tired now.", "exampleVi": "Bây giờ tôi mệt rồi." },
+    { "en": "hungry", "ipa": "/ˈhʌŋ.ɡri/", "vi": "đói", "example": "I am hungry!", "exampleVi": "Tôi đói rồi!" },
+    { "en": "a student", "ipa": "/ə ˈstjuː.dənt/", "vi": "một học sinh / sinh viên", "example": "I am a student.", "exampleVi": "Tôi là sinh viên." },
+    { "en": "a teacher", "ipa": "/ə ˈtiː.tʃɚ/", "vi": "một giáo viên", "example": "She is a teacher.", "exampleVi": "Cô ấy là giáo viên." },
+    { "en": "Vietnamese", "ipa": "/ˌvjet.nəˈmiːz/", "vi": "người Việt / tiếng Việt", "example": "I am Vietnamese.", "exampleVi": "Tôi là người Việt Nam." }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "\"I'm hungry\" nghĩa là gì?",
+      "options": ["Tôi mệt rồi", "Tôi đói rồi", "Tôi vui lắm", "Tôi về nhà"],
+      "answer": 1,
+      "explain": "I'm = I am, hungry = đói → \"Tôi đói rồi\"."
+    },
+    {
+      "type": "choice",
+      "question": "\"I am\" viết tắt là gì?",
+      "options": ["I' m", "I'm", "Im", "I am't"],
+      "answer": 1,
+      "explain": "I'm — dấu nháy thay cho chữ a bị lược bỏ. Trong văn nói hầu như ai cũng dùng I'm."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"I ___ Vietnamese.\" (Tôi là người Việt Nam.)",
+      "answer": "am",
+      "explain": "I am Vietnamese. \"am\" chỉ đi với \"I\"."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "I am a student",
+      "options": ["Tôi là giáo viên", "Tôi là sinh viên", "Tôi là người Việt", "Tôi đang học bài"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "question": "Câu nào SAI?",
+      "options": ["I am happy.", "I'm tired.", "I am student.", "I am a teacher."],
+      "answer": 2,
+      "explain": "Phải có \"a\": I am A student. Quên \"a\" là lỗi cực kỳ phổ biến!"
+    }
+  ]
+}

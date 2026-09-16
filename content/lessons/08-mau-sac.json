@@ -1,0 +1,61 @@
+{
+  "slug": "mau-sac",
+  "stage": 2,
+  "order": 8,
+  "title": "Màu sắc",
+  "goal": "Nói tên 8 màu cơ bản và mô tả màu của một vật.",
+  "minutes": 5,
+  "intro": "Màu sắc giúp bạn mô tả mọi thứ: \"a red car\" (một chiếc xe đỏ). Trong tiếng Anh, màu đứng TRƯỚC danh từ — ngược với tiếng Việt đấy.",
+  "notes": [
+    "Thứ tự khác tiếng Việt: tiếng Việt nói \"chiếc xe đỏ\", tiếng Anh nói \"a red car\" — màu trước, vật sau.",
+    "\"It is red\" = Nó màu đỏ. Mẫu câu mô tả đơn giản nhất.",
+    "orange vừa là \"quả cam\" vừa là \"màu cam\" — cùng một từ!",
+    "white /waɪt/ đọc là \"wai-t\", black /blæk/ đọc là \"blắc\"."
+  ],
+  "vocab": [
+    { "en": "red", "ipa": "/red/", "vi": "màu đỏ", "example": "The apple is red.", "exampleVi": "Quả táo màu đỏ." },
+    { "en": "blue", "ipa": "/bluː/", "vi": "màu xanh dương", "example": "The sky is blue.", "exampleVi": "Bầu trời màu xanh dương." },
+    { "en": "green", "ipa": "/ɡriːn/", "vi": "màu xanh lá", "example": "The tree is green.", "exampleVi": "Cái cây màu xanh lá." },
+    { "en": "yellow", "ipa": "/ˈjel.oʊ/", "vi": "màu vàng", "example": "The banana is yellow.", "exampleVi": "Quả chuối màu vàng." },
+    { "en": "black", "ipa": "/blæk/", "vi": "màu đen", "example": "My phone is black.", "exampleVi": "Điện thoại của tôi màu đen." },
+    { "en": "white", "ipa": "/waɪt/", "vi": "màu trắng", "example": "The house is white.", "exampleVi": "Ngôi nhà màu trắng." },
+    { "en": "orange", "ipa": "/ˈɒr.ɪndʒ/", "vi": "màu cam", "example": "I have an orange bag.", "exampleVi": "Tôi có một chiếc túi màu cam." },
+    { "en": "pink", "ipa": "/pɪŋk/", "vi": "màu hồng", "example": "Her dress is pink.", "exampleVi": "Váy của cô ấy màu hồng." }
+  ],
+  "quiz": [
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của từ:",
+      "word": "white",
+      "options": ["màu đen", "màu trắng", "màu xanh dương", "màu hồng"],
+      "answer": 1,
+      "explain": "white = trắng. Đọc là /waɪt/ — có âm \"h\" nhẹ ở đầu."
+    },
+    {
+      "type": "choice",
+      "question": "The sky is ___ . (Bầu trời màu ___.)",
+      "options": ["black", "blue", "pink", "white"],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "question": "Điền màu còn thiếu: \"The banana is ___ .\" (Quả chuối màu ___.)",
+      "answer": "yellow",
+      "explain": "yellow = màu vàng."
+    },
+    {
+      "type": "choice",
+      "question": "Trong tiếng Anh, cụm \"một chiếc xe đỏ\" nói thế nào?",
+      "options": ["a car red", "a red car", "red a car", "a car is red"],
+      "answer": 1,
+      "explain": "Màu đứng TRƯỚC danh từ: a red car. Đây là điểm khác tiếng Việt cần nhớ."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "My phone is black",
+      "options": ["Điện thoại của tôi màu trắng", "Điện thoại của tôi màu đen", "Tôi thích màu đen", "Đây là màu hồng"],
+      "answer": 1
+    }
+  ]
+}

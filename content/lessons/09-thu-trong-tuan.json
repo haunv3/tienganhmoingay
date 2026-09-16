@@ -1,0 +1,62 @@
+{
+  "slug": "thu-trong-tuan",
+  "stage": 2,
+  "order": 9,
+  "title": "Các ngày trong tuần",
+  "goal": "Nói tên 7 ngày trong tuần và biết cách hỏi \"Hôm nay thứ mấy?\".",
+  "minutes": 6,
+  "intro": "Lịch làm việc, hẹn giờ, đặt vé — tất cả đều cần ngày trong tuần. Tiếng Anh luôn VIẾT HOA chữ đầu của tên ngày: Monday, Tuesday… không phải monday.",
+  "notes": [
+    "Tiếng Anh tính tuần bắt đầu từ Monday (thứ hai) — ngày đầu tuần.",
+    "Wednesday /ˈwenz.deɪ/ đọc là \"wen-zdei\" — chữ \"d\" giữa im lặng, nhiều người bản xứ cũng viết sai từ này!",
+    "Saturday /ˈsæt.ə.deɪ/ và Sunday /ˈsʌn.deɪ/ là cuối tuần (weekend).",
+    "Hỏi: \"What day is it today?\" (Hôm nay thứ mấy?) — Trả lời: \"It's Monday\"."
+  ],
+  "vocab": [
+    { "en": "Monday", "ipa": "/ˈmʌn.deɪ/", "vi": "thứ hai", "example": "I work on Monday.", "exampleVi": "Tôi làm việc vào thứ hai." },
+    { "en": "Tuesday", "ipa": "/ˈtuːz.deɪ/", "vi": "thứ ba", "example": "See you on Tuesday.", "exampleVi": "Gặp bạn vào thứ ba nhé." },
+    { "en": "Wednesday", "ipa": "/ˈwenz.deɪ/", "vi": "thứ tư", "example": "Wednesday is busy.", "exampleVi": "Thứ tư thì bận." },
+    { "en": "Thursday", "ipa": "/ˈθɝːz.deɪ/", "vi": "thứ năm", "example": "Thursday, 7 p.m.", "exampleVi": "Thứ năm, 7 giờ tối." },
+    { "en": "Friday", "ipa": "/ˈfraɪ.deɪ/", "vi": "thứ sáu", "example": "Friday night!", "exampleVi": "Tối thứ sáu!" },
+    { "en": "Saturday", "ipa": "/ˈsæt.ɚ.deɪ/", "vi": "thứ bảy", "example": "I rest on Saturday.", "exampleVi": "Tôi nghỉ vào thứ bảy." },
+    { "en": "Sunday", "ipa": "/ˈsʌn.deɪ/", "vi": "chủ nhật", "example": "Sunday is family day.", "exampleVi": "Chủ nhật là ngày của gia đình." },
+    { "en": "weekend", "ipa": "/ˈwiː.kend/", "vi": "cuối tuần", "example": "Have a nice weekend!", "exampleVi": "Chúc bạn cuối tuần vui vẻ!" }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "Hôm nay thứ mấy? — hỏi bằng tiếng Anh thế nào?",
+      "options": ["What time is it?", "What day is it today?", "How are you?", "Where are you?"],
+      "answer": 1,
+      "explain": "\"What day is it today?\" — day là ngày/thứ. Còn \"What time\" là hỏi giờ."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn ngày bạn vừa nghe:",
+      "word": "Wednesday",
+      "options": ["Thứ ba", "Thứ tư", "Thứ năm", "Thứ sáu"],
+      "answer": 1,
+      "explain": "Wednesday = thứ tư, đọc /ˈwenz.deɪ/ — chữ d giữa không đọc."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"I don't work on ___ .\" (Tôi không làm việc vào cuối tuần.)",
+      "answer": "weekend",
+      "explain": "weekend = cuối tuần (thứ bảy + chủ nhật)."
+    },
+    {
+      "type": "choice",
+      "question": "Ngày nào viết sai chính tả?",
+      "options": ["Monday", "Sunday", "saturday", "Friday"],
+      "answer": 2,
+      "explain": "Tên ngày phải viết hoa chữ đầu: Saturday. Đây là lỗi chính tả rất hay gặp."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn ngày bạn vừa nghe:",
+      "word": "Friday",
+      "options": ["Thứ hai", "Thứ năm", "Thứ sáu", "Chủ nhật"],
+      "answer": 2
+    }
+  ]
+}

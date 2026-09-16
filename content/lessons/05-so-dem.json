@@ -1,0 +1,63 @@
+{
+  "slug": "so-dem",
+  "stage": 2,
+  "order": 5,
+  "title": "Số đếm 1–10",
+  "goal": "Đếm từ 1 đến 10 bằng tiếng Anh và nghe hiểu khi người khác đọc số.",
+  "minutes": 6,
+  "intro": "Số đếm là nền của rất nhiều thứ: giá tiền, giờ giấc, số điện thoại. Mười số này cần thuộc \"nghiến\" — nghe và đếm theo nhiều lần cho tới khi thành phản xạ.",
+  "notes": [
+    "Ba (3) và free (miễn phí) nghe giống nhau: three đọc là /θriː/ — đầu lưỡi chạm răng trên.",
+    "Sáu (6) và bệnh (sick = ốm) khác nhau: six là /sɪks/. Chú ý âm cuối \"ks\".",
+    "Chín (9) đọc là /naɪn/ — gần giống \"nai-n\".",
+    "Mẹo: nghe bài hát đếm 1–10 trên mạng cũng là cách luyện rất hiệu quả."
+  ],
+  "vocab": [
+    { "en": "one", "ipa": "/wʌn/", "vi": "một", "example": "One apple, please.", "exampleVi": "Cho tôi một quả táo." },
+    { "en": "two", "ipa": "/tuː/", "vi": "hai", "example": "Two coffees, please.", "exampleVi": "Cho hai ly cà phê." },
+    { "en": "three", "ipa": "/θriː/", "vi": "ba", "example": "I have three books.", "exampleVi": "Tôi có ba quyển sách." },
+    { "en": "four", "ipa": "/fɔːr/", "vi": "bốn", "example": "Four days a week.", "exampleVi": "Bốn ngày một tuần." },
+    { "en": "five", "ipa": "/faɪv/", "vi": "năm", "example": "Give me five!", "exampleVi": "Chạm tay nào (đập bàn tay)!" },
+    { "en": "six", "ipa": "/sɪks/", "vi": "sáu", "example": "Six o'clock.", "exampleVi": "Sáu giờ." },
+    { "en": "seven", "ipa": "/ˈsev.ən/", "vi": "bảy", "example": "Seven days in a week.", "exampleVi": "Bảy ngày trong một tuần." },
+    { "en": "eight", "ipa": "/eɪt/", "vi": "tám", "example": "Eight students.", "exampleVi": "Tám học sinh." },
+    { "en": "nine", "ipa": "/naɪn/", "vi": "chín", "example": "Nine o'clock.", "exampleVi": "Chín giờ." },
+    { "en": "ten", "ipa": "/ten/", "vi": "mười", "example": "Ten minutes.", "exampleVi": "Mười phút." }
+  ],
+  "quiz": [
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn số bạn vừa nghe:",
+      "word": "three",
+      "options": ["3", "6", "8", "10"],
+      "answer": 0,
+      "explain": "three = 3. Âm đầu /θ/ hơi khó — đầu lưỡi chạm nhẹ răng trên rồi thở ra."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn số bạn vừa nghe:",
+      "word": "seven",
+      "options": ["6", "7", "9", "5"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "question": "Số \"8\" đọc là gì?",
+      "options": ["/eɪt/ (êyt)", "/eɡ/ (ếch)", "/eɪtʃ/ (êch)", "/naɪn/ (nain)"],
+      "answer": 0,
+      "explain": "eight đọc /eɪt/ — giống chữ A kéo dài cộng \"t\". Không có âm \"g\" dù trong chữ có G!"
+    },
+    {
+      "type": "fill",
+      "question": "Điền số còn thiếu bằng chữ: \"one, two, ___, four…\" (1, 2, ?, 4)",
+      "answer": "three",
+      "explain": "three = 3."
+    },
+    {
+      "type": "choice",
+      "question": "Người bán nói \"five dollars\". Bạn phải trả bao nhiêu?",
+      "options": ["4 đô", "5 đô", "6 đô", "15 đô"],
+      "answer": 1
+    }
+  ]
+}

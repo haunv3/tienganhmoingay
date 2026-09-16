@@ -1,0 +1,60 @@
+{
+  "slug": "tong-ket",
+  "stage": 3,
+  "order": 15,
+  "title": "Tổng kết: nói câu của riêng bạn",
+  "goal": "Tự ghép từ đã học thành câu hoàn chỉnh và tự giới thiệu bản thân bằng 4 câu.",
+  "minutes": 8,
+  "intro": "Đây là bài cuối của lộ trình khởi đầu! Bạn đã có trong tay: từ vựng, \"I am…\", \"This is…\", \"Where is…?\", \"my/your\". Bài này ta ghép tất cả thành những câu thật. Học xong, hãy tự giới thiệu bản thân bằng tiếng Anh — lần đầu tiên!",
+  "notes": [
+    "Bộ 4 câu tự giới thiệu chuẩn: \"Hello! My name is Lan. I am Vietnamese. I am a student. Thank you!\"",
+    "Ghép từ thành câu cũng như ghép lego: chủ thể (I, this, my book) + động từ (is, am) + phần còn lại.",
+    "Mẫu \"Where is my ___?\" dùng được ngay: Where is my phone? Where is my key?",
+    "Sau lộ trình này: quay lại mục Ôn Tập mỗi ngày để giữ từ vựng, rồi chờ các chặng mới nhé!"
+  ],
+  "vocab": [
+    { "en": "My name is…", "ipa": "/maɪ neɪm ɪz/", "vi": "Tên tôi là…", "example": "My name is Hung.", "exampleVi": "Tên tôi là Hưng." },
+    { "en": "I am Vietnamese", "ipa": "/aɪ æm ˌvjet.nəˈmiːz/", "vi": "Tôi là người Việt Nam", "example": "I am Vietnamese.", "exampleVi": "Tôi là người Việt Nam." },
+    { "en": "This is my family", "ipa": "/ðɪs ɪz maɪ ˈfæm.ə.li/", "vi": "Đây là gia đình của tôi", "example": "This is my family.", "exampleVi": "Đây là gia đình của tôi." },
+    { "en": "I am at home", "ipa": "/aɪ æm ət hoʊm/", "vi": "Tôi đang ở nhà", "example": "I am at home now.", "exampleVi": "Bây giờ tôi đang ở nhà." },
+    { "en": "Where is my phone?", "ipa": "/wer ɪz maɪ foʊn/", "vi": "Điện thoại của tôi ở đâu?", "example": "Where is my phone?", "exampleVi": "Điện thoại của tôi ở đâu nhỉ?" },
+    { "en": "Nice to meet you", "ipa": "/naɪs tə miːt juː/", "vi": "Rất vui được gặp bạn", "example": "Nice to meet you, Lan!", "exampleVi": "Rất vui được gặp bạn, Lan!" },
+    { "en": "see you tomorrow", "ipa": "/siː juː təˈmɒr.oʊ/", "vi": "hẹn gặp bạn ngày mai", "example": "Goodbye! See you tomorrow.", "exampleVi": "Tạm biệt! Hẹn gặp lại ngày mai." }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "Ghép câu tự giới thiệu đúng nhất:",
+      "options": ["Name my is Lan.", "I my name Lan.", "My name is Lan.", "Is my name Lan."],
+      "answer": 2,
+      "explain": "\"My name is Lan\" — my (của tôi) + name (tên) + is (là) + tên riêng."
+    },
+    {
+      "type": "choice",
+      "question": "Khi mới gặp ai đó, sau khi nghe tên bạn nên nói:",
+      "options": ["See you tomorrow!", "Where is your name?", "Nice to meet you!", "I am hungry."],
+      "answer": 2,
+      "explain": "\"Nice to meet you!\" = Rất vui được gặp bạn — câu nói ngay sau khi được giới thiệu."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "This is my family",
+      "options": ["Đây là ngôi nhà của tôi", "Đây là gia đình của tôi", "Tôi yêu gia đình", "Gia đình tôi ở đây"],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"Hello! ___ name is Mai.\" (Xin chào! Tên tôi là Mai.)",
+      "answer": "my",
+      "explain": "\"My name is Mai\" — my = của tôi."
+    },
+    {
+      "type": "choice",
+      "question": "Bạn muốn hỏi điện thoại của mình ở đâu. Câu nào đúng?",
+      "options": ["What is my phone?", "Where is my phone?", "My phone is here.", "It's a phone."],
+      "answer": 1,
+      "explain": "Hỏi nơi chốn → Where is…? \"Where is my phone?\" — câu này bạn sẽ dùng mỗi ngày đấy!"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "slug": "cau-hoi-what",
+  "stage": 3,
+  "order": 12,
+  "title": "Hỏi \"Cái gì?\" với What",
+  "goal": "Hỏi và trả lời \"Cái này là gì?\" — This is… / It's a…",
+  "minutes": 7,
+  "intro": "Bạn đã biết nói \"I am…\". Giờ học hỏi người khác. Mẫu câu vàng: \"What is this?\" (Cái này là gì?) và \"It's a book\" (Nó là một quyển sách). Chỉ và hỏi là cách học từ mới nhanh nhất!",
+  "notes": [
+    "this = cái này (gần mình), that = cái kia (xa mình). Gần thì this, xa thì that!",
+    "\"What's\" = \"What is\" — trong câu hỏi người ta hầu như luôn dùng dạng tắt: What's this?",
+    "Trả lời ngắn gọn: \"It's a pen\". It's = It is = nó là.",
+    "Đây là mẫu câu siêu mạnh: thay \"a pen\" bằng bất kỳ từ nào bạn biết — apple, chair, key… là câu mới ngay!"
+  ],
+  "vocab": [
+    { "en": "what", "ipa": "/wɒt/", "vi": "cái gì", "example": "What is this?", "exampleVi": "Cái này là gì?" },
+    { "en": "this", "ipa": "/ðɪs/", "vi": "cái này (gần)", "example": "This is my desk.", "exampleVi": "Đây là bàn của tôi." },
+    { "en": "that", "ipa": "/ðæt/", "vi": "cái kia (xa)", "example": "What is that?", "exampleVi": "Cái kia là gì vậy?" },
+    { "en": "it's", "ipa": "/ɪts/", "vi": "nó là (viết tắt của it is)", "example": "It's a dog.", "exampleVi": "Nó là một con chó." },
+    { "en": "a book", "ipa": "/ə bʊk/", "vi": "một quyển sách", "example": "It's a book.", "exampleVi": "Nó là một quyển sách." },
+    { "en": "a pen", "ipa": "/ə pen/", "vi": "một cây bút", "example": "This is a pen.", "exampleVi": "Đây là một cây bút." },
+    { "en": "a bag", "ipa": "/ə bæɡ/", "vi": "một chiếc túi / balô", "example": "That is a big bag.", "exampleVi": "Cái kia là một chiếc túi to." }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "\"What is this?\" nghĩa là gì?",
+      "options": ["Bạn ở đâu?", "Cái này là gì?", "Bạn là ai?", "Bây giờ mấy giờ?"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "question": "Cây bút đang ở trên tay bạn (gần). Bạn nói:",
+      "options": ["That is a pen", "This is a pen", "It is far", "I am a pen"],
+      "answer": 1,
+      "explain": "Vật gần mình thì dùng this. Vật xa mới dùng that."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "It's a book",
+      "options": ["Đây là cây bút", "Nó là một quyển sách", "Đó là cái túi", "Tôi thích sách"],
+      "answer": 1
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"___ is a big bag.\" (Cái kia là một chiếc túi to.)",
+      "answer": "that",
+      "explain": "that = cái kia (xa). this = cái này (gần)."
+    },
+    {
+      "type": "choice",
+      "question": "\"What's\" là viết tắt của gì?",
+      "options": ["What was", "What has", "What is", "What does"],
+      "answer": 2,
+      "explain": "What's = What is. Dạng tắt này cực kỳ phổ biến trong nói và viết hàng ngày."
+    }
+  ]
+}

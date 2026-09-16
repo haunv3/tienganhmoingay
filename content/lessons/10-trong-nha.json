@@ -1,0 +1,60 @@
+{
+  "slug": "trong-nha",
+  "stage": 2,
+  "order": 10,
+  "title": "Đồ vật trong nhà",
+  "goal": "Gọi tên 8 đồ vật quen thuộc quanh nhà và nói \"Đây là…\".",
+  "minutes": 5,
+  "intro": "Cách học nhanh nhất cho bài này: đi vòng quanh nhà, chỉ vào đồ vật và gọi tên nó bằng tiếng Anh. Bàn, ghế, cửa, giường… học xong là cả phòng bạn \"thành lớp học\".",
+  "notes": [
+    "\"This is a table\" = Đây là một cái bàn. Mẫu câu chỉ và gọi tên cơ bản nhất.",
+    "Chú ý \"a\" trước danh từ đếm được số ít: a chair, a book, a phone.",
+    "Key = chìa khóa. Keys = nhiều chìa khóa (thêm \"s\" thành số nhiều).",
+    "House = ngôi nhà (cái nhà), home = nhà theo nghĩa tổ ấm (\"I'm home\" = tôi về nhà rồi)."
+  ],
+  "vocab": [
+    { "en": "house", "ipa": "/haʊs/", "vi": "ngôi nhà", "example": "My house is small.", "exampleVi": "Nhà tôi thì nhỏ." },
+    { "en": "table", "ipa": "/ˈteɪ.bəl/", "vi": "cái bàn", "example": "The book is on the table.", "exampleVi": "Quyển sách ở trên bàn." },
+    { "en": "chair", "ipa": "/tʃer/", "vi": "cái ghế", "example": "Sit on this chair.", "exampleVi": "Ngồi lên chiếc ghế này." },
+    { "en": "door", "ipa": "/dɔːr/", "vi": "cái cửa", "example": "Please close the door.", "exampleVi": "Làm ơn đóng cửa lại." },
+    { "en": "window", "ipa": "/ˈwɪn.doʊ/", "vi": "cửa sổ", "example": "Open the window, please.", "exampleVi": "Làm ơn mở cửa sổ." },
+    { "en": "bed", "ipa": "/bed/", "vi": "cái giường", "example": "The cat is on the bed.", "exampleVi": "Con mèo nằm trên giường." },
+    { "en": "phone", "ipa": "/foʊn/", "vi": "điện thoại", "example": "Where is my phone?", "exampleVi": "Điện thoại của tôi ở đâu?" },
+    { "en": "key", "ipa": "/kiː/", "vi": "chìa khóa", "example": "I lost my keys.", "exampleVi": "Tôi làm mất chìa khóa rồi." }
+  ],
+  "quiz": [
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của từ:",
+      "word": "window",
+      "options": ["cái cửa", "cửa sổ", "cái giường", "bức tường"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "question": "Bạn muốn nhờ ai đó đóng cửa lại. Bạn nói:",
+      "options": ["Close the door, please.", "Open the door, please.", "The door is big.", "Where is the door?"],
+      "answer": 0,
+      "explain": "close = đóng, open = mở. \"Please\" để lịch sự."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"Where is my ___? I can't find it!\" (Điện thoại tôi đâu? Sao tìm không thấy!)",
+      "answer": "phone",
+      "explain": "phone = điện thoại."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "The cat is on the bed",
+      "options": ["Con mèo ở trên giường", "Con chó ở dưới gầm bàn", "Con mèo màu đen", "Cái ghế thì nhỏ"],
+      "answer": 0
+    },
+    {
+      "type": "choice",
+      "question": "\"key\" nghĩa là gì?",
+      "options": ["cái chìa khóa", "cái bàn", "ngôi nhà", "quyển sách"],
+      "answer": 0
+    }
+  ]
+}

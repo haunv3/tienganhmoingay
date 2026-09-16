@@ -1,0 +1,61 @@
+{
+  "slug": "gia-dinh",
+  "stage": 2,
+  "order": 6,
+  "title": "Gia đình",
+  "goal": "Gọi tên các thành viên trong gia đình bằng tiếng Anh.",
+  "minutes": 5,
+  "intro": "Khi giao tiếp, ai cũng sẽ hỏi về gia đình bạn. Tám từ này giúp bạn trả lời được ngay: \"This is my mother\" (Đây là mẹ tôi).",
+  "notes": [
+    "Mother = mẹ, father = bố. Cách gọi thân mật: mom (mẹ) và dad (bố).",
+    "Brother = anh/em trai, sister = chị/em gái. Tiếng Anh không phân biệt anh hay em, lớn hay nhỏ như tiếng Việt.",
+    "Grandmother = bà, grandfather = ông. Tiền tố \"grand-\" nghĩa là thế hệ trên một bậc.",
+    "Family đọc là /ˈfæm.ə.li/ — \"fa-mơ-li\"."
+  ],
+  "vocab": [
+    { "en": "family", "ipa": "/ˈfæm.ə.li/", "vi": "gia đình", "example": "I love my family.", "exampleVi": "Tôi yêu gia đình của tôi." },
+    { "en": "mother", "ipa": "/ˈmʌð.ɚ/", "vi": "mẹ", "example": "My mother cooks well.", "exampleVi": "Mẹ tôi nấu ăn rất ngon." },
+    { "en": "father", "ipa": "/ˈfɑː.ðɚ/", "vi": "bố", "example": "My father is a driver.", "exampleVi": "Bố tôi là tài xế." },
+    { "en": "brother", "ipa": "/ˈbrʌð.ɚ/", "vi": "anh / em trai", "example": "This is my brother.", "exampleVi": "Đây là anh tôi." },
+    { "en": "sister", "ipa": "/ˈsɪs.tɚ/", "vi": "chị / em gái", "example": "My sister is ten.", "exampleVi": "Em gái tôi mười tuổi." },
+    { "en": "son", "ipa": "/sʌn/", "vi": "con trai", "example": "His son is very tall.", "exampleVi": "Con trai anh ấy rất cao." },
+    { "en": "daughter", "ipa": "/ˈdɔː.t̬ɚ/", "vi": "con gái", "example": "Her daughter is cute.", "exampleVi": "Con gái chị ấy dễ thương." },
+    { "en": "grandmother", "ipa": "/ˈɡræn.mʌð.ɚ/", "vi": "bà", "example": "My grandmother is 80.", "exampleVi": "Bà tôi 80 tuổi." }
+  ],
+  "quiz": [
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của từ:",
+      "word": "brother",
+      "options": ["chị/em gái", "anh/em trai", "bố", "ông"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "question": "Từ nào có nghĩa là \"con gái\"?",
+      "options": ["son", "daughter", "sister", "mother"],
+      "answer": 1,
+      "explain": "daughter = con gái, son = con trai."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"This is my ___. She is my mother's mother.\" (Đây là ___ — mẹ của mẹ tôi.)",
+      "answer": "grandmother",
+      "explain": "Mẹ của mẹ/bố là grandmother = bà."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "This is my family",
+      "options": ["Đây là bạn tôi", "Đây là gia đình tôi", "Tôi yêu gia đình", "Đây là bố tôi"],
+      "answer": 1
+    },
+    {
+      "type": "choice",
+      "question": "\"Mom\" và \"dad\" là cách gọi gì?",
+      "options": ["Cách gọi lịch sự", "Cách gọi thân mật của mother và father", "Tên ông bà", "Tên anh chị em"],
+      "answer": 1,
+      "explain": "mom/dad là cách gọi thân mật, giống gọi \"mẹ ơi\"/\"bố ơi\" trong tiếng Việt."
+    }
+  ]
+}

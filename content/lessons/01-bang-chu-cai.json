@@ -1,0 +1,112 @@
+{
+  "slug": "bang-chu-cai",
+  "stage": 1,
+  "order": 1,
+  "title": "Bảng chữ cái ABC",
+  "goal": "Nhận diện 26 chữ cái tiếng Anh và đọc đúng tên của 8 chữ cái đầu tiên.",
+  "minutes": 5,
+  "intro": "Tiếng Anh có 26 chữ cái, viết y hệt bảng chữ cái tiếng Việt nhưng không có dấu (ă, â, đ, ơ, ư...). Mỗi chữ cái có một \"tên\" riêng để đọc. Bài này ta học tên của 8 chữ cái đầu tiên.",
+  "notes": [
+    "A, H, J, K đều có âm /eɪ/ (đọc gần giống \"êi\") — nghe rất giống nhau, phải tập phân biệt.",
+    "E đọc là /iː/ (gần giống \"i\" kéo dài) — KHÔNG đọc là \"ê\" như tiếng Việt nhé!",
+    "G đọc là /dʒiː/ (gần giống \"gi\"), còn J đọc là /dʒeɪ/ (gần giống \"jay\") — hai chữ này hay bị nhầm.",
+    "H đọc là /eɪtʃ/ — bắt đầu bằng âm \"ê\" như chữ A, rồi kết thúc bằng \"ch\"."
+  ],
+  "vocab": [
+    {
+      "en": "A",
+      "ipa": "/eɪ/",
+      "vi": "chữ A (đọc: êi)",
+      "example": "A is the first letter.",
+      "exampleVi": "A là chữ cái đầu tiên."
+    },
+    {
+      "en": "B",
+      "ipa": "/biː/",
+      "vi": "chữ B (đọc: bi)",
+      "example": "B is for banana.",
+      "exampleVi": "B là của banana (quả chuối)."
+    },
+    {
+      "en": "C",
+      "ipa": "/siː/",
+      "vi": "chữ C (đọc: xi)",
+      "example": "C is for cat.",
+      "exampleVi": "C là của cat (con mèo)."
+    },
+    {
+      "en": "D",
+      "ipa": "/diː/",
+      "vi": "chữ D (đọc: đi)",
+      "example": "D is for dog.",
+      "exampleVi": "D là của dog (con chó)."
+    },
+    {
+      "en": "E",
+      "ipa": "/iː/",
+      "vi": "chữ E (đọc: i)",
+      "example": "E is for egg.",
+      "exampleVi": "E là của egg (quả trứng)."
+    },
+    {
+      "en": "F",
+      "ipa": "/ef/",
+      "vi": "chữ F (đọc: ép-ph)",
+      "example": "F is for fish.",
+      "exampleVi": "F là của fish (con cá)."
+    },
+    {
+      "en": "G",
+      "ipa": "/dʒiː/",
+      "vi": "chữ G (đọc: gi)",
+      "example": "G is for girl.",
+      "exampleVi": "G là của girl (cô gái)."
+    },
+    {
+      "en": "H",
+      "ipa": "/eɪtʃ/",
+      "vi": "chữ H (đọc: êch)",
+      "example": "H is for hand.",
+      "exampleVi": "H là của hand (bàn tay)."
+    }
+  ],
+  "quiz": [
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn đây là chữ cái nào:",
+      "word": "B",
+      "options": ["B", "D", "E", "P"],
+      "answer": 0,
+      "explain": "B đọc là /biː/ (bi), D đọc là /diː/ (đi) — nghe hơi giống nhau nên chú ý nhé."
+    },
+    {
+      "type": "choice",
+      "question": "Chữ \"E\" được đọc tên như thế nào?",
+      "options": ["/eɪ/ (êi)", "/iː/ (i)", "/e/ (ê)", "/eɡ/ (ếch)"],
+      "answer": 1,
+      "explain": "E đọc là /iː/ — giống chữ \"i\" tiếng Việt kéo dài, không phải \"ê\" đâu!"
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn đây là chữ cái nào:",
+      "word": "G",
+      "options": ["J", "G", "Z", "C"],
+      "answer": 1,
+      "explain": "G đọc /dʒiː/ (gi), J đọc /dʒeɪ/ (jay). G giống \"gi\" tiếng Việt hơn."
+    },
+    {
+      "type": "choice",
+      "question": "Tiếng Anh có bao nhiêu chữ cái?",
+      "options": ["24 chữ", "26 chữ", "27 chữ", "29 chữ"],
+      "answer": 1,
+      "explain": "26 chữ — ít hơn tiếng Việt vì không có các chữ có dấu như ă, ơ, đ."
+    },
+    {
+      "type": "choice",
+      "question": "Nhóm chữ nào đều đọc có âm /eɪ/ (êi) ở đầu?",
+      "options": ["A, H, J, K", "B, C, D, E", "F, L, M, N", "O, Q, U, W"],
+      "answer": 0,
+      "explain": "Đây là mẹo nhớ rất hữu ích: A, H, J, K cùng một \"gia đình\" âm /eɪ/."
+    }
+  ]
+}

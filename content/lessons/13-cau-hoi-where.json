@@ -1,0 +1,61 @@
+{
+  "slug": "cau-hoi-where",
+  "stage": 3,
+  "order": 13,
+  "title": "Hỏi \"Ở đâu?\" với Where",
+  "goal": "Hỏi và trả lời nơi chốn: Where is…? — It's at home.",
+  "minutes": 7,
+  "intro": "Tìm điện thoại, hỏi đường, hẹn gặp — đều cần \"Where\". Mẫu câu: \"Where is the station?\" (Nhà ga ở đâu?) và \"It's here\" (Nó ở đây). Bài này kết hợp với các từ bài trước là bạn hỏi đáp được rồi!",
+  "notes": [
+    "\"Where is…?\" đọc nhanh thành \"Where's…\" (weərz) — nghĩa y hệt.",
+    "Trả lời thường bắt đầu bằng \"It's\": It's at home (nó ở nhà), It's here (nó ở đây).",
+    "at = ở (một điểm): at home, at school, at work.",
+    "on = ở trên, in = ở trong: on the table (trên bàn), in the bag (trong túi). Ba từ nhỏ này dùng cực kỳ nhiều!"
+  ],
+  "vocab": [
+    { "en": "where", "ipa": "/wer/", "vi": "ở đâu", "example": "Where is the key?", "exampleVi": "Chìa khóa ở đâu?" },
+    { "en": "home", "ipa": "/hoʊm/", "vi": "nhà (tổ ấm)", "example": "I'm at home.", "exampleVi": "Tôi đang ở nhà." },
+    { "en": "school", "ipa": "/skuːl/", "vi": "trường học", "example": "The school is big.", "exampleVi": "Trường học thì to." },
+    { "en": "work", "ipa": "/wɝːk/", "vi": "nơi làm việc / công việc", "example": "I go to work at 8.", "exampleVi": "Tôi đi làm lúc 8 giờ." },
+    { "en": "here", "ipa": "/hɪr/", "vi": "ở đây", "example": "The pen is here.", "exampleVi": "Cây bút ở đây." },
+    { "en": "the bathroom", "ipa": "/ðə ˈbæθ.ruːm/", "vi": "phòng tắm / nhà vệ sinh", "example": "Where is the bathroom?", "exampleVi": "Nhà vệ sinh ở đâu ạ?" },
+    { "en": "on the table", "ipa": "/ɒn ðə ˈteɪ.bəl/", "vi": "trên bàn", "example": "Your keys are on the table.", "exampleVi": "Chìa khóa của bạn ở trên bàn." },
+    { "en": "in the bag", "ipa": "/ɪn ðə bæɡ/", "vi": "trong túi", "example": "The phone is in the bag.", "exampleVi": "Điện thoại nằm trong túi." }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "Muốn hỏi \"Nhà vệ sinh ở đâu?\", bạn nói:",
+      "options": ["What is the bathroom?", "Where is the bathroom?", "It's the bathroom.", "The bathroom is big."],
+      "answer": 1,
+      "explain": "Hỏi nơi chốn luôn bắt đầu bằng \"Where is…?\". Câu này dùng được ngay khi đi du lịch!"
+    },
+    {
+      "type": "choice",
+      "question": "\"I'm at home\" nghĩa là gì?",
+      "options": ["Tôi đang đi làm", "Tôi đang ở nhà", "Tôi muốn về nhà", "Tôi thích ở nhà"],
+      "answer": 1
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "The phone is in the bag",
+      "options": ["Điện thoại ở trên bàn", "Điện thoại trong túi", "Điện thoại ở đây", "Điện thoại là của tôi"],
+      "answer": 1,
+      "explain": "in = ở trong. on = ở trên. Nhớ cặp đôi này nhé!"
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"Your keys are ___ the table.\" (Chìa khóa của bạn ở trên bàn.)",
+      "answer": "on",
+      "explain": "on the table = trên bàn."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "Where is my key?",
+      "options": ["Chìa khóa của tôi ở đâu?", "Đây là chìa khóa", "Chìa khóa trong túi", "Tôi mất chìa khóa"],
+      "answer": 0
+    }
+  ]
+}

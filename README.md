@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌞 Tiếng Anh Mỗi Ngày
 
-## Getting Started
+Website học tiếng Anh cho **người mất gốc**: đơn giản, mỗi ngày 5 phút, 100% tiếng Việt, không cần đăng nhập.
 
-First, run the development server:
+## Tính năng
+
+- **Lộ trình 3 chặng, 15 bài học** (khởi động → từ vựng sống còn → câu đầu tiên), bài sau mở khi xong bài trước.
+- **Mỗi bài 4 bước**: mục tiêu → từ vựng (nghe phát âm từng từ) → ghi nhớ → kiểm tra tương tác.
+- **3 dạng kiểm tra**: trắc nghiệm, điền từ, nghe-chọn — phản hồi đúng/sai ngay kèm giải thích.
+- **Học mỗi ngày**: hệ thống tự chọn bài hôm nay, tính chuỗi ngày học liên tiếp (streak 🔥).
+- **Ôn tập flashcards**: thuật toán lặp lại ngắt quãng (Leitner) — từ "chưa nhớ" quay lại sớm hơn.
+- **Phát âm miễn phí** bằng Web Speech API của trình duyệt, không cần file audio.
+- **Tiến độ lưu trên máy** (localStorage), không cần tài khoản.
+
+## Chạy dự án
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Mở [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Build production:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build && npm start
+```
 
-## Learn More
+## Cấu trúc
 
-To learn more about Next.js, take a look at the following resources:
+```
+content/lessons/     Nội dung 15 bài học (JSON) — soạn/chỉnh sửa bài học ở đây
+src/app/             Các trang: /, /lo-trinh, /bai-hoc/[slug], /hoc-ngay, /on-tap
+src/components/      LessonView, QuizRunner, FlashcardsClient, Header…
+src/lib/             types, lessons (nạp nội dung), progress (localStorage), speech (TTS)
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Thêm bài học mới
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Tạo file `content/lessons/16-ten-bai.json` theo cấu trúc của các bài hiện có.
+2. Thêm `import` và đưa vào mảng `raw` trong `src/lib/lessons.ts`.
+3. Đặt `order` tăng dần, `stage` thuộc 1–3. Xong!
 
-## Deploy on Vercel
+## Deploy
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Push lên GitHub rồi import repo vào [Vercel](https://vercel.com/new) (hoặc Netlify) — không cần cấu hình gì thêm vì toàn bộ trang đều là tĩnh.

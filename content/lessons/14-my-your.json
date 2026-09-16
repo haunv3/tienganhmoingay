@@ -1,0 +1,61 @@
+{
+  "slug": "my-your",
+  "stage": 3,
+  "order": 14,
+  "title": "Của tôi & của bạn: My / Your",
+  "goal": "Nói sở hữu: my book (sách của tôi), your name (tên của bạn).",
+  "minutes": 6,
+  "intro": "Chỉ cần hai từ nhỏ \"my\" và \"your\" là bạn có thể nói sở hữu: \"My name is Lan\" (Tên tôi là Lan) — câu tự giới thiệu quan trọng nhất! Đặt my/your TRƯỚC danh từ, giống \"của tôi\" đứng sau trong tiếng Việt thôi.",
+  "notes": [
+    "my = của tôi, your = của bạn/của anh/của chị — tiếng Anh không phân biệt anh/chị/em như tiếng Việt.",
+    "his = của anh ấy, her = của cô ấy — giờ biết luôn 4 từ sở hữu!",
+    "Hỏi tên: \"What's your name?\" — Trả lời: \"My name is Hung.\" (hoặc ngắn gọn: \"I'm Hung.\")",
+    "Luôn đặt my/your/his/her TRƯỚC danh từ: my car, your house, his bag, her book."
+  ],
+  "vocab": [
+    { "en": "my", "ipa": "/maɪ/", "vi": "của tôi", "example": "My name is Lan.", "exampleVi": "Tên tôi là Lan." },
+    { "en": "your", "ipa": "/jʊr/", "vi": "của bạn", "example": "What's your name?", "exampleVi": "Bạn tên gì?" },
+    { "en": "his", "ipa": "/hɪz/", "vi": "của anh ấy", "example": "His car is new.", "exampleVi": "Xe của anh ấy còn mới." },
+    { "en": "her", "ipa": "/hɝː/", "vi": "của cô ấy", "example": "Her bag is red.", "exampleVi": "Túi của cô ấy màu đỏ." },
+    { "en": "name", "ipa": "/neɪm/", "vi": "tên", "example": "Nice name!", "exampleVi": "Tên đẹp đấy!" },
+    { "en": "house", "ipa": "/haʊs/", "vi": "ngôi nhà", "example": "My house is here.", "exampleVi": "Nhà tôi ở đây." },
+    { "en": "car", "ipa": "/kɑːr/", "vi": "xe hơi", "example": "Is this your car?", "exampleVi": "Đây là xe của bạn à?" },
+    { "en": "bag", "ipa": "/bæɡ/", "vi": "túi / balô", "example": "Her bag is on the chair.", "exampleVi": "Túi của cô ấy ở trên ghế." }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "Muốn hỏi tên người đối diện, bạn nói:",
+      "options": ["What's your name?", "My name is Hung.", "Where is your name?", "You are name?"],
+      "answer": 0,
+      "explain": "\"What's your name?\" — hỏi tên chuẩn nhất. Trả lời: \"My name is…\""
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe và chọn nghĩa của câu:",
+      "word": "His car is new",
+      "options": ["Xe của tôi còn mới", "Xe của cô ấy còn mới", "Xe của anh ấy còn mới", "Đây là xe mới"],
+      "answer": 2,
+      "explain": "his = của anh ấy, her = của cô ấy. Nghe kỹ để phân biệt!"
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ còn thiếu: \"___ house is small.\" (Nhà tôi thì nhỏ.)",
+      "answer": "my",
+      "explain": "my house = nhà của tôi."
+    },
+    {
+      "type": "choice",
+      "question": "\"Her bag is red\" — túi màu đỏ của ai?",
+      "options": ["Của tôi", "Của bạn", "Của anh ấy", "Của cô ấy"],
+      "answer": 3
+    },
+    {
+      "type": "choice",
+      "question": "Câu nào đúng thứ tự từ?",
+      "options": ["Red is my bag.", "My bag is red.", "Bag my is red.", "Is my red bag."],
+      "answer": 1,
+      "explain": "\"My bag is red\" — chủ ngữ (túi của tôi) rồi mới đến màu sắc."
+    }
+  ]
+}
