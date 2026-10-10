@@ -76,8 +76,10 @@ export function getProgress(): Progress {
 
 function saveProgress(p: Progress) {
   progressCache = p;
-  localStorage.setItem(PROGRESS_KEY, JSON.stringify(p));
+  let persisted = true;
+  try { localStorage.setItem(PROGRESS_KEY, JSON.stringify(p)); } catch { persisted = false; }
   emit();
+  return persisted;
 }
 
 export function useProgress(): Progress {
@@ -95,7 +97,7 @@ export function completeLesson(slug: string) {
     p.streak = p.lastDate === yesterday ? p.streak + 1 : 1;
     p.lastDate = t;
   }
-  saveProgress(p);
+  return saveProgress(p);
 }
 
 export function hasStudiedToday(): boolean {
@@ -135,7 +137,7 @@ export function getSrs(): Record<string, SrsCard> {
 
 function saveSrs(srs: Record<string, SrsCard>) {
   srsCache = srs;
-  localStorage.setItem(SRS_KEY, JSON.stringify(srs));
+  try { localStorage.setItem(SRS_KEY, JSON.stringify(srs)); } catch { /* Keep this session usable when storage is blocked. */ }
   emit();
 }
 

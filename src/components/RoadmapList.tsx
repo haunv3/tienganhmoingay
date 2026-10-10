@@ -21,7 +21,7 @@ export default function RoadmapList({ stages, lessons }: Props) {
   const percent = Math.round((finishedCount / lessons.length) * 100);
 
   return (
-    <div>
+    <div className="roadmap-view">
       <div className="mb-8 rounded-2xl bg-white p-5 shadow-sm">
         <div className="flex items-center justify-between font-bold">
           <span>
@@ -30,7 +30,7 @@ export default function RoadmapList({ stages, lessons }: Props) {
           </span>
           <span className="text-emerald-600">{percent}%</span>
         </div>
-        <div className="mt-3 h-3 rounded-full bg-emerald-100">
+        <div role="progressbar" aria-label="Tiến độ lộ trình" aria-valuenow={percent} aria-valuemin={0} aria-valuemax={100} className="mt-3 h-3 rounded-full bg-emerald-100">
           <div
             className="h-3 rounded-full bg-emerald-500 transition-all"
             style={{ width: `${percent}%` }}
@@ -40,7 +40,7 @@ export default function RoadmapList({ stages, lessons }: Props) {
 
       <div className="grid gap-10">
         {stages.map((stage) => (
-          <section key={stage.id}>
+          <section key={stage.id} className="roadmap-stage">
             <div className="mb-1 flex items-center gap-2">
               <span className="text-3xl">{stage.icon}</span>
               <h2 className="text-2xl font-extrabold text-slate-900">{stage.title}</h2>
@@ -77,8 +77,8 @@ export default function RoadmapList({ stages, lessons }: Props) {
                         {isDone ? "✓" : isOpen ? lesson.order : "🔒"}
                       </span>
                       <div className="min-w-0">
-                        <p className="font-bold text-slate-900">{lesson.title}</p>
-                        <p className="truncate text-sm text-slate-500">{lesson.goal}</p>
+                        <div className="flex flex-wrap items-center gap-2"><p className="font-bold text-slate-900">{lesson.title}</p>{isDone && <span className="text-xs font-medium text-emerald-700">Đã hoàn thành</span>}{isOpen && !isDone && <span className="rounded-full bg-emerald-100 px-2 py-1 text-xs font-medium text-emerald-800">Bài tiếp theo</span>}</div>
+                        <p className="text-sm text-slate-500">{lesson.goal}</p>
                       </div>
                     </div>
                   );
@@ -88,7 +88,7 @@ export default function RoadmapList({ stages, lessons }: Props) {
                       {isOpen ? (
                         <Link href={`/bai-hoc/${lesson.slug}`}>{inner}</Link>
                       ) : (
-                        <div title="Hoàn thành bài trước để mở khóa">{inner}</div>
+                        <div aria-disabled="true">{inner}<p className="ml-4 mt-1 text-xs text-slate-500">Hoàn thành bài {lessons[index - 1].order} để mở bài này</p></div>
                       )}
                     </li>
                   );

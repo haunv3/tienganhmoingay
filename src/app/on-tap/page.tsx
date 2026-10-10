@@ -17,7 +17,8 @@ export default function OnTapPage() {
   return (
     <div>
       <div className="mx-auto max-w-2xl px-4 pt-10 text-center">
-        <h1 className="text-3xl font-extrabold text-slate-900">🃏 Ôn tập</h1>
+        <p className="eyebrow justify-center">GÓC ÔN TẬP CỦA BẠN</p>
+        <h1 className="text-3xl font-extrabold text-slate-900">Nhớ thêm một chút, mỗi ngày.</h1>
         <p className="mt-2 text-slate-600">
           Lật thẻ, tự nhớ nghĩa rồi chọn “Nhớ” hoặc “Chưa nhớ”. Từ nào chưa nhớ sẽ
           quay lại sớm hơn để bạn học kỹ.

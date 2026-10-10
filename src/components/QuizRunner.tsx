@@ -53,6 +53,8 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
       {q.type === "fill" ? (
         <div>
           <input
+            aria-label="Câu trả lời của bạn"
+            autoComplete="off"
             value={fillValue}
             onChange={(e) => setFillValue(e.target.value)}
             onKeyDown={(e) => {
@@ -116,6 +118,7 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
 
       {answerState === "answered" && (
         <div
+          role="status"
           className={`mt-5 rounded-xl p-4 ${
             isRight ? "bg-emerald-50" : "bg-rose-50"
           }`}

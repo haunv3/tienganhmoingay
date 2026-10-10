@@ -24,8 +24,7 @@ export default function LessonView({ lesson, nextSlug }: Props) {
   function finishQuiz(correct: number, total: number) {
     setResult({ correct, total });
     if (correct / total >= 0.6) {
-      completeLesson(lesson.slug);
-      setSaved(true);
+      setSaved(completeLesson(lesson.slug));
     }
   }
 
@@ -88,24 +87,28 @@ export default function LessonView({ lesson, nextSlug }: Props) {
   }
 
   return (
-    <div className="mx-auto max-w-2xl px-4 py-8">
-      <p className="text-sm font-semibold text-emerald-600">Bài {lesson.order}</p>
+    <div className="lesson-view mx-auto max-w-2xl px-4 py-10 sm:py-14">
+      <Link href="/lo-trinh" className="text-button">← Về lộ trình</Link>
+      <p className="eyebrow mt-6">BÀI {String(lesson.order).padStart(2, "0")} · {lesson.minutes} PHÚT</p>
       <h1 className="text-3xl font-extrabold text-slate-900">{lesson.title}</h1>
 
       {/* Thanh tiến trình 4 bước */}
       <ol className="mt-6 grid grid-cols-4 gap-1.5" aria-label="Tiến trình bài học">
         {STEPS.map((label, i) => (
-          <li key={label}>
+          <li key={label} aria-current={i === step ? "step" : undefined}>
             <div
               className={`h-2 rounded-full ${i <= step ? "bg-emerald-500" : "bg-emerald-100"}`}
             />
-            <p
+            <button
+              type="button"
+              disabled={i > step}
+              onClick={() => setStep(i)}
               className={`mt-1 text-center text-xs font-semibold ${
                 i === step ? "text-emerald-700" : "text-slate-400"
               }`}
             >
               {label}
-            </p>
+            </button>
           </li>
         ))}
       </ol>
@@ -185,6 +188,9 @@ export default function LessonView({ lesson, nextSlug }: Props) {
         )}
       </div>
 
+      {step > 0 && (
+        <button type="button" onClick={() => setStep(s => s - 1)} className="text-button mt-6">← Xem lại bước trước</button>
+      )}
       {result === null && step < 3 && (
         <button
           type="button"

@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { useState } from "react";
 import type { Vocab } from "@/lib/types";
 import { isDue, reviewWord, useSrs } from "@/lib/progress";
@@ -39,18 +40,18 @@ export default function FlashcardsClient({ cards }: Props) {
             <span>Đã ôn: {reviewed}</span>
           </div>
 
-          <div className="rounded-3xl border border-emerald-100 bg-white p-8 text-center shadow-md">
+          <div className="flashcard rounded-3xl border border-emerald-100 bg-white p-6 sm:p-10 text-center shadow-md">
             <p className="text-xs font-semibold uppercase tracking-wide text-slate-400">
               {dueCards[0].lessonTitle}
             </p>
             <div className="mt-6 flex items-center justify-center gap-4">
-              <p className="text-5xl font-extrabold text-slate-900">{dueCards[0].en}</p>
+              <p className="break-words text-3xl sm:text-5xl font-extrabold text-slate-900">{dueCards[0].en}</p>
               <SpeakButton text={dueCards[0].en} size="lg" />
             </div>
             <p className="mt-2 text-slate-400">{dueCards[0].ipa}</p>
 
             {revealed ? (
-              <div className="mt-6 border-t border-emerald-100 pt-6">
+              <div aria-live="polite" className="mt-6 border-t border-emerald-100 pt-6">
                 <p className="text-2xl font-bold text-emerald-700">{dueCards[0].vi}</p>
                 {dueCards[0].example && (
                   <p className="mt-3 text-slate-600">
@@ -103,6 +104,7 @@ export default function FlashcardsClient({ cards }: Props) {
               ? `Bạn vừa ôn ${reviewed} thẻ. Nghỉ ngơi đi, mai quay lại nhé!`
               : "Hãy học thêm bài mới để có từ để ôn, hoặc quay lại vào ngày mai."}
           </p>
+          <Link href="/hoc-ngay" className="primary-button mt-6">Tiếp tục học →</Link>
         </div>
       )}
     </div>

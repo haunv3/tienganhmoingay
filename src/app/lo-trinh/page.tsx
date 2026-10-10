@@ -17,7 +17,8 @@ export default function LoTrinhPage() {
 
   return (
     <div className="mx-auto max-w-3xl px-4 py-10">
-      <h1 className="text-3xl font-extrabold text-slate-900">🗺️ Lộ trình học</h1>
+      <p className="eyebrow">15 BÀI HỌC · 3 CHẶNG NHỎ</p>
+      <h1 className="text-3xl font-extrabold text-slate-900">Lộ trình của bạn</h1>
       <p className="mt-2 text-lg text-slate-600">
         Học theo thứ tự từ trên xuống. Bài sau sẽ mở khi bạn xong bài trước — chậm
         mà chắc!
