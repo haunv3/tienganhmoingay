@@ -1,13 +1,15 @@
 "use client";
 
+import { vocabularyId } from "@/lib/vocabulary";
 import Link from "next/link";
 import { useState } from "react";
 import type { Vocab } from "@/lib/types";
-import { isDue, reviewWord, useSrs } from "@/lib/progress";
+import { isDue, reviewWord, useSrs, useProgress } from "@/lib/progress";
 import SpeakButton from "@/components/SpeakButton";
 
 interface Card extends Vocab {
   lessonTitle: string;
+  lessonSlug: string;
 }
 
 interface Props {
@@ -17,20 +19,25 @@ interface Props {
 // Flashcards lặp lại ngắt quãng: từ "chưa nhớ" quay lại sớm, từ "nhớ" quay lại muộn hơn.
 export default function FlashcardsClient({ cards }: Props) {
   const srs = useSrs();
+  const progress = useProgress();
+  const [allWords, setAllWords] = useState(false);
   const [revealed, setRevealed] = useState(false);
   const [reviewed, setReviewed] = useState(0);
 
   // Thẻ đến hạn: chưa từng ôn hoặc ngày ôn đã tới.
-  const dueCards = cards.filter((c) => isDue(srs[c.en]));
+  const eligible = cards.filter(c => allWords || progress.completed.includes(c.lessonSlug));
+  const unique = [...new Map(eligible.map(c => [vocabularyId(c), c])).values()];
+  const dueCards = unique.filter((c) => isDue(srs[vocabularyId(c)] ?? srs[c.en]));
 
   function grade(remembered: boolean) {
-    reviewWord(dueCards[0].en, remembered);
+    reviewWord(vocabularyId(dueCards[0]), remembered);
     setRevealed(false);
     setReviewed((n) => n + 1);
   }
 
   return (
     <div className="mx-auto max-w-2xl px-4 py-10">
+      <fieldset className="flex flex-wrap gap-4 mb-6 text-sm"><legend className="sr-only">Phạm vi ôn từ</legend><label className="flex gap-2 items-center"><input type="radio" name="review-scope" checked={!allWords} onChange={() => {setAllWords(false);setRevealed(false);}} />Từ đã học</label><label className="flex gap-2 items-center"><input type="radio" name="review-scope" checked={allWords} onChange={() => {setAllWords(true);setRevealed(false);}} />Khám phá toàn bộ</label></fieldset>
       {dueCards.length > 0 ? (
         <>
           <div className="mb-2 flex items-center justify-between text-sm font-semibold text-slate-500">
@@ -97,7 +104,7 @@ export default function FlashcardsClient({ cards }: Props) {
         <div className="py-8 text-center">
           <div className="text-7xl">🌟</div>
           <h1 className="mt-4 text-2xl font-extrabold">
-            {reviewed > 0 ? "Ôn xong hôm nay rồi!" : "Hôm nay không có thẻ nào cần ôn!"}
+            {reviewed > 0 ? "Ôn xong hôm nay rồi!" : !eligible.length ? "Học một bài để bắt đầu bộ từ của bạn." : "Hôm nay không có thẻ nào cần ôn!"}
           </h1>
           <p className="mt-2 text-slate-600">
             {reviewed > 0

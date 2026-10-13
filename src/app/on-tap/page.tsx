@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { COURSE_LESSONS } from "@/lib/curriculum";
 import { LESSONS } from "@/lib/lessons";
 import FlashcardsClient from "@/components/FlashcardsClient";
 
@@ -8,10 +9,10 @@ export const metadata: Metadata = {
 
 export default function OnTapPage() {
   // Gom toàn bộ từ vựng của các bài học thành bộ thẻ ôn tập
-  const cards = LESSONS.flatMap((lesson) =>
+  const cards = [...COURSE_LESSONS, ...LESSONS].flatMap((lesson) =>
     lesson.vocab
       .filter((v) => v.vi && v.vi !== "chữ cái")
-      .map((v) => ({ ...v, lessonTitle: `Bài ${lesson.order}: ${lesson.title}` })),
+      .map((v) => ({ ...v, lessonTitle: `${lesson.level === "foundation" ? "Nền tảng" : lesson.level ?? "Khởi động"} · Bài ${lesson.order}: ${lesson.title}`, lessonSlug: lesson.slug })),
   );
 
   return (

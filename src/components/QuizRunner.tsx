@@ -1,16 +1,18 @@
 "use client";
 
+import { matchesFill } from "@/lib/quiz";
 import { useState } from "react";
-import type { QuizQuestion } from "@/lib/types";
+import type { QuizQuestion, QuizMistake } from "@/lib/types";
 import { speak } from "@/lib/speech";
 
 interface Props {
   quiz: QuizQuestion[];
-  onFinish: (correct: number, total: number) => void;
+  onFinish: (correct: number, total: number, mistakes: QuizMistake[]) => void;
 }
 
 // Chạy lần lượt các câu hỏi: đúng/sai hiện ngay, hết bài trả kết quả.
 export default function QuizRunner({ quiz, onFinish }: Props) {
+  const [mistakes, setMistakes] = useState<QuizMistake[]>([]);
   const [index, setIndex] = useState(0);
   const [correct, setCorrect] = useState(0);
   const [answerState, setAnswerState] = useState<"answering" | "answered">("answering");
@@ -22,7 +24,9 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
   const questionText = "question" in q ? q.question : q.prompt;
   const isLast = index === quiz.length - 1;
 
-  function accept(right: boolean) {
+  function accept(right: boolean, given = fillValue) {
+    if (answerState !== "answering") return;
+    if (!right) setMistakes(items => [...items, {question: q.type === "listen" ? `${questionText} Bạn đã nghe: ${q.word}` : questionText, given, expected: q.type === "fill" ? q.answer : q.options[q.answer], explain: q.explain ?? "Hãy xem lại ví dụ trong bài."}]);
     setAnswerState("answered");
     setIsRight(right);
     if (right) setCorrect((c) => c + 1);
@@ -30,7 +34,7 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
 
   function next() {
     if (isLast) {
-      onFinish(correct, quiz.length);
+      onFinish(correct, quiz.length, mistakes);
       return;
     }
     setIndex((i) => i + 1);
@@ -48,8 +52,10 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
         <span>✅ Đúng: {correct}</span>
       </div>
 
-      <div className="mb-5 text-lg font-bold text-slate-800">{questionText}</div>
+      <div className="mb-5 whitespace-pre-line text-lg font-bold text-slate-800">{questionText}</div>
 
+      {q.type === "fill" && q.audio && <button type="button" onClick={() => speak(q.audio!)} aria-label="Nghe đoạn dùng cho câu điền" className="text-button mb-4">🔊 Nghe đoạn dùng cho câu này</button>}
+      {q.type === "fill" && q.maxWords && <p className="mb-3 text-sm text-slate-500">Tối đa {q.maxWords} từ hoặc số theo yêu cầu câu hỏi. Thừa giới hạn không được tính đúng.</p>}
       {q.type === "fill" ? (
         <div>
           <input
@@ -59,7 +65,7 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
             onChange={(e) => setFillValue(e.target.value)}
             onKeyDown={(e) => {
               if (e.key === "Enter" && answerState === "answering" && fillValue.trim()) {
-                accept(fillValue.trim().toLowerCase() === q.answer.toLowerCase());
+                accept(matchesFill(q, fillValue));
               }
             }}
             disabled={answerState === "answered"}
@@ -69,7 +75,7 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
           {answerState === "answering" && (
             <button
               type="button"
-              onClick={() => accept(fillValue.trim().toLowerCase() === q.answer.toLowerCase())}
+              onClick={() => accept(matchesFill(q, fillValue))}
               disabled={!fillValue.trim()}
               className="mt-4 w-full rounded-xl bg-emerald-600 py-3 font-bold text-white transition hover:bg-emerald-700 disabled:opacity-40"
             >
@@ -94,7 +100,7 @@ export default function QuizRunner({ quiz, onFinish }: Props) {
                 disabled={answerState === "answered"}
                 onClick={() => {
                   setPicked(i);
-                  accept(i === q.answer);
+                  accept(i === q.answer, opt);
                 }}
                 className={`rounded-xl border-2 px-4 py-3 text-left text-lg transition ${style}`}
               >

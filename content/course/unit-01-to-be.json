@@ -1,0 +1,244 @@
+{
+  "slug": "unit-01-to-be",
+  "stage": 2,
+  "order": 1,
+  "title": "To be: khẳng định và phủ định",
+  "goal": "Chọn đúng am, is, are và nói được bạn là ai, cảm thấy thế nào, đang ở đâu.",
+  "minutes": 15,
+  "intro": "Chia bài thành ba phiên nhỏ: làm quen từ, hiểu cách ghép câu, rồi kiểm tra. Bạn có thể dừng ở mỗi bước và quay lại khi sẵn sàng.",
+  "notes": [
+    "I đi với am. He, she, it hoặc một người/vật đi với is. You, we, they hoặc nhiều người/vật đi với are.",
+    "Đặt not ngay sau am/is/are để phủ định. I am not tired. = Tôi không mệt.",
+    "Dạng rút gọn: I’m, you’re, we’re, they’re, he’s, she’s, it’s. Phủ định có isn’t và aren’t; dùng I’m not, không dùng I amn’t.",
+    "To be có thể đi với danh từ, tính từ hoặc cụm chỉ nơi chốn. Không ghép thêm động từ nguyên mẫu: I am work là sai; nói I work khi muốn nói tôi làm việc."
+  ],
+  "vocab": [
+    {
+      "en": "I",
+      "ipa": "/aɪ/",
+      "vi": "tôi",
+      "example": "I am ready.",
+      "exampleVi": "Tôi đã sẵn sàng."
+    },
+    {
+      "en": "you",
+      "ipa": "/juː/",
+      "vi": "bạn / các bạn"
+    },
+    {
+      "en": "she",
+      "ipa": "/ʃiː/",
+      "vi": "cô ấy"
+    },
+    {
+      "en": "we",
+      "ipa": "/wiː/",
+      "vi": "chúng tôi / chúng ta"
+    },
+    {
+      "en": "they",
+      "ipa": "/ðeɪ/",
+      "vi": "họ / chúng"
+    },
+    {
+      "en": "ready",
+      "ipa": "/ˈredi/",
+      "vi": "sẵn sàng"
+    },
+    {
+      "en": "tired",
+      "ipa": "/ˈtaɪəd/",
+      "vi": "mệt",
+      "example": "We are not tired.",
+      "exampleVi": "Chúng tôi không mệt."
+    },
+    {
+      "en": "at home",
+      "ipa": "/ət həʊm/",
+      "vi": "ở nhà",
+      "example": "She is at home.",
+      "exampleVi": "Cô ấy ở nhà."
+    },
+    {
+      "en": "he",
+      "ipa": "/hiː/",
+      "vi": "anh ấy"
+    },
+    {
+      "en": "it",
+      "ipa": "/ɪt/",
+      "vi": "nó"
+    },
+    {
+      "en": "designer",
+      "ipa": "/dɪˈzaɪnə/",
+      "vi": "nhà thiết kế"
+    }
+  ],
+  "sections": [
+    {
+      "title": "Chọn một trong ba dạng",
+      "body": "Chủ ngữ quyết định dạng của to be. Hãy nhìn người hoặc vật được nói đến trước khi chọn động từ.",
+      "formula": "I + am · He/She/It + is · You/We/They + are",
+      "examples": [
+        {
+          "en": "I am a designer.",
+          "vi": "Tôi là một nhà thiết kế."
+        },
+        {
+          "en": "Mai is ready.",
+          "vi": "Mai đã sẵn sàng."
+        },
+        {
+          "en": "My friends are at home.",
+          "vi": "Các bạn của tôi ở nhà."
+        }
+      ]
+    },
+    {
+      "title": "Nói điều không đúng",
+      "body": "Thêm not sau to be. Phần còn lại của câu giữ nguyên.",
+      "formula": "Chủ ngữ + am/is/are + not + phần còn lại",
+      "examples": [
+        {
+          "en": "I am not late.",
+          "vi": "Tôi không đến muộn."
+        },
+        {
+          "en": "The room is not cold.",
+          "vi": "Căn phòng không lạnh."
+        },
+        {
+          "en": "They are not at school.",
+          "vi": "Họ không ở trường."
+        }
+      ]
+    },
+    {
+      "title": "Thử nói về chính bạn",
+      "body": "Đọc to ba câu dưới đây, rồi thay tên, cảm xúc hoặc địa điểm bằng thông tin của bạn.",
+      "examples": [
+        {
+          "en": "I am Linh.",
+          "vi": "Tôi là Linh."
+        },
+        {
+          "en": "I am happy.",
+          "vi": "Tôi vui."
+        },
+        {
+          "en": "I am at home.",
+          "vi": "Tôi ở nhà."
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "href": "/thu-vien/ipa",
+      "label": "Tra bảng IPA"
+    },
+    {
+      "href": "/thu-vien/cau-truc",
+      "label": "Xem cấu trúc to be"
+    }
+  ],
+  "quiz": [
+    {
+      "type": "choice",
+      "question": "I ___ ready.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": 2,
+      "explain": "I luôn đi với am ở hiện tại."
+    },
+    {
+      "type": "choice",
+      "question": "My friends ___ at home.",
+      "options": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answer": 0,
+      "explain": "My friends là nhiều người nên dùng are."
+    },
+    {
+      "type": "fill",
+      "question": "Điền to be: She ___ tired.",
+      "answer": "is",
+      "explain": "She đi với is."
+    },
+    {
+      "type": "choice",
+      "question": "Câu nào có nghĩa “Chúng tôi không đến muộn”?",
+      "options": [
+        "We are not late.",
+        "We not are late.",
+        "We is not late."
+      ],
+      "answer": 0,
+      "explain": "Not đứng sau are."
+    },
+    {
+      "type": "choice",
+      "question": "Dạng rút gọn của He is not ready là gì?",
+      "options": [
+        "He aren't ready.",
+        "He isn't ready.",
+        "He am not ready."
+      ],
+      "answer": 1,
+      "explain": "Is not rút gọn thành isn’t."
+    },
+    {
+      "type": "listen",
+      "prompt": "Nghe câu và chọn nghĩa phù hợp.",
+      "word": "I am at home.",
+      "options": [
+        "Tôi không ở nhà.",
+        "Tôi đang mệt.",
+        "Tôi ở nhà."
+      ],
+      "answer": 2,
+      "explain": "At home có nghĩa là ở nhà."
+    },
+    {
+      "type": "fill",
+      "question": "Điền từ phủ định: You are ___ tired.",
+      "answer": "not",
+      "explain": "Are not là dạng phủ định của are."
+    },
+    {
+      "type": "choice",
+      "question": "Câu nào đúng khi giới thiệu nghề nghiệp?",
+      "options": [
+        "I am a designer.",
+        "I a designer.",
+        "I are a designer."
+      ],
+      "answer": 0,
+      "explain": "Cần am sau I; a đứng trước danh từ nghề nghiệp số ít."
+    }
+  ],
+  "level": "A1",
+  "passMark": 0.8,
+  "reading": {
+    "title": "Một tin nhắn ngắn",
+    "en": "Hi, I am Linh. I am a designer. My friends are at home. They are not tired.",
+    "vi": "Chào, tôi là Linh. Tôi là nhà thiết kế. Bạn tôi ở nhà. Họ không mệt."
+  },
+  "practice": {
+    "speaking": "Giới thiệu tên, nghề nghiệp hoặc vai trò và cảm xúc của bạn bằng ba câu.",
+    "writing": "Viết ba câu có am/is/are, trong đó một câu phủ định.",
+    "model": "I am Linh. I am a student. I am not tired.",
+    "checklist": [
+      "Tôi chọn đúng am/is/are.",
+      "Tôi đặt not sau to be.",
+      "Tôi nói được câu của mình mà không nhìn mẫu."
+    ]
+  }
+}

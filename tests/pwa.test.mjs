@@ -1,7 +1,7 @@
-const { test } = require('node:test');
-const assert = require('node:assert/strict');
-const fs = require('node:fs');
-const vm = require('node:vm');
+import { test } from 'node:test';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import vm from 'node:vm';
 
 function worker(fetcher = async () => new Response('online', {headers: {'content-type': 'text/html'}})) {
   const handlers = {};
@@ -76,4 +76,9 @@ test('theme bootstrap respects saved choice, system setting and blocked storage'
     vm.runInNewContext(script, {document:{documentElement:root,querySelector:()=>null}, localStorage:{getItem(){if(blocked) throw Error(); return stored;}}, matchMedia:()=>({matches:systemDark,addEventListener(){}}),window:{dispatchEvent(){}},Event});
     assert.equal(root.dataset.theme, expected);
   }
+});
+test('practice illustration is cached for offline lessons',async()=>{
+ let fetched=0;const w=worker(async()=>{fetched++;return new Response('<svg/>');});
+ const req=request('https://app.test/practice/office-scene.svg','cors');
+ await fetchEvent(w,req);await fetchEvent(w,req);assert.equal(fetched,1);
 });

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { COURSE_LESSONS, nextLesson } from "@/lib/curriculum";
 import { notFound } from "next/navigation";
 import { getLesson, LESSONS } from "@/lib/lessons";
 import LessonView from "@/components/LessonView";
@@ -8,7 +9,7 @@ interface Props {
 }
 
 export function generateStaticParams() {
-  return LESSONS.map((l) => ({ slug: l.slug }));
+  return [...COURSE_LESSONS, ...LESSONS].map((l) => ({ slug: l.slug }));
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -22,8 +23,9 @@ export default async function LessonPage({ params }: Props) {
   const lesson = getLesson(slug);
   if (!lesson) notFound();
 
-  const index = LESSONS.findIndex((l) => l.slug === slug);
-  const next = LESSONS[index + 1];
+  const collection = COURSE_LESSONS.some(l => l.slug === slug) ? COURSE_LESSONS : LESSONS;
+  const index = collection.findIndex((l) => l.slug === slug);
+  const next = lesson.level ? nextLesson(slug) : collection[index + 1];
 
-  return <LessonView lesson={lesson} nextSlug={next?.slug ?? null} />;
+  return <LessonView key={lesson.slug} lesson={lesson} nextSlug={next?.slug ?? null} />;
 }

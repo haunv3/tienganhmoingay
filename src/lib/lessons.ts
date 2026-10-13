@@ -1,3 +1,4 @@
+import { COURSE_LESSONS } from "./curriculum";
 import type { Lesson, Stage } from "./types";
 
 import l01 from "../../content/lessons/01-bang-chu-cai.json";
@@ -47,7 +48,7 @@ export const LESSONS: Lesson[] = (raw as unknown as Lesson[]).sort(
 );
 
 export function getLesson(slug: string): Lesson | undefined {
-  return LESSONS.find((l) => l.slug === slug);
+  return [...COURSE_LESSONS, ...LESSONS].find((l) => l.slug === slug);
 }
 
 export function getStage(stageId: number): Stage | undefined {

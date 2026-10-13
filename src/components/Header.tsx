@@ -6,8 +6,10 @@ import ThemeToggle from "@/components/ThemeToggle";
 import { useState } from "react";
 
 const NAV = [
-  { href: "/lo-trinh", label: "Lộ trình" },
   { href: "/hoc-ngay", label: "Học mỗi ngày" },
+  { href: "/thu-vien", label: "Thư viện" },
+  { href: "/luyen-thi", label: "Luyện thi" },
+  { href: "/giao-tiep", label: "Giao tiếp" },
   { href: "/on-tap", label: "Ôn tập" },
 ];
 

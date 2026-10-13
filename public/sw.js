@@ -1,5 +1,5 @@
 /* Bump VERSION when changing the offline shell or releasing new app assets. */
-const VERSION = "tam-pwa-v1";
+const VERSION = "tam-pwa-v6";
 const STATIC_CACHE = `${VERSION}-static`;
 const PAGE_CACHE = `${VERSION}-pages`;
 const OFFLINE = "/offline.html";
@@ -38,7 +38,7 @@ self.addEventListener("fetch", event => {
     })());
     return;
   }
-  if (url.pathname.startsWith("/_next/static/") || url.pathname.startsWith("/icons/")) {
+  if (url.pathname.startsWith("/_next/static/") || url.pathname.startsWith("/icons/") || url.pathname.startsWith("/practice/")) {
     event.respondWith((async () => {
       const cache = await caches.open(STATIC_CACHE);
       const cached = await cache.match(request);

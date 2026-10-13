@@ -1,0 +1,6978 @@
+[
+  {
+    "slug": "nen-tang-chao-hoi",
+    "stage": 1,
+    "level": "foundation",
+    "order": 1,
+    "title": "Chào hỏi và nhờ nói chậm",
+    "goal": "Chào, cảm ơn và nhờ người khác nói chậm khi chưa hiểu.",
+    "minutes": 12,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "hello",
+        "ipa": "/həˈləʊ/",
+        "vi": "xin chào"
+      },
+      {
+        "en": "thanks",
+        "ipa": "/θæŋks/",
+        "vi": "cảm ơn"
+      },
+      {
+        "en": "please",
+        "ipa": "/pliːz/",
+        "vi": "làm ơn / xin"
+      },
+      {
+        "en": "sorry",
+        "ipa": "/ˈsɒri/",
+        "vi": "xin lỗi"
+      },
+      {
+        "en": "slowly",
+        "ipa": "/ˈsləʊli/",
+        "vi": "chậm"
+      },
+      {
+        "en": "again",
+        "ipa": "/əˈɡen/",
+        "vi": "lần nữa"
+      },
+      {
+        "en": "goodbye",
+        "ipa": "/ˌɡʊdˈbaɪ/",
+        "vi": "tạm biệt"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Bắt đầu bằng câu ngắn",
+        "body": "Chưa cần ghép câu dài. Học cả cụm và nghe lại trước khi đọc theo.",
+        "formula": "Hello. / Thank you.",
+        "examples": [
+          {
+            "en": "Hello, Mai.",
+            "vi": "Chào Mai."
+          },
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          }
+        ]
+      },
+      {
+        "title": "Nhờ hỗ trợ khi chưa hiểu",
+        "body": "Nói rõ nhu cầu sẽ giúp cuộc trò chuyện tiếp tục. Please làm lời đề nghị lịch sự hơn.",
+        "formula": "Please speak slowly.",
+        "examples": [
+          {
+            "en": "Please speak slowly.",
+            "vi": "Xin nói chậm."
+          },
+          {
+            "en": "Could you say that again?",
+            "vi": "Bạn nói lại được không?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không dịch từng chữ trong một lời chào; hãy nhớ cả cụm.",
+      "Đọc chậm và rõ trước, tăng tốc sau."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Bạn muốn cảm ơn. Chọn câu phù hợp.",
+        "options": [
+          "Goodbye.",
+          "Thank you.",
+          "Hello."
+        ],
+        "answer": 1,
+        "explain": "Thank you dùng để cảm ơn."
+      },
+      {
+        "type": "choice",
+        "question": "Bạn muốn người đối diện nói chậm.",
+        "options": [
+          "Please speak slowly.",
+          "Good night.",
+          "I am fine."
+        ],
+        "answer": 0,
+        "explain": "Speak slowly là nói chậm."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: Thank ___.",
+        "answer": "you",
+        "explain": "Cụm đầy đủ là Thank you."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Hello. Thank you.",
+        "options": [
+          "Tạm biệt và xin lỗi",
+          "Hỏi đường",
+          "Chào và cảm ơn"
+        ],
+        "answer": 2,
+        "explain": "Hello là lời chào; thank you là cảm ơn."
+      },
+      {
+        "type": "choice",
+        "question": "“Sorry” dùng khi nào?",
+        "options": [
+          "Khi xin lỗi",
+          "Khi nói giờ",
+          "Khi hỏi giá"
+        ],
+        "answer": 0,
+        "explain": "Sorry dùng để xin lỗi hoặc bày tỏ tiếc nuối."
+      },
+      {
+        "type": "choice",
+        "question": "Câu nào là lời đề nghị lịch sự?",
+        "options": [
+          "Blue bag.",
+          "Please help me.",
+          "Five books."
+        ],
+        "answer": 1,
+        "explain": "Please help me nghĩa là Xin giúp tôi."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “xin chào”?",
+        "options": [
+          "hello",
+          "thanks",
+          "please"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, hello nghĩa là xin chào."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "please",
+        "options": [
+          "xin chào",
+          "cảm ơn",
+          "làm ơn / xin"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy please: làm ơn / xin."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Mai: Hello! Ben: Hello, Mai. Mai: Please speak slowly. Ben: Of course.",
+      "vi": "Mai: Xin chào! Ben: Chào Mai. Mai: Xin nói chậm. Ben: Được thôi."
+    },
+    "practice": {
+      "speaking": "Nói một lời chào, một lời cảm ơn và một lời nhờ nói chậm.",
+      "writing": "Viết hai cụm bạn sẽ dùng khi bắt đầu học.",
+      "model": "Hello. Please speak slowly.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "nen-tang-danh-van",
+    "stage": 1,
+    "level": "foundation",
+    "order": 2,
+    "title": "Chữ cái và đánh vần tên",
+    "goal": "Nhận biết cách đánh vần tên và hỏi lại tên.",
+    "minutes": 12,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "name",
+        "ipa": "/neɪm/",
+        "vi": "tên"
+      },
+      {
+        "en": "spell",
+        "ipa": "/spel/",
+        "vi": "đánh vần"
+      },
+      {
+        "en": "letter",
+        "ipa": "/ˈletə/",
+        "vi": "chữ cái"
+      },
+      {
+        "en": "email",
+        "ipa": "/ˈiːmeɪl/",
+        "vi": "thư điện tử"
+      },
+      {
+        "en": "first name",
+        "ipa": "/ˌfɜːst ˈneɪm/",
+        "vi": "tên gọi"
+      },
+      {
+        "en": "last name",
+        "ipa": "/ˌlɑːst ˈneɪm/",
+        "vi": "họ"
+      },
+      {
+        "en": "again",
+        "ipa": "/əˈɡen/",
+        "vi": "lần nữa"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Tên chữ khác âm trong từ",
+        "body": "Tên chữ A là /eɪ/, nhưng a trong cat có âm /æ/. Khi đánh vần, dùng tên chữ; khi đọc từ, nghe cả từ.",
+        "formula": "Name → N – A – M – E",
+        "examples": [
+          {
+            "en": "My name is Mai.",
+            "vi": "Tên tôi là Mai."
+          },
+          {
+            "en": "M, A, I.",
+            "vi": "M, A, I."
+          }
+        ]
+      },
+      {
+        "title": "Hỏi để xác nhận",
+        "body": "Hỏi cách đánh vần khi bạn chưa chắc tên hay địa chỉ email.",
+        "formula": "How do you spell …?",
+        "examples": [
+          {
+            "en": "How do you spell your name?",
+            "vi": "Bạn đánh vần tên mình thế nào?"
+          },
+          {
+            "en": "Please spell it again.",
+            "vi": "Xin đánh vần lại."
+          }
+        ]
+      },
+      {
+        "title": "26 tên chữ theo giọng Anh-Anh",
+        "body": "Chia thành các nhóm 5–6 chữ mỗi lần. Âm R và tên chữ Z có thể khác với giọng Anh-Mỹ; Z đọc là zee trong Anh-Mỹ.",
+        "examples": [
+          {
+            "en": "A",
+            "vi": "Tên chữ: /eɪ/"
+          },
+          {
+            "en": "B",
+            "vi": "Tên chữ: /biː/"
+          },
+          {
+            "en": "C",
+            "vi": "Tên chữ: /siː/"
+          },
+          {
+            "en": "D",
+            "vi": "Tên chữ: /diː/"
+          },
+          {
+            "en": "E",
+            "vi": "Tên chữ: /iː/"
+          },
+          {
+            "en": "F",
+            "vi": "Tên chữ: /ef/"
+          },
+          {
+            "en": "G",
+            "vi": "Tên chữ: /dʒiː/"
+          },
+          {
+            "en": "H",
+            "vi": "Tên chữ: /eɪtʃ/"
+          },
+          {
+            "en": "I",
+            "vi": "Tên chữ: /aɪ/"
+          },
+          {
+            "en": "J",
+            "vi": "Tên chữ: /dʒeɪ/"
+          },
+          {
+            "en": "K",
+            "vi": "Tên chữ: /keɪ/"
+          },
+          {
+            "en": "L",
+            "vi": "Tên chữ: /el/"
+          },
+          {
+            "en": "M",
+            "vi": "Tên chữ: /em/"
+          },
+          {
+            "en": "N",
+            "vi": "Tên chữ: /en/"
+          },
+          {
+            "en": "O",
+            "vi": "Tên chữ: /əʊ/"
+          },
+          {
+            "en": "P",
+            "vi": "Tên chữ: /piː/"
+          },
+          {
+            "en": "Q",
+            "vi": "Tên chữ: /kjuː/"
+          },
+          {
+            "en": "R",
+            "vi": "Tên chữ: /ɑː/"
+          },
+          {
+            "en": "S",
+            "vi": "Tên chữ: /es/"
+          },
+          {
+            "en": "T",
+            "vi": "Tên chữ: /tiː/"
+          },
+          {
+            "en": "U",
+            "vi": "Tên chữ: /juː/"
+          },
+          {
+            "en": "V",
+            "vi": "Tên chữ: /viː/"
+          },
+          {
+            "en": "W",
+            "vi": "Tên chữ: /ˈdʌbljuː/"
+          },
+          {
+            "en": "X",
+            "vi": "Tên chữ: /eks/"
+          },
+          {
+            "en": "Y",
+            "vi": "Tên chữ: /waɪ/"
+          },
+          {
+            "en": "Z",
+            "vi": "Tên chữ: /zed/"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "26 chữ cái không tương ứng với 26 âm; IPA dùng để mô tả âm.",
+      "Hãy nghe bảng chữ cái và đọc tên chữ từng lượt, không đọc theo tên chữ tiếng Việt."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "M-A-I là cách đánh vần tên nào?",
+        "options": [
+          "Nam",
+          "Mai",
+          "Lan"
+        ],
+        "answer": 1,
+        "explain": "M, A, I ghép thành Mai."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ còn thiếu: My ___ is Lan.",
+        "answer": "name",
+        "explain": "My name is… dùng để giới thiệu tên."
+      },
+      {
+        "type": "choice",
+        "question": "Khi chưa rõ tên, bạn hỏi gì?",
+        "options": [
+          "How much is it?",
+          "What time is it?",
+          "How do you spell your name?"
+        ],
+        "answer": 2,
+        "explain": "Spell hỏi cách đánh vần."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "My name is Ben.",
+        "options": [
+          "Tên tôi là Mai",
+          "Tên tôi là Ben",
+          "Tên tôi là Lan"
+        ],
+        "answer": 1,
+        "explain": "Nghe tên Ben ở cuối câu."
+      },
+      {
+        "type": "choice",
+        "question": "Tên chữ A có luôn giống âm a trong cat không?",
+        "options": [
+          "Chỉ trong câu hỏi",
+          "Có",
+          "Không"
+        ],
+        "answer": 2,
+        "explain": "Tên chữ và âm trong từ là hai điều khác nhau."
+      },
+      {
+        "type": "choice",
+        "question": "“letter” trong bài là gì?",
+        "options": [
+          "Con số",
+          "Giờ",
+          "Chữ cái"
+        ],
+        "answer": 2,
+        "explain": "Trong ngữ cảnh đánh vần, letter là chữ cái."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “tên”?",
+        "options": [
+          "spell",
+          "letter",
+          "name"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, name nghĩa là tên."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "letter",
+        "options": [
+          "tên",
+          "đánh vần",
+          "chữ cái"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy letter: chữ cái."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: What is your name? B: My name is Lan. A: How do you spell it? B: L, A, N.",
+      "vi": "A: Bạn tên gì? B: Tôi tên Lan. A: Bạn đánh vần thế nào? B: L, A, N."
+    },
+    "practice": {
+      "speaking": "Tự giới thiệu tên và đánh vần bằng tên chữ tiếng Anh.",
+      "writing": "Viết tên của bạn và chuỗi chữ cái tách bằng dấu gạch.",
+      "model": "My name is Lan. L-A-N.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "nen-tang-ipa",
+    "stage": 1,
+    "level": "foundation",
+    "order": 3,
+    "title": "Dùng IPA để nghe đúng",
+    "goal": "Phân biệt chữ với âm, nhận biết dấu trọng âm và luyện một cặp âm.",
+    "minutes": 12,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "ship",
+        "ipa": "/ʃɪp/",
+        "vi": "tàu thủy"
+      },
+      {
+        "en": "sheep",
+        "ipa": "/ʃiːp/",
+        "vi": "con cừu"
+      },
+      {
+        "en": "book",
+        "ipa": "/bʊk/",
+        "vi": "cuốn sách"
+      },
+      {
+        "en": "food",
+        "ipa": "/fuːd/",
+        "vi": "thức ăn"
+      },
+      {
+        "en": "ready",
+        "ipa": "/ˈredi/",
+        "vi": "sẵn sàng"
+      },
+      {
+        "en": "sound",
+        "ipa": "/saʊnd/",
+        "vi": "âm"
+      },
+      {
+        "en": "word",
+        "ipa": "/wɜːd/",
+        "vi": "từ"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Nhìn âm, không đoán từ mặt chữ",
+        "body": "Phiên âm nằm giữa hai dấu /. Dấu ː thường gợi âm dài trong hệ Anh-Anh; vẫn cần nghe cả chất lượng âm.",
+        "formula": "ship /ʃɪp/ ≠ sheep /ʃiːp/",
+        "examples": [
+          {
+            "en": "This is a ship.",
+            "vi": "Đây là một chiếc tàu."
+          },
+          {
+            "en": "This is a sheep.",
+            "vi": "Đây là một con cừu."
+          }
+        ]
+      },
+      {
+        "title": "Trọng âm là chỗ đọc nổi bật",
+        "body": "Dấu ˈ đứng trước âm tiết được nhấn chính. Không đọc mọi âm tiết đều mạnh.",
+        "formula": "ready /ˈredi/",
+        "examples": [
+          {
+            "en": "I am ready.",
+            "vi": "Tôi sẵn sàng."
+          },
+          {
+            "en": "Thank you.",
+            "vi": "Cảm ơn bạn."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Bảng trong app theo Anh-Anh; giọng tổng hợp của thiết bị có thể khác.",
+      "Nút nghe đọc từ ví dụ. Đây chưa phải audio riêng cho từng âm IPA."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Từ nào có /iː/?",
+        "options": [
+          "sheep",
+          "ship",
+          "book"
+        ],
+        "answer": 0,
+        "explain": "Sheep có /iː/; ship có /ɪ/."
+      },
+      {
+        "type": "choice",
+        "question": "Dấu /…/ thường chứa gì?",
+        "options": [
+          "Số câu hỏi",
+          "Phiên âm",
+          "Nghĩa tiếng Việt"
+        ],
+        "answer": 1,
+        "explain": "Dấu /…/ bao quanh phiên âm."
+      },
+      {
+        "type": "choice",
+        "question": "Dấu ˈ trong /ˈredi/ cho biết gì?",
+        "options": [
+          "Trọng âm chính",
+          "Chữ hoa",
+          "Câu hỏi"
+        ],
+        "answer": 0,
+        "explain": "Âm tiết ngay sau ˈ được nhấn chính."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "This is a book.",
+        "options": [
+          "Đây là tàu",
+          "Đây là thức ăn",
+          "Đây là sách"
+        ],
+        "answer": 2,
+        "explain": "Book là cuốn sách."
+      },
+      {
+        "type": "choice",
+        "question": "Đọc một từ mới nên làm gì trước?",
+        "options": [
+          "Nghe từ và xem phiên âm",
+          "Chỉ nhìn chữ cuối",
+          "Luôn đọc theo tiếng Việt"
+        ],
+        "answer": 0,
+        "explain": "Nghe và xem IPA giúp tránh đoán sai từ mặt chữ."
+      },
+      {
+        "type": "fill",
+        "question": "Gõ từ có nghĩa “thức ăn” trong bài.",
+        "answer": "food",
+        "explain": "Food nghĩa là thức ăn."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “tàu thủy”?",
+        "options": [
+          "sheep",
+          "ship",
+          "book"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, ship nghĩa là tàu thủy."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "book",
+        "options": [
+          "con cừu",
+          "tàu thủy",
+          "cuốn sách"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy book: cuốn sách."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "I have a book. The book has a picture of a ship and a sheep.",
+      "vi": "Tôi có một cuốn sách. Sách có hình một chiếc tàu và một con cừu."
+    },
+    "practice": {
+      "speaking": "Nghe ship và sheep ba lần, đọc xen kẽ hai từ, rồi đọc hai câu ví dụ.",
+      "writing": "Ghi hai từ ship và sheep kèm nghĩa để tránh nhầm.",
+      "model": "ship: tàu thủy; sheep: con cừu.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "nen-tang-so",
+    "stage": 1,
+    "level": "foundation",
+    "order": 4,
+    "title": "Số đếm, tuổi và số điện thoại",
+    "goal": "Hiểu số 0–20, phân biệt thirteen/thirty và đọc số điện thoại từng chữ số.",
+    "minutes": 12,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "zero",
+        "ipa": "/ˈzɪərəʊ/",
+        "vi": "số không"
+      },
+      {
+        "en": "thirteen",
+        "ipa": "/ˌθɜːˈtiːn/",
+        "vi": "mười ba"
+      },
+      {
+        "en": "thirty",
+        "ipa": "/ˈθɜːti/",
+        "vi": "ba mươi"
+      },
+      {
+        "en": "number",
+        "ipa": "/ˈnʌmbə/",
+        "vi": "số"
+      },
+      {
+        "en": "one",
+        "ipa": "/wʌn/",
+        "vi": "một"
+      },
+      {
+        "en": "twelve",
+        "ipa": "/twelv/",
+        "vi": "mười hai"
+      },
+      {
+        "en": "twenty",
+        "ipa": "/ˈtwenti/",
+        "vi": "hai mươi"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Học theo nhóm nhỏ",
+        "body": "Đọc 0–10 rồi 11–20. Khi nghe tuổi, chú ý âm cuối và trọng âm.",
+        "formula": "13: thirteen · 30: thirty",
+        "examples": [
+          {
+            "en": "I am thirteen.",
+            "vi": "Tôi mười ba tuổi."
+          },
+          {
+            "en": "She is thirty.",
+            "vi": "Cô ấy ba mươi tuổi."
+          }
+        ]
+      },
+      {
+        "title": "Số điện thoại đọc từng chữ số",
+        "body": "Không đọc cả số điện thoại như một số lớn. Zero hoặc oh đều có thể chỉ 0.",
+        "formula": "0 → zero / oh",
+        "examples": [
+          {
+            "en": "My number is five, two, zero.",
+            "vi": "Số của tôi là năm, hai, không."
+          },
+          {
+            "en": "One, two, three.",
+            "vi": "Một, hai, ba."
+          }
+        ]
+      },
+      {
+        "title": "Đếm từ 0 đến 20",
+        "body": "Nghe từng nhóm rồi nói lại không nhìn. Đọc chậm đủ rõ trước khi luyện tốc độ.",
+        "examples": [
+          {
+            "en": "zero, one, two, three, four, five",
+            "vi": "0, 1, 2, 3, 4, 5"
+          },
+          {
+            "en": "six, seven, eight, nine, ten",
+            "vi": "6, 7, 8, 9, 10"
+          },
+          {
+            "en": "eleven, twelve, thirteen, fourteen, fifteen",
+            "vi": "11, 12, 13, 14, 15"
+          },
+          {
+            "en": "sixteen, seventeen, eighteen, nineteen, twenty",
+            "vi": "16, 17, 18, 19, 20"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "-teen và -ty dễ nhầm; nghe cả từ và ngữ cảnh.",
+      "Trong bài luyện nghe, đọc rõ từng số trước khi học cách đọc nhanh."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Thirteen là số nào?",
+        "options": [
+          "3",
+          "30",
+          "13"
+        ],
+        "answer": 2,
+        "explain": "Thirteen là 13, thirty là 30."
+      },
+      {
+        "type": "fill",
+        "question": "Viết bằng chữ: 0.",
+        "answer": "zero",
+        "explain": "Số 0 được đọc là zero."
+      },
+      {
+        "type": "choice",
+        "question": "Đọc số điện thoại nên làm thế nào?",
+        "options": [
+          "Từng chữ số",
+          "Chỉ đọc số cuối",
+          "Luôn đọc như hàng nghìn"
+        ],
+        "answer": 0,
+        "explain": "Từng chữ số giúp người nghe ghi chính xác."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "She is thirty.",
+        "options": [
+          "Cô ấy 3 tuổi",
+          "Cô ấy 30 tuổi",
+          "Cô ấy 13 tuổi"
+        ],
+        "answer": 1,
+        "explain": "Thirty là 30."
+      },
+      {
+        "type": "choice",
+        "question": "Twelve là số nào?",
+        "options": [
+          "12",
+          "20",
+          "2"
+        ],
+        "answer": 0,
+        "explain": "Twelve là 12."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "One, five, zero.",
+        "options": [
+          "105",
+          "510",
+          "150"
+        ],
+        "answer": 2,
+        "explain": "Thứ tự nghe là 1, 5, 0."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “số không”?",
+        "options": [
+          "thirty",
+          "thirteen",
+          "zero"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, zero nghĩa là số không."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "thirty",
+        "options": [
+          "số không",
+          "mười ba",
+          "ba mươi"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy thirty: ba mươi."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "My name is Jo. I am twenty. My phone number ends in one, five, zero.",
+      "vi": "Tên tôi là Jo. Tôi hai mươi tuổi. Số điện thoại của tôi kết thúc bằng một, năm, không."
+    },
+    "practice": {
+      "speaking": "Đọc tuổi của bạn và ba chữ số giả định, không cần dùng số điện thoại thật.",
+      "writing": "Viết ba số bạn muốn luyện bằng chữ.",
+      "model": "one, five, zero",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "nen-tang-tu-loai",
+    "stage": 1,
+    "level": "foundation",
+    "order": 5,
+    "title": "Nhận diện từ và trật tự câu",
+    "goal": "Nhận biết danh từ, động từ, tính từ và vai trò của chủ ngữ.",
+    "minutes": 12,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "teacher",
+        "ipa": "/ˈtiːtʃə/",
+        "vi": "giáo viên"
+      },
+      {
+        "en": "work",
+        "ipa": "/wɜːk/",
+        "vi": "làm việc"
+      },
+      {
+        "en": "happy",
+        "ipa": "/ˈhæpi/",
+        "vi": "vui"
+      },
+      {
+        "en": "small",
+        "ipa": "/smɔːl/",
+        "vi": "nhỏ"
+      },
+      {
+        "en": "room",
+        "ipa": "/ruːm/",
+        "vi": "phòng"
+      },
+      {
+        "en": "read",
+        "ipa": "/riːd/",
+        "vi": "đọc, dạng nguyên mẫu"
+      },
+      {
+        "en": "noun",
+        "ipa": "/naʊn/",
+        "vi": "danh từ"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ba nhóm từ đầu tiên",
+        "body": "Danh từ gọi người/vật; động từ diễn tả hành động/trạng thái; tính từ mô tả đặc điểm. Một từ có thể có nhiều vai trò tùy câu.",
+        "formula": "teacher: danh từ · work: động từ · happy: tính từ",
+        "examples": [
+          {
+            "en": "I work.",
+            "vi": "Tôi làm việc."
+          },
+          {
+            "en": "She is happy.",
+            "vi": "Cô ấy vui."
+          }
+        ]
+      },
+      {
+        "title": "Đặt người/vật được nói đến trước",
+        "body": "Câu khẳng định cơ bản thường bắt đầu bằng chủ ngữ rồi động từ. Tính từ thường đứng trước danh từ hoặc sau to be.",
+        "formula": "Chủ ngữ + động từ + phần còn lại",
+        "examples": [
+          {
+            "en": "a small room",
+            "vi": "một căn phòng nhỏ"
+          },
+          {
+            "en": "The room is small.",
+            "vi": "Căn phòng nhỏ."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không áp nguyên trật tự tiếng Việt cho mọi câu tiếng Anh.",
+      "Chưa cần nhớ hết thuật ngữ; tìm ai/cái gì và hành động trước."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Trong I work, work là gì?",
+        "options": [
+          "Mạo từ",
+          "Tính từ",
+          "Động từ"
+        ],
+        "answer": 2,
+        "explain": "Work diễn tả hành động làm việc."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn cụm đúng.",
+        "options": [
+          "small a room",
+          "a small room",
+          "a room small"
+        ],
+        "answer": 1,
+        "explain": "Small đứng trước room."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: She ___ happy.",
+        "answer": "is",
+        "explain": "Tính từ happy đi sau is trong câu này."
+      },
+      {
+        "type": "choice",
+        "question": "Trong The room is small, chủ ngữ là gì?",
+        "options": [
+          "is",
+          "The room",
+          "small"
+        ],
+        "answer": 1,
+        "explain": "The room là vật được mô tả."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "She is happy.",
+        "options": [
+          "Cô ấy làm việc",
+          "Cô ấy là sách",
+          "Cô ấy vui"
+        ],
+        "answer": 2,
+        "explain": "Happy diễn tả cảm xúc vui."
+      },
+      {
+        "type": "choice",
+        "question": "Teacher là từ chỉ gì?",
+        "options": [
+          "Hành động ngủ",
+          "Màu sắc",
+          "Người"
+        ],
+        "answer": 2,
+        "explain": "Teacher là giáo viên, một danh từ chỉ người."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “giáo viên”?",
+        "options": [
+          "happy",
+          "teacher",
+          "work"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, teacher nghĩa là giáo viên."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "happy",
+        "options": [
+          "vui",
+          "làm việc",
+          "giáo viên"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy happy: vui."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Lan is a teacher. Her room is small. She is happy.",
+      "vi": "Lan là giáo viên. Phòng của cô ấy nhỏ. Cô ấy vui."
+    },
+    "practice": {
+      "speaking": "Đọc đoạn mẫu. Chỉ ra một người, một động từ và một tính từ.",
+      "writing": "Viết một cụm có tính từ trước danh từ.",
+      "model": "a small room",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "nen-tang-dai-tu",
+    "stage": 1,
+    "level": "foundation",
+    "order": 6,
+    "title": "Tôi, bạn, họ và đồ của ai",
+    "goal": "Chọn đại từ chủ ngữ và đặt my/your/her/his trước danh từ.",
+    "minutes": 12,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "I",
+        "ipa": "/aɪ/",
+        "vi": "tôi"
+      },
+      {
+        "en": "you",
+        "ipa": "/juː/",
+        "vi": "bạn / các bạn"
+      },
+      {
+        "en": "they",
+        "ipa": "/ðeɪ/",
+        "vi": "họ / chúng"
+      },
+      {
+        "en": "my",
+        "ipa": "/maɪ/",
+        "vi": "của tôi"
+      },
+      {
+        "en": "she",
+        "ipa": "/ʃiː/",
+        "vi": "cô ấy"
+      },
+      {
+        "en": "we",
+        "ipa": "/wiː/",
+        "vi": "chúng tôi / chúng ta"
+      },
+      {
+        "en": "their",
+        "ipa": "/ðeə/",
+        "vi": "của họ"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Dùng đại từ để không lặp tên",
+        "body": "I, you, he, she, it, we, they có thể làm chủ ngữ. We có thể chỉ chúng tôi hoặc chúng ta.",
+        "formula": "Lan → she · Nam → he · hai người → they",
+        "examples": [
+          {
+            "en": "Lan is here. She is ready.",
+            "vi": "Lan ở đây. Cô ấy sẵn sàng."
+          },
+          {
+            "en": "My friends are here. They are ready.",
+            "vi": "Bạn tôi ở đây. Họ sẵn sàng."
+          }
+        ]
+      },
+      {
+        "title": "Nói đồ của ai",
+        "body": "My, your, his, her, its, our, their đứng trước danh từ. Không dùng mạo từ a/an ngay trước my trong cùng cụm.",
+        "formula": "my + danh từ",
+        "examples": [
+          {
+            "en": "This is my bag.",
+            "vi": "Đây là túi của tôi."
+          },
+          {
+            "en": "Her name is Mai.",
+            "vi": "Tên cô ấy là Mai."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "I luôn viết hoa.",
+      "Its nghĩa là của nó; it’s là dạng rút gọn của it is hoặc it has tùy câu."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Thay Lan bằng đại từ nào?",
+        "options": [
+          "he",
+          "she",
+          "they"
+        ],
+        "answer": 1,
+        "explain": "Với một người nữ được gọi là Lan trong bài, dùng she."
+      },
+      {
+        "type": "choice",
+        "question": "Túi của tôi là gì?",
+        "options": [
+          "my bag",
+          "I bag",
+          "a my bag"
+        ],
+        "answer": 0,
+        "explain": "My đứng trước bag, không thêm a trước my."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ chỉ sở hữu: ___ name is Mai. (Tên tôi là Mai.)",
+        "answer": "my",
+        "explain": "My name là tên của tôi."
+      },
+      {
+        "type": "choice",
+        "question": "Đại từ nào luôn viết hoa?",
+        "options": [
+          "I",
+          "you",
+          "we"
+        ],
+        "answer": 0,
+        "explain": "I luôn viết hoa dù ở giữa câu."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "They are here.",
+        "options": [
+          "Cô ấy ở đây",
+          "Tôi ở đây",
+          "Họ ở đây"
+        ],
+        "answer": 2,
+        "explain": "They chỉ họ hoặc chúng."
+      },
+      {
+        "type": "choice",
+        "question": "Nhiều người bạn có thể thay bằng gì?",
+        "options": [
+          "it",
+          "they",
+          "he"
+        ],
+        "answer": 1,
+        "explain": "They dùng cho nhiều người/vật."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “tôi”?",
+        "options": [
+          "they",
+          "you",
+          "I"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, I nghĩa là tôi."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "they",
+        "options": [
+          "họ / chúng",
+          "bạn / các bạn",
+          "tôi"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy they: họ / chúng."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "My name is An. This is my friend, Mai. Her bag is blue. We are here together.",
+      "vi": "Tên tôi là An. Đây là bạn tôi, Mai. Túi của cô ấy màu xanh. Chúng tôi cùng ở đây."
+    },
+    "practice": {
+      "speaking": "Nói tên của bạn và chỉ một đồ vật: This is my…",
+      "writing": "Viết hai cụm sở hữu với my và your.",
+      "model": "my book; your bag",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "nen-tang-a-an-so-nhieu",
+    "stage": 1,
+    "level": "foundation",
+    "order": 7,
+    "title": "Một vật, nhiều vật: a/an và số nhiều",
+    "goal": "Dùng a/an theo âm đầu và thêm s vào danh từ số nhiều thường gặp.",
+    "minutes": 12,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "apple",
+        "ipa": "/ˈæpl/",
+        "vi": "quả táo"
+      },
+      {
+        "en": "bag",
+        "ipa": "/bæɡ/",
+        "vi": "túi"
+      },
+      {
+        "en": "orange",
+        "ipa": "/ˈɒrɪndʒ/",
+        "vi": "quả cam"
+      },
+      {
+        "en": "children",
+        "ipa": "/ˈtʃɪldrən/",
+        "vi": "những đứa trẻ"
+      },
+      {
+        "en": "child",
+        "ipa": "/tʃaɪld/",
+        "vi": "đứa trẻ"
+      },
+      {
+        "en": "hour",
+        "ipa": "/aʊə/",
+        "vi": "giờ"
+      },
+      {
+        "en": "university",
+        "ipa": "/ˌjuːnɪˈvɜːsəti/",
+        "vi": "trường đại học"
+      }
+    ],
+    "sections": [
+      {
+        "title": "A/an đi trước danh từ đếm được số ít",
+        "body": "Chọn theo âm đầu, không chỉ chữ cái: an apple, a bag. An hour vì h không phát âm; a university vì âm đầu /j/.",
+        "formula": "a/an + danh từ đếm được số ít",
+        "examples": [
+          {
+            "en": "I have an apple.",
+            "vi": "Tôi có một quả táo."
+          },
+          {
+            "en": "This is a bag.",
+            "vi": "Đây là một chiếc túi."
+          }
+        ]
+      },
+      {
+        "title": "Nói về nhiều vật",
+        "body": "Phần lớn danh từ thêm s; một số có dạng đặc biệt như child → children. Không thêm a/an trước danh từ số nhiều.",
+        "formula": "one book → two books",
+        "examples": [
+          {
+            "en": "I have two books.",
+            "vi": "Tôi có hai cuốn sách."
+          },
+          {
+            "en": "The children are here.",
+            "vi": "Các em nhỏ ở đây."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết two book hoặc a books.",
+      "Không thêm s vào mọi từ: child có số nhiều là children."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền a/an: ___ apple.",
+        "answer": "an",
+        "explain": "Apple bắt đầu bằng âm nguyên âm /æ/."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn cụm đúng.",
+        "options": [
+          "a books",
+          "two book",
+          "two books"
+        ],
+        "answer": 2,
+        "explain": "Two đi với books số nhiều."
+      },
+      {
+        "type": "choice",
+        "question": "Số nhiều của child là gì?",
+        "options": [
+          "children",
+          "childes",
+          "childs"
+        ],
+        "answer": 0,
+        "explain": "Children là dạng bất quy tắc."
+      },
+      {
+        "type": "fill",
+        "question": "Điền a/an: ___ bag.",
+        "answer": "a",
+        "explain": "Bag bắt đầu bằng phụ âm /b/."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Two apples.",
+        "options": [
+          "Hai quả táo",
+          "Một quả cam",
+          "Hai túi"
+        ],
+        "answer": 0,
+        "explain": "Two apples là hai quả táo."
+      },
+      {
+        "type": "choice",
+        "question": "Vì sao dùng an hour?",
+        "options": [
+          "Vì mọi từ có h dùng an",
+          "Vì hour là số nhiều",
+          "Vì âm đầu là nguyên âm"
+        ],
+        "answer": 2,
+        "explain": "H trong hour không phát âm; lựa chọn dựa vào âm đầu."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “quả táo”?",
+        "options": [
+          "bag",
+          "apple",
+          "orange"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, apple nghĩa là quả táo."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "orange",
+        "options": [
+          "túi",
+          "quả cam",
+          "quả táo"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy orange: quả cam."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "In my bag, I have an apple, an orange and two books.",
+      "vi": "Trong túi, tôi có một quả táo, một quả cam và hai cuốn sách."
+    },
+    "practice": {
+      "speaking": "Nói ba đồ vật quanh bạn, dùng a/an hoặc một số đếm.",
+      "writing": "Viết một cụm số ít và một cụm số nhiều.",
+      "model": "an apple; two books",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "foundation-on-tong-hop",
+    "level": "foundation",
+    "stage": 1,
+    "order": 8,
+    "title": "Ôn Nền tảng: sẵn sàng bắt đầu",
+    "goal": "Nhớ lời chào, số, đại từ và cấu trúc cụm danh từ đơn giản.",
+    "minutes": 20,
+    "checkpoint": true,
+    "passMark": 0.8,
+    "intro": "Làm bài không nhìn ghi nhớ trước. Sau mỗi câu, đọc giải thích và ghi lại điều còn nhầm. Luyện nói/viết được tự đối chiếu, không chấm tự động.",
+    "vocab": [
+      {
+        "en": "hello",
+        "ipa": "/həˈləʊ/",
+        "vi": "xin chào"
+      },
+      {
+        "en": "thanks",
+        "ipa": "/θæŋks/",
+        "vi": "cảm ơn"
+      },
+      {
+        "en": "please",
+        "ipa": "/pliːz/",
+        "vi": "làm ơn / xin"
+      },
+      {
+        "en": "sorry",
+        "ipa": "/ˈsɒri/",
+        "vi": "xin lỗi"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ôn theo việc bạn làm được",
+        "body": "Nhìn lại mục tiêu từng bài. Nếu chưa nói được, quay về bài đó và đọc theo ví dụ trước khi tự nói.",
+        "formula": "Nhớ ý → nói câu → kiểm tra",
+        "examples": [
+          {
+            "en": "I can speak a little English.",
+            "vi": "Tôi nói được một chút tiếng Anh."
+          },
+          {
+            "en": "Could you say that again?",
+            "vi": "Bạn nói lại được không?"
+          }
+        ]
+      },
+      {
+        "title": "Một điểm số chưa nói hết khả năng",
+        "body": "Các câu hỏi kiểm tra nhận biết và dùng mẫu. Để đánh giá nghe, nói, đọc, viết đầy đủ cần thêm bài đánh giá riêng.",
+        "formula": "Không quy đổi điểm thành chứng chỉ CEFR",
+        "examples": [
+          {
+            "en": "I want to practise every day.",
+            "vi": "Tôi muốn luyện mỗi ngày."
+          },
+          {
+            "en": "I can ask for help.",
+            "vi": "Tôi có thể nhờ giúp."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Mục tiêu tối thiểu là 80% câu đúng. Đọc lại phần giải thích của câu sai trước khi thử lại.",
+      "Một bài kiểm tra đạt không có nghĩa mọi kỹ năng ở mức đó đã thành thạo.",
+      "Quay lại ôn từ và luyện nói trong vài ngày, không chỉ làm bài một lần."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Bạn muốn cảm ơn. Chọn câu phù hợp.",
+        "options": [
+          "Thank you.",
+          "Hello.",
+          "Goodbye."
+        ],
+        "answer": 0,
+        "explain": "Thank you dùng để cảm ơn."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ còn thiếu: My ___ is Lan.",
+        "answer": "name",
+        "explain": "My name is… dùng để giới thiệu tên."
+      },
+      {
+        "type": "choice",
+        "question": "Dấu ˈ trong /ˈredi/ cho biết gì?",
+        "options": [
+          "Câu hỏi",
+          "Chữ hoa",
+          "Trọng âm chính"
+        ],
+        "answer": 2,
+        "explain": "Âm tiết ngay sau ˈ được nhấn chính."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "She is thirty.",
+        "options": [
+          "Cô ấy 13 tuổi",
+          "Cô ấy 30 tuổi",
+          "Cô ấy 3 tuổi"
+        ],
+        "answer": 1,
+        "explain": "Thirty là 30."
+      },
+      {
+        "type": "choice",
+        "question": "Trong I work, work là gì?",
+        "options": [
+          "Mạo từ",
+          "Động từ",
+          "Tính từ"
+        ],
+        "answer": 1,
+        "explain": "Work diễn tả hành động làm việc."
+      },
+      {
+        "type": "choice",
+        "question": "Túi của tôi là gì?",
+        "options": [
+          "my bag",
+          "I bag",
+          "a my bag"
+        ],
+        "answer": 0,
+        "explain": "My đứng trước bag, không thêm a trước my."
+      },
+      {
+        "type": "choice",
+        "question": "Số nhiều của child là gì?",
+        "options": [
+          "childs",
+          "children",
+          "childes"
+        ],
+        "answer": 1,
+        "explain": "Children là dạng bất quy tắc."
+      },
+      {
+        "type": "choice",
+        "question": "“Sorry” dùng khi nào?",
+        "options": [
+          "Khi hỏi giá",
+          "Khi xin lỗi",
+          "Khi nói giờ"
+        ],
+        "answer": 1,
+        "explain": "Sorry dùng để xin lỗi hoặc bày tỏ tiếc nuối."
+      },
+      {
+        "type": "choice",
+        "question": "“letter” trong bài là gì?",
+        "options": [
+          "Con số",
+          "Giờ",
+          "Chữ cái"
+        ],
+        "answer": 2,
+        "explain": "Trong ngữ cảnh đánh vần, letter là chữ cái."
+      },
+      {
+        "type": "choice",
+        "question": "Đọc một từ mới nên làm gì trước?",
+        "options": [
+          "Luôn đọc theo tiếng Việt",
+          "Chỉ nhìn chữ cuối",
+          "Nghe từ và xem phiên âm"
+        ],
+        "answer": 2,
+        "explain": "Nghe và xem IPA giúp tránh đoán sai từ mặt chữ."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "One, five, zero.",
+        "options": [
+          "105",
+          "510",
+          "150"
+        ],
+        "answer": 2,
+        "explain": "Thứ tự nghe là 1, 5, 0."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "She is happy.",
+        "options": [
+          "Cô ấy vui",
+          "Cô ấy làm việc",
+          "Cô ấy là sách"
+        ],
+        "answer": 0,
+        "explain": "Happy diễn tả cảm xúc vui."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "In my bag, I have an apple, an orange and two books.",
+      "vi": "Trong túi, tôi có một quả táo, một quả cam và hai cuốn sách."
+    },
+    "practice": {
+      "speaking": "Chào, nói tên và đánh vần; đọc ba chữ số rồi chỉ hai đồ vật.",
+      "writing": "Viết một lời chào, một lời nhờ nói chậm và hai cụm đồ vật.",
+      "model": "Hello. My name is An. Please speak slowly. A bag. Two books.",
+      "checklist": [
+        "Tôi hoàn thành đủ yêu cầu của đề.",
+        "Tôi nói/viết bằng câu của mình, không chỉ chép mẫu.",
+        "Tôi biết bài nào cần ôn lại và đã đọc lời giải câu sai."
+      ]
+    },
+    "references": [
+      {
+        "href": "/lo-trinh",
+        "label": "Chọn bài cần ôn"
+      },
+      {
+        "href": "/thu-vien",
+        "label": "Mở thư viện"
+      }
+    ]
+  },
+  {
+    "slug": "a1-hoi-voi-to-be",
+    "stage": 2,
+    "level": "A1",
+    "order": 2,
+    "title": "Hỏi và trả lời với to be",
+    "goal": "Hỏi về tên, cảm xúc và vị trí bằng câu hỏi ngắn.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "where",
+        "ipa": "/weə/",
+        "vi": "ở đâu"
+      },
+      {
+        "en": "who",
+        "ipa": "/huː/",
+        "vi": "ai"
+      },
+      {
+        "en": "ready",
+        "ipa": "/ˈredi/",
+        "vi": "sẵn sàng"
+      },
+      {
+        "en": "home",
+        "ipa": "/həʊm/",
+        "vi": "nhà"
+      },
+      {
+        "en": "what",
+        "ipa": "/wɒt/",
+        "vi": "cái gì / điều gì"
+      },
+      {
+        "en": "when",
+        "ipa": "/wen/",
+        "vi": "khi nào"
+      },
+      {
+        "en": "school",
+        "ipa": "/skuːl/",
+        "vi": "trường học"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Đưa to be lên đầu để hỏi",
+        "body": "Đảo am/is/are lên trước chủ ngữ. Trả lời ngắn dùng lại đúng đại từ và to be.",
+        "formula": "Are you …? → Yes, I am. / No, I’m not.",
+        "examples": [
+          {
+            "en": "Are you ready?",
+            "vi": "Bạn sẵn sàng chưa?"
+          },
+          {
+            "en": "Yes, I am.",
+            "vi": "Rồi, tôi sẵn sàng."
+          }
+        ]
+      },
+      {
+        "title": "Hỏi thông tin cụ thể",
+        "body": "Đặt từ để hỏi trước to be. What hỏi thông tin, who hỏi người, where hỏi nơi chốn.",
+        "formula": "Where + is/are + chủ ngữ?",
+        "examples": [
+          {
+            "en": "Where is Mai?",
+            "vi": "Mai ở đâu?"
+          },
+          {
+            "en": "She is at home.",
+            "vi": "Cô ấy ở nhà."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Trả lời Yes, I am. Không rút gọn thành Yes, I’m khi đứng một mình.",
+      "Không dùng do trước câu hỏi có to be."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Chọn câu hỏi đúng.",
+        "options": [
+          "Are you ready?",
+          "Do are you ready?",
+          "You are ready? do"
+        ],
+        "answer": 0,
+        "explain": "Đưa are trước you."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: Where ___ Mai?",
+        "answer": "is",
+        "explain": "Mai là một người nên dùng is."
+      },
+      {
+        "type": "choice",
+        "question": "Trả lời Are you ready? bằng khẳng định.",
+        "options": [
+          "Yes, I am.",
+          "Yes, I’m.",
+          "Yes, I are."
+        ],
+        "answer": 0,
+        "explain": "Trả lời ngắn dùng Yes, I am."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "She is at home.",
+        "options": [
+          "Cô ấy mệt",
+          "Cô ấy ở nhà",
+          "Cô ấy ở trường"
+        ],
+        "answer": 1,
+        "explain": "At home là ở nhà."
+      },
+      {
+        "type": "choice",
+        "question": "Hỏi ai dùng từ nào?",
+        "options": [
+          "who",
+          "when",
+          "where"
+        ],
+        "answer": 0,
+        "explain": "Who hỏi về người."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu phủ định ngắn.",
+        "options": [
+          "No, I not.",
+          "No, I isn’t.",
+          "No, I’m not."
+        ],
+        "answer": 2,
+        "explain": "I’m not là dạng phủ định phù hợp với I."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “ở đâu”?",
+        "options": [
+          "ready",
+          "where",
+          "who"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, where nghĩa là ở đâu."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "ready",
+        "options": [
+          "sẵn sàng",
+          "ai",
+          "ở đâu"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy ready: sẵn sàng."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: Are you ready? B: Yes, I am. A: Where is Mai? B: She is at home.",
+      "vi": "A: Bạn sẵn sàng chưa? B: Rồi. A: Mai ở đâu? B: Cô ấy ở nhà."
+    },
+    "practice": {
+      "speaking": "Tự hỏi và trả lời về cảm xúc và vị trí của bạn.",
+      "writing": "Viết một câu hỏi có where và một câu trả lời.",
+      "model": "Where is Nam? He is at home.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-gia-dinh",
+    "stage": 2,
+    "level": "A1",
+    "order": 3,
+    "title": "Gia đình và sở hữu",
+    "goal": "Giới thiệu người thân bằng have/has và sở hữu với ’s.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "sister",
+        "ipa": "/ˈsɪstə/",
+        "vi": "chị / em gái"
+      },
+      {
+        "en": "brother",
+        "ipa": "/ˈbrʌðə/",
+        "vi": "anh / em trai"
+      },
+      {
+        "en": "family",
+        "ipa": "/ˈfæməli/",
+        "vi": "gia đình"
+      },
+      {
+        "en": "parent",
+        "ipa": "/ˈpeərənt/",
+        "vi": "bố hoặc mẹ"
+      },
+      {
+        "en": "mother",
+        "ipa": "/ˈmʌðə/",
+        "vi": "mẹ"
+      },
+      {
+        "en": "father",
+        "ipa": "/ˈfɑːðə/",
+        "vi": "bố"
+      },
+      {
+        "en": "dog",
+        "ipa": "/dɒɡ/",
+        "vi": "chó"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Nói bạn có gì hoặc ai",
+        "body": "I/you/we/they dùng have; he/she/it hoặc một người dùng has trong câu khẳng định hiện tại.",
+        "formula": "I have … / She has …",
+        "examples": [
+          {
+            "en": "I have a sister.",
+            "vi": "Tôi có một chị/em gái."
+          },
+          {
+            "en": "Mai has two brothers.",
+            "vi": "Mai có hai anh/em trai."
+          }
+        ]
+      },
+      {
+        "title": "Tên người + ’s",
+        "body": "Dùng ’s để nói đồ hoặc quan hệ thuộc về một người. Trường hợp này không phải viết tắt của is.",
+        "formula": "Mai’s + danh từ",
+        "examples": [
+          {
+            "en": "This is Mai’s brother.",
+            "vi": "Đây là anh/em trai của Mai."
+          },
+          {
+            "en": "Nam’s bag is blue.",
+            "vi": "Túi của Nam màu xanh."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Have/has ở đây không có nghĩa đang làm gì.",
+      "My brother’s name: tên của anh/em trai tôi."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền have/has: She ___ a sister.",
+        "answer": "has",
+        "explain": "She đi với has."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "I has two brothers.",
+          "I have two brothers.",
+          "I have two brother."
+        ],
+        "answer": 1,
+        "explain": "I đi với have, two dùng số nhiều."
+      },
+      {
+        "type": "choice",
+        "question": "Mai’s bag nghĩa là gì?",
+        "options": [
+          "Mai là túi",
+          "Túi của Mai",
+          "Nhiều người tên Mai"
+        ],
+        "answer": 1,
+        "explain": "’s diễn tả sở hữu trong cụm này."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I have a sister.",
+        "options": [
+          "Tôi không có gia đình",
+          "Tôi có chị/em gái",
+          "Tôi có anh/em trai"
+        ],
+        "answer": 1,
+        "explain": "Sister là chị/em gái."
+      },
+      {
+        "type": "choice",
+        "question": "Hai người anh/em trai viết là gì?",
+        "options": [
+          "two brothers",
+          "a brothers",
+          "two brother"
+        ],
+        "answer": 0,
+        "explain": "Thêm s vào brother sau two."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: I ___ a brother.",
+        "answer": "have",
+        "explain": "I đi với have."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “chị / em gái”?",
+        "options": [
+          "family",
+          "brother",
+          "sister"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, sister nghĩa là chị / em gái."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "family",
+        "options": [
+          "gia đình",
+          "chị / em gái",
+          "anh / em trai"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy family: gia đình."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "My name is Mai. I have a sister. Her name is Lan. Lan has a small dog.",
+      "vi": "Tên tôi là Mai. Tôi có chị/em gái. Tên cô ấy là Lan. Lan có một con chó nhỏ."
+    },
+    "practice": {
+      "speaking": "Giới thiệu hai người trong gia đình; có thể dùng gia đình giả định.",
+      "writing": "Viết ba câu giới thiệu một gia đình.",
+      "model": "I have a brother. His name is Nam. He has a dog.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-this-that",
+    "stage": 2,
+    "level": "A1",
+    "order": 4,
+    "title": "This/that và đồ vật quanh bạn",
+    "goal": "Chỉ vật gần/xa và phân biệt một vật với nhiều vật.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "this",
+        "ipa": "/ðɪs/",
+        "vi": "cái này"
+      },
+      {
+        "en": "that",
+        "ipa": "/ðæt/",
+        "vi": "cái kia"
+      },
+      {
+        "en": "these",
+        "ipa": "/ðiːz/",
+        "vi": "những cái này"
+      },
+      {
+        "en": "those",
+        "ipa": "/ðəʊz/",
+        "vi": "những cái kia"
+      },
+      {
+        "en": "phone",
+        "ipa": "/fəʊn/",
+        "vi": "điện thoại"
+      },
+      {
+        "en": "chair",
+        "ipa": "/tʃeə/",
+        "vi": "ghế"
+      },
+      {
+        "en": "desk",
+        "ipa": "/desk/",
+        "vi": "bàn làm việc"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Gần hoặc xa",
+        "body": "This/these thường chỉ vật gần; that/those thường chỉ vật xa. Chọn số ít hay nhiều theo danh từ.",
+        "formula": "this/that + số ít · these/those + số nhiều",
+        "examples": [
+          {
+            "en": "This is my phone.",
+            "vi": "Đây là điện thoại của tôi."
+          },
+          {
+            "en": "Those are my books.",
+            "vi": "Kia là sách của tôi."
+          }
+        ]
+      },
+      {
+        "title": "Ghép với to be",
+        "body": "This/that đi với is; these/those đi với are.",
+        "formula": "This is … / These are …",
+        "examples": [
+          {
+            "en": "That is a chair.",
+            "vi": "Kia là một cái ghế."
+          },
+          {
+            "en": "These are blue bags.",
+            "vi": "Đây là những chiếc túi xanh."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết these is hoặc this books.",
+      "Đồ vật số ít thường cần a/an hoặc từ sở hữu như my."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền is/are: These ___ my books.",
+        "answer": "are",
+        "explain": "These chỉ nhiều vật."
+      },
+      {
+        "type": "choice",
+        "question": "Một vật ở gần dùng gì?",
+        "options": [
+          "these",
+          "those",
+          "this"
+        ],
+        "answer": 2,
+        "explain": "This chỉ một vật gần."
+      },
+      {
+        "type": "choice",
+        "question": "Nhiều vật ở xa dùng gì?",
+        "options": [
+          "this",
+          "that",
+          "those"
+        ],
+        "answer": 2,
+        "explain": "Those chỉ nhiều vật xa."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "This is my phone.",
+        "options": [
+          "Kia là sách",
+          "Đây là ghế của bạn",
+          "Đây là điện thoại của tôi"
+        ],
+        "answer": 2,
+        "explain": "This là cái này; my phone là điện thoại của tôi."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "These are my bags.",
+          "This are my bags.",
+          "Those is my bags."
+        ],
+        "answer": 0,
+        "explain": "These đi với are và bags."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ chỉ vật xa số ít: ___ is a chair.",
+        "answer": "that",
+        "explain": "That chỉ một vật ở xa."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “cái này”?",
+        "options": [
+          "this",
+          "these",
+          "that"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, this nghĩa là cái này."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "these",
+        "options": [
+          "cái kia",
+          "cái này",
+          "những cái này"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy these: những cái này."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "This is my desk. These are my books. That is Lan’s chair.",
+      "vi": "Đây là bàn của tôi. Đây là những cuốn sách của tôi. Kia là ghế của Lan."
+    },
+    "practice": {
+      "speaking": "Chỉ một vật gần và nhiều vật xa, rồi nói thành câu.",
+      "writing": "Viết hai câu dùng this và those.",
+      "model": "This is my bag. Those are my books.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-nha-o",
+    "stage": 2,
+    "level": "A1",
+    "order": 5,
+    "title": "Nhà ở và vị trí đồ vật",
+    "goal": "Mô tả căn phòng với there is/are và in/on/under/next to.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "room",
+        "ipa": "/ruːm/",
+        "vi": "phòng"
+      },
+      {
+        "en": "table",
+        "ipa": "/ˈteɪbl/",
+        "vi": "bàn"
+      },
+      {
+        "en": "under",
+        "ipa": "/ˈʌndə/",
+        "vi": "bên dưới"
+      },
+      {
+        "en": "next to",
+        "ipa": "/ˈnekst tuː/",
+        "vi": "bên cạnh"
+      },
+      {
+        "en": "in",
+        "ipa": "/ɪn/",
+        "vi": "ở trong"
+      },
+      {
+        "en": "on",
+        "ipa": "/ɒn/",
+        "vi": "ở trên bề mặt"
+      },
+      {
+        "en": "bed",
+        "ipa": "/bed/",
+        "vi": "giường"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Có gì trong phòng",
+        "body": "There is cho một vật; there are cho nhiều vật. Không dùng have thay cho there is khi chủ ngữ là nơi chốn trong mẫu này.",
+        "formula": "There is a … / There are two …",
+        "examples": [
+          {
+            "en": "There is a table in my room.",
+            "vi": "Có một chiếc bàn trong phòng tôi."
+          },
+          {
+            "en": "There are two chairs.",
+            "vi": "Có hai chiếc ghế."
+          }
+        ]
+      },
+      {
+        "title": "Đặt vật vào vị trí",
+        "body": "In là bên trong; on là trên bề mặt; under là bên dưới; next to là bên cạnh.",
+        "formula": "Đồ vật + is/are + vị trí",
+        "examples": [
+          {
+            "en": "The bag is under the table.",
+            "vi": "Túi ở dưới bàn."
+          },
+          {
+            "en": "The chair is next to the desk.",
+            "vi": "Ghế ở cạnh bàn làm việc."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Nói The bag is… khi người nghe biết chiếc túi nào.",
+      "There is giới thiệu sự có mặt; the bag is nói vị trí một vật cụ thể."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền is/are: There ___ two chairs.",
+        "answer": "are",
+        "explain": "Two chairs là nhiều vật."
+      },
+      {
+        "type": "choice",
+        "question": "Under the table là gì?",
+        "options": [
+          "Dưới bàn",
+          "Trên bàn",
+          "Trong bàn"
+        ],
+        "answer": 0,
+        "explain": "Under nghĩa là bên dưới."
+      },
+      {
+        "type": "choice",
+        "question": "Một chiếc bàn dùng câu nào?",
+        "options": [
+          "There is a table.",
+          "There are a table.",
+          "There have a table."
+        ],
+        "answer": 0,
+        "explain": "Dùng there is cho một vật."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "The bag is under the table.",
+        "options": [
+          "Túi dưới bàn",
+          "Túi trên ghế",
+          "Bàn cạnh túi"
+        ],
+        "answer": 0,
+        "explain": "Chú ý under."
+      },
+      {
+        "type": "fill",
+        "question": "Điền giới từ: The book is ___ the table. (trên mặt bàn)",
+        "answer": "on",
+        "explain": "On dùng cho trên bề mặt."
+      },
+      {
+        "type": "choice",
+        "question": "Next to diễn tả gì?",
+        "options": [
+          "Phía trên",
+          "Bên cạnh",
+          "Bên trong"
+        ],
+        "answer": 1,
+        "explain": "Next to là bên cạnh."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “phòng”?",
+        "options": [
+          "table",
+          "under",
+          "room"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, room nghĩa là phòng."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "under",
+        "options": [
+          "phòng",
+          "bên dưới",
+          "bàn"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy under: bên dưới."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "There is a desk in my room. There are two books on the desk. My bag is under the desk.",
+      "vi": "Có bàn làm việc trong phòng tôi. Có hai cuốn sách trên bàn. Túi tôi ở dưới bàn."
+    },
+    "practice": {
+      "speaking": "Mô tả ba vật trong phòng bằng vị trí; không cần giống đoạn mẫu.",
+      "writing": "Viết ba câu mô tả một căn phòng.",
+      "model": "There is a table. The book is on the table. The bag is under the table.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-thoi-quen",
+    "stage": 2,
+    "level": "A1",
+    "order": 6,
+    "title": "Hiện tại đơn: một ngày của bạn",
+    "goal": "Nói thói quen và dùng đuôi s/es với he/she.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "usually",
+        "ipa": "/ˈjuːʒuəli/",
+        "vi": "thường"
+      },
+      {
+        "en": "breakfast",
+        "ipa": "/ˈbrekfəst/",
+        "vi": "bữa sáng"
+      },
+      {
+        "en": "every day",
+        "ipa": "/ˈevri deɪ/",
+        "vi": "mỗi ngày"
+      },
+      {
+        "en": "early",
+        "ipa": "/ˈɜːli/",
+        "vi": "sớm"
+      },
+      {
+        "en": "get up",
+        "ipa": "/ɡet ˈʌp/",
+        "vi": "thức dậy"
+      },
+      {
+        "en": "walk",
+        "ipa": "/wɔːk/",
+        "vi": "đi bộ"
+      },
+      {
+        "en": "study",
+        "ipa": "/ˈstʌdi/",
+        "vi": "học"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Thói quen lặp lại",
+        "body": "Dùng hiện tại đơn cho việc thường làm. I/you/we/they dùng động từ nguyên mẫu; he/she/it thêm s/es theo quy tắc.",
+        "formula": "I work. / She works.",
+        "examples": [
+          {
+            "en": "I eat breakfast at seven.",
+            "vi": "Tôi ăn sáng lúc bảy giờ."
+          },
+          {
+            "en": "She goes to work early.",
+            "vi": "Cô ấy đi làm sớm."
+          }
+        ]
+      },
+      {
+        "title": "Tần suất đứng ở đâu",
+        "body": "Usually/often thường trước động từ thường nhưng sau to be. Every day thường ở cuối câu.",
+        "formula": "I usually + V · She is usually …",
+        "examples": [
+          {
+            "en": "I usually walk to work.",
+            "vi": "Tôi thường đi bộ đi làm."
+          },
+          {
+            "en": "He is usually early.",
+            "vi": "Anh ấy thường đến sớm."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết She go hoặc I am work.",
+      "Go → goes; study → studies. Hãy kiểm tra chủ ngữ trước khi thêm đuôi."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: She ___ to work. (go)",
+        "answer": "goes",
+        "explain": "She dùng goes ở hiện tại đơn."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "I usually walks to work.",
+          "I am usually walk to work.",
+          "I usually walk to work."
+        ],
+        "answer": 2,
+        "explain": "I đi với động từ walk nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Every day thường gợi ý gì?",
+        "options": [
+          "Một câu hỏi sở hữu",
+          "Một việc duy nhất hôm qua",
+          "Thói quen lặp lại"
+        ],
+        "answer": 2,
+        "explain": "Every day là mỗi ngày."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I eat breakfast at seven.",
+        "options": [
+          "Ăn sáng lúc 7 giờ",
+          "Đi ngủ lúc 7 giờ",
+          "Ăn tối lúc 6 giờ"
+        ],
+        "answer": 0,
+        "explain": "Eat breakfast là ăn sáng."
+      },
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: He ___ English. (study)",
+        "answer": "studies",
+        "explain": "Study đổi y thành ies sau phụ âm."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn vị trí usually đúng.",
+        "options": [
+          "She usually is early works.",
+          "She is early usually goes.",
+          "She is usually early."
+        ],
+        "answer": 2,
+        "explain": "Usually thường sau to be."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “thường”?",
+        "options": [
+          "every day",
+          "breakfast",
+          "usually"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, usually nghĩa là thường."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "every day",
+        "options": [
+          "thường",
+          "bữa sáng",
+          "mỗi ngày"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy every day: mỗi ngày."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Lan gets up at six. She eats breakfast at seven. She usually walks to work.",
+      "vi": "Lan thức dậy lúc sáu giờ. Cô ấy ăn sáng lúc bảy giờ. Cô ấy thường đi bộ đi làm."
+    },
+    "practice": {
+      "speaking": "Kể ba việc bạn làm mỗi ngày, rồi kể một việc của bạn mình.",
+      "writing": "Viết ba câu về thói quen, gồm một câu với he hoặc she.",
+      "model": "I get up at seven. I work every day. My sister studies English.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-do-does",
+    "stage": 2,
+    "level": "A1",
+    "order": 7,
+    "title": "Hỏi và phủ định với do/does",
+    "goal": "Hỏi về thói quen và nói việc bạn không làm.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "like",
+        "ipa": "/laɪk/",
+        "vi": "thích"
+      },
+      {
+        "en": "coffee",
+        "ipa": "/ˈkɒfi/",
+        "vi": "cà phê"
+      },
+      {
+        "en": "tea",
+        "ipa": "/tiː/",
+        "vi": "trà"
+      },
+      {
+        "en": "weekend",
+        "ipa": "/ˌwiːkˈend/",
+        "vi": "cuối tuần"
+      },
+      {
+        "en": "drink",
+        "ipa": "/drɪŋk/",
+        "vi": "uống"
+      },
+      {
+        "en": "Saturday",
+        "ipa": "/ˈsætədeɪ/",
+        "vi": "thứ Bảy"
+      },
+      {
+        "en": "Sunday",
+        "ipa": "/ˈsʌndeɪ/",
+        "vi": "Chủ nhật"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Phủ định với động từ thường",
+        "body": "I/you/we/they dùng don’t; he/she/it dùng doesn’t. Sau trợ động từ, dùng động từ nguyên mẫu.",
+        "formula": "She doesn’t + V",
+        "examples": [
+          {
+            "en": "I don’t drink coffee.",
+            "vi": "Tôi không uống cà phê."
+          },
+          {
+            "en": "She doesn’t work on Sunday.",
+            "vi": "Cô ấy không làm việc Chủ nhật."
+          }
+        ]
+      },
+      {
+        "title": "Hỏi và trả lời ngắn",
+        "body": "Đặt do/does trước chủ ngữ. Trả lời dùng do/does, không dùng am/is/are.",
+        "formula": "Does she like tea? → Yes, she does.",
+        "examples": [
+          {
+            "en": "Do you like tea?",
+            "vi": "Bạn thích trà không?"
+          },
+          {
+            "en": "No, I don’t.",
+            "vi": "Không, tôi không thích."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết doesn’t likes hoặc Does she works.",
+      "Với to be dùng Are you…; với like dùng Do you like…"
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền do/does: ___ she like tea?",
+        "answer": "does",
+        "explain": "She dùng does."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu phủ định đúng.",
+        "options": [
+          "She isn’t like coffee.",
+          "She doesn’t likes coffee.",
+          "She doesn’t like coffee."
+        ],
+        "answer": 2,
+        "explain": "Sau doesn’t dùng like nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Trả lời Do you work?",
+        "options": [
+          "Yes, I do.",
+          "Yes, I does.",
+          "Yes, I am."
+        ],
+        "answer": 0,
+        "explain": "Lặp lại trợ động từ do."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I don’t drink coffee.",
+        "options": [
+          "Tôi không uống trà",
+          "Tôi uống cà phê",
+          "Tôi không uống cà phê"
+        ],
+        "answer": 2,
+        "explain": "Don’t tạo phủ định; coffee là cà phê."
+      },
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: Does he ___ here? (work)",
+        "answer": "work",
+        "explain": "Sau does dùng work."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu hỏi về sở thích.",
+        "options": [
+          "Are you like tea?",
+          "Does you like tea?",
+          "Do you like tea?"
+        ],
+        "answer": 2,
+        "explain": "You đi với do khi hỏi với like."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “thích”?",
+        "options": [
+          "like",
+          "tea",
+          "coffee"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, like nghĩa là thích."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "tea",
+        "options": [
+          "cà phê",
+          "trà",
+          "thích"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy tea: trà."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Mai likes tea. She doesn’t drink coffee. She works on Saturday, but she doesn’t work on Sunday.",
+      "vi": "Mai thích trà. Cô ấy không uống cà phê. Cô ấy làm việc thứ Bảy nhưng không làm Chủ nhật."
+    },
+    "practice": {
+      "speaking": "Hỏi hai câu về thói quen, tự trả lời bằng yes/no.",
+      "writing": "Viết một việc bạn làm và một việc bạn không làm.",
+      "model": "I drink tea. I don’t drink coffee.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-gio-ngay",
+    "stage": 2,
+    "level": "A1",
+    "order": 8,
+    "title": "Giờ, thứ và lịch hẹn",
+    "goal": "Nói giờ đơn giản và chọn at/on/in cho lịch hẹn.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "Monday",
+        "ipa": "/ˈmʌndeɪ/",
+        "vi": "thứ Hai"
+      },
+      {
+        "en": "morning",
+        "ipa": "/ˈmɔːnɪŋ/",
+        "vi": "buổi sáng"
+      },
+      {
+        "en": "meeting",
+        "ipa": "/ˈmiːtɪŋ/",
+        "vi": "cuộc họp"
+      },
+      {
+        "en": "o’clock",
+        "ipa": "/əˈklɒk/",
+        "vi": "giờ đúng"
+      },
+      {
+        "en": "evening",
+        "ipa": "/ˈiːvnɪŋ/",
+        "vi": "buổi tối"
+      },
+      {
+        "en": "night",
+        "ipa": "/naɪt/",
+        "vi": "đêm"
+      },
+      {
+        "en": "start",
+        "ipa": "/stɑːt/",
+        "vi": "bắt đầu"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Đọc giờ theo cách dễ trước",
+        "body": "Có thể đọc 7:30 là seven thirty. Học thêm half past seven sau khi đã quen số.",
+        "formula": "7:00 → seven o’clock · 7:30 → seven thirty",
+        "examples": [
+          {
+            "en": "It is seven thirty.",
+            "vi": "Bây giờ là bảy giờ ba mươi."
+          },
+          {
+            "en": "The class starts at eight.",
+            "vi": "Lớp bắt đầu lúc tám giờ."
+          }
+        ]
+      },
+      {
+        "title": "Ba giới từ cho thời gian",
+        "body": "At dùng cho giờ; on dùng cho ngày/thứ; in dùng cho tháng/năm và buổi như the morning.",
+        "formula": "at seven · on Monday · in the morning",
+        "examples": [
+          {
+            "en": "The meeting is on Monday.",
+            "vi": "Cuộc họp vào thứ Hai."
+          },
+          {
+            "en": "I study in the morning.",
+            "vi": "Tôi học vào buổi sáng."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Dùng at night nhưng in the morning.",
+      "Không thêm at/on/in trước today, tomorrow, every day trong các cụm thời gian này."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền giới từ: ___ Monday.",
+        "answer": "on",
+        "explain": "Ngày/thứ dùng on."
+      },
+      {
+        "type": "fill",
+        "question": "Điền giới từ: ___ seven o’clock.",
+        "answer": "at",
+        "explain": "Giờ dùng at."
+      },
+      {
+        "type": "choice",
+        "question": "Seven thirty là giờ nào?",
+        "options": [
+          "7:30",
+          "7:13",
+          "6:30"
+        ],
+        "answer": 0,
+        "explain": "Thirty là ba mươi phút."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "The meeting is at eight on Monday.",
+        "options": [
+          "7 giờ thứ Hai",
+          "8 giờ thứ Ba",
+          "8 giờ thứ Hai"
+        ],
+        "answer": 2,
+        "explain": "Nghe cả eight và Monday."
+      },
+      {
+        "type": "choice",
+        "question": "Cụm đúng là gì?",
+        "options": [
+          "in the morning",
+          "on the morning",
+          "at the morning"
+        ],
+        "answer": 0,
+        "explain": "Buổi sáng nói in the morning."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn cụm đúng.",
+        "options": [
+          "tomorrow",
+          "at tomorrow",
+          "on tomorrow"
+        ],
+        "answer": 0,
+        "explain": "Không thêm giới từ trước tomorrow trong cách dùng này."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “thứ Hai”?",
+        "options": [
+          "meeting",
+          "Monday",
+          "morning"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, Monday nghĩa là thứ Hai."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "meeting",
+        "options": [
+          "buổi sáng",
+          "thứ Hai",
+          "cuộc họp"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy meeting: cuộc họp."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "The English class is on Monday. It starts at seven thirty in the evening.",
+      "vi": "Lớp tiếng Anh vào thứ Hai. Lớp bắt đầu lúc bảy giờ ba mươi tối."
+    },
+    "practice": {
+      "speaking": "Nói giờ của một lớp học hoặc cuộc hẹn giả định.",
+      "writing": "Viết một tin nhắn ngắn nói thứ và giờ hẹn.",
+      "model": "The meeting is on Monday at eight.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-dang-lam",
+    "stage": 2,
+    "level": "A1",
+    "order": 9,
+    "title": "Hiện tại tiếp diễn: việc đang diễn ra",
+    "goal": "Mô tả việc đang làm bằng am/is/are + V-ing.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "reading",
+        "ipa": "/ˈriːdɪŋ/",
+        "vi": "đang đọc"
+      },
+      {
+        "en": "cooking",
+        "ipa": "/ˈkʊkɪŋ/",
+        "vi": "đang nấu ăn"
+      },
+      {
+        "en": "now",
+        "ipa": "/naʊ/",
+        "vi": "bây giờ"
+      },
+      {
+        "en": "waiting",
+        "ipa": "/ˈweɪtɪŋ/",
+        "vi": "đang chờ"
+      },
+      {
+        "en": "running",
+        "ipa": "/ˈrʌnɪŋ/",
+        "vi": "đang chạy"
+      },
+      {
+        "en": "making",
+        "ipa": "/ˈmeɪkɪŋ/",
+        "vi": "đang làm / tạo"
+      },
+      {
+        "en": "outside",
+        "ipa": "/ˌaʊtˈsaɪd/",
+        "vi": "ở bên ngoài"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Có to be và V-ing",
+        "body": "Không bỏ am/is/are. Thêm ing vào động từ theo quy tắc; make → making, run → running.",
+        "formula": "S + am/is/are + V-ing",
+        "examples": [
+          {
+            "en": "I am reading now.",
+            "vi": "Tôi đang đọc bây giờ."
+          },
+          {
+            "en": "She is cooking.",
+            "vi": "Cô ấy đang nấu ăn."
+          }
+        ]
+      },
+      {
+        "title": "Hỏi người khác đang làm gì",
+        "body": "Đảo to be lên đầu, hoặc đặt what trước câu hỏi.",
+        "formula": "What are you doing?",
+        "examples": [
+          {
+            "en": "Are you waiting?",
+            "vi": "Bạn đang chờ à?"
+          },
+          {
+            "en": "No, I am not waiting.",
+            "vi": "Không, tôi không đang chờ."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết I reading hoặc I am read.",
+      "Now giúp hiểu ngữ cảnh nhưng không phải mọi câu có now đều phải dùng tiếp diễn."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền am/is/are: I ___ reading.",
+        "answer": "am",
+        "explain": "I đi với am."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "She cooking.",
+          "She is cooking.",
+          "She is cook."
+        ],
+        "answer": 1,
+        "explain": "Cần is và V-ing."
+      },
+      {
+        "type": "fill",
+        "question": "Dạng V-ing của make là gì?",
+        "answer": "making",
+        "explain": "Bỏ e trước khi thêm ing."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I am waiting now.",
+        "options": [
+          "Tôi đã đọc hôm qua",
+          "Tôi nấu ăn mỗi ngày",
+          "Tôi đang chờ"
+        ],
+        "answer": 2,
+        "explain": "Am waiting diễn tả việc đang chờ."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu hỏi đúng.",
+        "options": [
+          "What do you doing?",
+          "What you doing?",
+          "What are you doing?"
+        ],
+        "answer": 2,
+        "explain": "Dùng are trước you trong câu tiếp diễn."
+      },
+      {
+        "type": "choice",
+        "question": "Câu phủ định đúng là gì?",
+        "options": [
+          "She not is cooking.",
+          "She is not cooking.",
+          "She doesn’t cooking."
+        ],
+        "answer": 1,
+        "explain": "Not đứng sau is."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “đang đọc”?",
+        "options": [
+          "now",
+          "cooking",
+          "reading"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, reading nghĩa là đang đọc."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "now",
+        "options": [
+          "đang nấu ăn",
+          "bây giờ",
+          "đang đọc"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy now: bây giờ."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "It is evening. Mai is cooking. Nam is reading. Their friends are waiting outside.",
+      "vi": "Đang là buổi tối. Mai đang nấu ăn. Nam đang đọc. Bạn của họ đang chờ bên ngoài."
+    },
+    "practice": {
+      "speaking": "Mô tả hai hành động đang xảy ra hoặc tưởng tượng một cảnh.",
+      "writing": "Viết hai câu khẳng định và một câu phủ định ở tiếp diễn.",
+      "model": "I am reading. My sister is cooking. We are not working.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-kha-nang",
+    "stage": 2,
+    "level": "A1",
+    "order": 10,
+    "title": "Can và lời nhờ giúp đỡ",
+    "goal": "Nói khả năng và dùng can để nhờ giúp đơn giản.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "swim",
+        "ipa": "/swɪm/",
+        "vi": "bơi"
+      },
+      {
+        "en": "drive",
+        "ipa": "/draɪv/",
+        "vi": "lái xe"
+      },
+      {
+        "en": "help",
+        "ipa": "/help/",
+        "vi": "giúp đỡ"
+      },
+      {
+        "en": "speak",
+        "ipa": "/spiːk/",
+        "vi": "nói"
+      },
+      {
+        "en": "cook",
+        "ipa": "/kʊk/",
+        "vi": "nấu ăn"
+      },
+      {
+        "en": "a little",
+        "ipa": "/ə ˈlɪtl/",
+        "vi": "một chút"
+      },
+      {
+        "en": "English",
+        "ipa": "/ˈɪŋɡlɪʃ/",
+        "vi": "tiếng Anh"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Can không đổi theo chủ ngữ",
+        "body": "Sau can/can’t dùng động từ nguyên mẫu, không thêm to hoặc s.",
+        "formula": "S + can/can’t + V",
+        "examples": [
+          {
+            "en": "She can swim.",
+            "vi": "Cô ấy biết bơi."
+          },
+          {
+            "en": "I can’t drive.",
+            "vi": "Tôi không biết lái xe."
+          }
+        ]
+      },
+      {
+        "title": "Nhờ giúp hoặc hỏi khả năng",
+        "body": "Can đặt trước chủ ngữ khi hỏi. Please làm lời nhờ nhẹ hơn.",
+        "formula": "Can you + V …?",
+        "examples": [
+          {
+            "en": "Can you help me, please?",
+            "vi": "Bạn giúp tôi được không?"
+          },
+          {
+            "en": "Yes, I can.",
+            "vi": "Được, tôi có thể."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết can swims hoặc can to swim.",
+      "Can’t có thể khó nghe; dùng ngữ cảnh và nghe lại."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: She can ___. (swim)",
+        "answer": "swim",
+        "explain": "Can đi với động từ nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Câu nào là nhờ giúp?",
+        "options": [
+          "Do can you help?",
+          "You can a help.",
+          "Can you help me?"
+        ],
+        "answer": 2,
+        "explain": "Can đứng trước you."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "I don’t can drive.",
+          "I can’t drive.",
+          "I can’t to drive."
+        ],
+        "answer": 1,
+        "explain": "Phủ định của can là can’t."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "She can swim.",
+        "options": [
+          "Cô ấy đang ngủ",
+          "Cô ấy biết bơi",
+          "Cô ấy biết lái xe"
+        ],
+        "answer": 1,
+        "explain": "Swim là bơi."
+      },
+      {
+        "type": "choice",
+        "question": "Trả lời Can you drive?",
+        "options": [
+          "Yes, I do.",
+          "Yes, I can.",
+          "Yes, I am."
+        ],
+        "answer": 1,
+        "explain": "Dùng lại can trong trả lời ngắn."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ lịch sự: Can you help me, ___?",
+        "answer": "please",
+        "explain": "Please làm lời nhờ lịch sự."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “bơi”?",
+        "options": [
+          "swim",
+          "drive",
+          "help"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, swim nghĩa là bơi."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "help",
+        "options": [
+          "lái xe",
+          "bơi",
+          "giúp đỡ"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy help: giúp đỡ."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Mai can swim, but she can’t drive. She can speak a little English.",
+      "vi": "Mai biết bơi nhưng không biết lái xe. Cô ấy nói được một chút tiếng Anh."
+    },
+    "practice": {
+      "speaking": "Nói một điều bạn làm được, một điều chưa làm được và một lời nhờ giúp.",
+      "writing": "Viết ba câu với can/can’t.",
+      "model": "I can cook. I can’t drive. Can you help me, please?",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-do-an",
+    "stage": 2,
+    "level": "A1",
+    "order": 11,
+    "title": "Đồ ăn và gọi món",
+    "goal": "Đặt món lịch sự và dùng some với đồ ăn không đếm được.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "water",
+        "ipa": "/ˈwɔːtə/",
+        "vi": "nước"
+      },
+      {
+        "en": "rice",
+        "ipa": "/raɪs/",
+        "vi": "cơm / gạo"
+      },
+      {
+        "en": "menu",
+        "ipa": "/ˈmenjuː/",
+        "vi": "thực đơn"
+      },
+      {
+        "en": "bill",
+        "ipa": "/bɪl/",
+        "vi": "hóa đơn"
+      },
+      {
+        "en": "sandwich",
+        "ipa": "/ˈsænwɪtʃ/",
+        "vi": "bánh mì kẹp"
+      },
+      {
+        "en": "bowl",
+        "ipa": "/bəʊl/",
+        "vi": "bát"
+      },
+      {
+        "en": "glass",
+        "ipa": "/ɡlɑːs/",
+        "vi": "cốc / ly"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Nói số lượng đúng",
+        "body": "Rice/water thường không đếm được trong cách dùng cơ bản. Dùng a glass of water hoặc some rice, không a rice.",
+        "formula": "some + không đếm được · a glass of + đồ uống",
+        "examples": [
+          {
+            "en": "I would like some water.",
+            "vi": "Tôi muốn một ít nước."
+          },
+          {
+            "en": "A bowl of rice, please.",
+            "vi": "Cho tôi một bát cơm."
+          }
+        ]
+      },
+      {
+        "title": "Gọi món lịch sự",
+        "body": "I’d like là I would like. Đây là mẫu gọi món, không phải I like diễn tả sở thích nói chung.",
+        "formula": "I’d like …, please.",
+        "examples": [
+          {
+            "en": "I’d like a sandwich, please.",
+            "vi": "Cho tôi một bánh mì kẹp."
+          },
+          {
+            "en": "Could I have the bill, please?",
+            "vi": "Cho tôi xin hóa đơn được không?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Đếm bằng đơn vị: two glasses of water.",
+      "Some cũng thường dùng trong lời mời và lời yêu cầu, không chỉ câu khẳng định."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Chọn cụm đúng.",
+        "options": [
+          "a rice",
+          "two rices",
+          "some rice"
+        ],
+        "answer": 2,
+        "explain": "Rice thường không đếm được."
+      },
+      {
+        "type": "choice",
+        "question": "Bạn muốn gọi món, chọn gì?",
+        "options": [
+          "I’d like a sandwich, please.",
+          "I am sandwich.",
+          "I like sandwich yesterday."
+        ],
+        "answer": 0,
+        "explain": "I’d like dùng cho yêu cầu mong muốn lúc này."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: a glass of ___. (nước)",
+        "answer": "water",
+        "explain": "A glass of water là một cốc nước."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "A bowl of rice, please.",
+        "options": [
+          "Một bát cơm",
+          "Một ly nước",
+          "Xin hóa đơn"
+        ],
+        "answer": 0,
+        "explain": "Bowl of rice là bát cơm."
+      },
+      {
+        "type": "choice",
+        "question": "Bill trong nhà hàng là gì?",
+        "options": [
+          "Thực đơn",
+          "Hóa đơn",
+          "Đầu bếp"
+        ],
+        "answer": 1,
+        "explain": "Bill là hóa đơn thanh toán."
+      },
+      {
+        "type": "choice",
+        "question": "Hai cốc nước viết thế nào?",
+        "options": [
+          "two glass of water",
+          "two glasses of water",
+          "two waters glass"
+        ],
+        "answer": 1,
+        "explain": "Thêm es vào glass: glasses."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “nước”?",
+        "options": [
+          "rice",
+          "menu",
+          "water"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, water nghĩa là nước."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "menu",
+        "options": [
+          "cơm / gạo",
+          "nước",
+          "thực đơn"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy menu: thực đơn."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: What would you like? B: A sandwich and some water, please. A: Of course.",
+      "vi": "A: Bạn muốn dùng gì? B: Một bánh mì kẹp và chút nước, làm ơn. A: Được thôi."
+    },
+    "practice": {
+      "speaking": "Đóng hai vai khách và người phục vụ, gọi một món và một đồ uống.",
+      "writing": "Viết lời gọi món lịch sự.",
+      "model": "I’d like a sandwich and a glass of water, please.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-mua-sam",
+    "stage": 2,
+    "level": "A1",
+    "order": 12,
+    "title": "Giá cả, kích cỡ và mua sắm",
+    "goal": "Hỏi giá, chọn đồ và nhờ một kích cỡ khác.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "price",
+        "ipa": "/praɪs/",
+        "vi": "giá"
+      },
+      {
+        "en": "size",
+        "ipa": "/saɪz/",
+        "vi": "kích cỡ"
+      },
+      {
+        "en": "cheap",
+        "ipa": "/tʃiːp/",
+        "vi": "rẻ"
+      },
+      {
+        "en": "expensive",
+        "ipa": "/ɪkˈspensɪv/",
+        "vi": "đắt"
+      },
+      {
+        "en": "shirt",
+        "ipa": "/ʃɜːt/",
+        "vi": "áo sơ mi"
+      },
+      {
+        "en": "pound",
+        "ipa": "/paʊnd/",
+        "vi": "bảng Anh"
+      },
+      {
+        "en": "try on",
+        "ipa": "/traɪ ˈɒn/",
+        "vi": "thử mặc"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Hỏi giá một hay nhiều món",
+        "body": "How much is this? hỏi một món; how much are these? hỏi nhiều món.",
+        "formula": "How much is …? / How much are …?",
+        "examples": [
+          {
+            "en": "How much is this shirt?",
+            "vi": "Áo này giá bao nhiêu?"
+          },
+          {
+            "en": "It is ten pounds.",
+            "vi": "Nó giá mười bảng."
+          }
+        ]
+      },
+      {
+        "title": "Nhờ xem hoặc đổi cỡ",
+        "body": "Dùng mẫu Can I…? hoặc Do you have…? khi cần hỗ trợ.",
+        "formula": "Do you have …?",
+        "examples": [
+          {
+            "en": "Do you have size M?",
+            "vi": "Bạn có cỡ M không?"
+          },
+          {
+            "en": "Can I try it on?",
+            "vi": "Tôi thử nó được không?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Hỏi giá dùng how much, không dùng how many.",
+      "Pound là đơn vị tiền trong ví dụ; dùng đơn vị phù hợp khi giao tiếp."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Hỏi giá một áo chọn câu nào?",
+        "options": [
+          "How many is this shirt?",
+          "How much is this shirt?",
+          "How is much shirt?"
+        ],
+        "answer": 1,
+        "explain": "How much hỏi giá, is cho một áo."
+      },
+      {
+        "type": "fill",
+        "question": "Điền is/are: How much ___ these shoes?",
+        "answer": "are",
+        "explain": "These shoes là số nhiều."
+      },
+      {
+        "type": "choice",
+        "question": "Muốn thử áo nói gì?",
+        "options": [
+          "Can I try it on?",
+          "Can I price?",
+          "I am on it."
+        ],
+        "answer": 0,
+        "explain": "Try it on là thử mặc nó."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "It is ten pounds.",
+        "options": [
+          "10 bảng",
+          "13 bảng",
+          "30 bảng"
+        ],
+        "answer": 0,
+        "explain": "Ten là 10."
+      },
+      {
+        "type": "choice",
+        "question": "Expensive nghĩa là gì?",
+        "options": [
+          "Rẻ",
+          "Đắt",
+          "Nhỏ"
+        ],
+        "answer": 1,
+        "explain": "Expensive là đắt."
+      },
+      {
+        "type": "choice",
+        "question": "Hỏi kích cỡ chọn gì?",
+        "options": [
+          "Where you size M?",
+          "Is you size M?",
+          "Do you have size M?"
+        ],
+        "answer": 2,
+        "explain": "Do you have… hỏi cửa hàng có món cần tìm không."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “giá”?",
+        "options": [
+          "price",
+          "cheap",
+          "size"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, price nghĩa là giá."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "cheap",
+        "options": [
+          "giá",
+          "rẻ",
+          "kích cỡ"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy cheap: rẻ."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "The shirt is ten pounds. It is blue. Mai wants size M. She asks to try it on.",
+      "vi": "Áo giá mười bảng. Áo màu xanh. Mai muốn cỡ M. Cô ấy xin thử áo."
+    },
+    "practice": {
+      "speaking": "Hỏi giá và hỏi cỡ của một món đồ giả định.",
+      "writing": "Viết hai câu bạn sẽ nói trong cửa hàng.",
+      "model": "How much is this shirt? Do you have size M?",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-duong-di",
+    "stage": 2,
+    "level": "A1",
+    "order": 13,
+    "title": "Hỏi đường và hiểu chỉ dẫn ngắn",
+    "goal": "Hỏi nơi chốn, hiểu turn left/right và go straight.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "left",
+        "ipa": "/left/",
+        "vi": "bên trái"
+      },
+      {
+        "en": "right",
+        "ipa": "/raɪt/",
+        "vi": "bên phải"
+      },
+      {
+        "en": "straight",
+        "ipa": "/streɪt/",
+        "vi": "thẳng"
+      },
+      {
+        "en": "station",
+        "ipa": "/ˈsteɪʃn/",
+        "vi": "nhà ga"
+      },
+      {
+        "en": "bank",
+        "ipa": "/bæŋk/",
+        "vi": "ngân hàng"
+      },
+      {
+        "en": "turn",
+        "ipa": "/tɜːn/",
+        "vi": "rẽ / xoay"
+      },
+      {
+        "en": "excuse me",
+        "ipa": "/ɪkˈskjuːz miː/",
+        "vi": "xin lỗi, dùng để mở lời"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Hỏi nơi chốn lịch sự",
+        "body": "Excuse me dùng để mở lời. Where is…? hỏi một địa điểm.",
+        "formula": "Excuse me. Where is …?",
+        "examples": [
+          {
+            "en": "Excuse me. Where is the station?",
+            "vi": "Xin lỗi. Nhà ga ở đâu?"
+          },
+          {
+            "en": "It is next to the bank.",
+            "vi": "Nó ở cạnh ngân hàng."
+          }
+        ]
+      },
+      {
+        "title": "Hiểu chỉ dẫn từng bước",
+        "body": "Câu mệnh lệnh bắt đầu bằng động từ. Nghe từng bước và xác nhận hướng nếu chưa rõ.",
+        "formula": "Go straight. Turn left/right.",
+        "examples": [
+          {
+            "en": "Go straight, then turn left.",
+            "vi": "Đi thẳng rồi rẽ trái."
+          },
+          {
+            "en": "The bank is on your right.",
+            "vi": "Ngân hàng ở bên phải bạn."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Right có thể là đúng hoặc bên phải; dựa vào ngữ cảnh chỉ đường.",
+      "Hỏi lại khi chưa hiểu thay vì đoán."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Turn left nghĩa là gì?",
+        "options": [
+          "Đi thẳng",
+          "Rẽ trái",
+          "Rẽ phải"
+        ],
+        "answer": 1,
+        "explain": "Left là trái."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: Go ___. (đi thẳng)",
+        "answer": "straight",
+        "explain": "Go straight là đi thẳng."
+      },
+      {
+        "type": "choice",
+        "question": "Mở lời hỏi đường chọn gì?",
+        "options": [
+          "Excuse me.",
+          "Good night only.",
+          "I am station."
+        ],
+        "answer": 0,
+        "explain": "Excuse me dùng để thu hút chú ý lịch sự."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Turn right.",
+        "options": [
+          "Dừng lại",
+          "Rẽ trái",
+          "Rẽ phải"
+        ],
+        "answer": 2,
+        "explain": "Right trong chỉ đường là bên phải."
+      },
+      {
+        "type": "choice",
+        "question": "The station is next to the bank nghĩa là gì?",
+        "options": [
+          "Ga ở trong ngân hàng",
+          "Ngân hàng rất đắt",
+          "Ga cạnh ngân hàng"
+        ],
+        "answer": 2,
+        "explain": "Next to là bên cạnh."
+      },
+      {
+        "type": "choice",
+        "question": "Khi chưa rõ chỉ dẫn nên nói gì?",
+        "options": [
+          "Could you say that again?",
+          "It is ten pounds.",
+          "I like rice."
+        ],
+        "answer": 0,
+        "explain": "Xin nhắc lại giúp xác nhận hướng."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “bên trái”?",
+        "options": [
+          "left",
+          "right",
+          "straight"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, left nghĩa là bên trái."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "straight",
+        "options": [
+          "bên trái",
+          "bên phải",
+          "thẳng"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy straight: thẳng."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: Where is the station? B: Go straight, then turn right. The station is next to the bank.",
+      "vi": "A: Ga ở đâu? B: Đi thẳng rồi rẽ phải. Ga ở cạnh ngân hàng."
+    },
+    "practice": {
+      "speaking": "Nói chỉ dẫn từ cửa phòng tới một đồ vật, dùng hai bước.",
+      "writing": "Viết một câu hỏi đường và hai bước chỉ dẫn.",
+      "model": "Where is the station? Go straight. Turn left.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a1-on-tong-hop",
+    "level": "A1",
+    "stage": 2,
+    "order": 14,
+    "title": "Ôn A1: giao tiếp những việc quen thuộc",
+    "goal": "Giới thiệu bản thân, nói thói quen, hỏi thông tin và yêu cầu đơn giản.",
+    "minutes": 20,
+    "checkpoint": true,
+    "passMark": 0.8,
+    "intro": "Làm bài không nhìn ghi nhớ trước. Sau mỗi câu, đọc giải thích và ghi lại điều còn nhầm. Luyện nói/viết được tự đối chiếu, không chấm tự động.",
+    "vocab": [
+      {
+        "en": "I",
+        "ipa": "/aɪ/",
+        "vi": "tôi",
+        "example": "I am ready.",
+        "exampleVi": "Tôi đã sẵn sàng."
+      },
+      {
+        "en": "you",
+        "ipa": "/juː/",
+        "vi": "bạn / các bạn"
+      },
+      {
+        "en": "she",
+        "ipa": "/ʃiː/",
+        "vi": "cô ấy"
+      },
+      {
+        "en": "we",
+        "ipa": "/wiː/",
+        "vi": "chúng tôi / chúng ta"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ôn theo việc bạn làm được",
+        "body": "Nhìn lại mục tiêu từng bài. Nếu chưa nói được, quay về bài đó và đọc theo ví dụ trước khi tự nói.",
+        "formula": "Nhớ ý → nói câu → kiểm tra",
+        "examples": [
+          {
+            "en": "I can speak a little English.",
+            "vi": "Tôi nói được một chút tiếng Anh."
+          },
+          {
+            "en": "Could you say that again?",
+            "vi": "Bạn nói lại được không?"
+          }
+        ]
+      },
+      {
+        "title": "Một điểm số chưa nói hết khả năng",
+        "body": "Các câu hỏi kiểm tra nhận biết và dùng mẫu. Để đánh giá nghe, nói, đọc, viết đầy đủ cần thêm bài đánh giá riêng.",
+        "formula": "Không quy đổi điểm thành chứng chỉ CEFR",
+        "examples": [
+          {
+            "en": "I want to practise every day.",
+            "vi": "Tôi muốn luyện mỗi ngày."
+          },
+          {
+            "en": "I can ask for help.",
+            "vi": "Tôi có thể nhờ giúp."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Mục tiêu tối thiểu là 80% câu đúng. Đọc lại phần giải thích của câu sai trước khi thử lại.",
+      "Một bài kiểm tra đạt không có nghĩa mọi kỹ năng ở mức đó đã thành thạo.",
+      "Quay lại ôn từ và luyện nói trong vài ngày, không chỉ làm bài một lần."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "I ___ ready.",
+        "options": [
+          "am",
+          "are",
+          "is"
+        ],
+        "answer": 0,
+        "explain": "I luôn đi với am ở hiện tại."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: Where ___ Mai?",
+        "answer": "is",
+        "explain": "Mai là một người nên dùng is."
+      },
+      {
+        "type": "choice",
+        "question": "Mai’s bag nghĩa là gì?",
+        "options": [
+          "Nhiều người tên Mai",
+          "Mai là túi",
+          "Túi của Mai"
+        ],
+        "answer": 2,
+        "explain": "’s diễn tả sở hữu trong cụm này."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "This is my phone.",
+        "options": [
+          "Đây là ghế của bạn",
+          "Kia là sách",
+          "Đây là điện thoại của tôi"
+        ],
+        "answer": 2,
+        "explain": "This là cái này; my phone là điện thoại của tôi."
+      },
+      {
+        "type": "fill",
+        "question": "Điền is/are: There ___ two chairs.",
+        "answer": "are",
+        "explain": "Two chairs là nhiều vật."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "I am usually walk to work.",
+          "I usually walks to work.",
+          "I usually walk to work."
+        ],
+        "answer": 2,
+        "explain": "I đi với động từ walk nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Trả lời Do you work?",
+        "options": [
+          "Yes, I do.",
+          "Yes, I does.",
+          "Yes, I am."
+        ],
+        "answer": 0,
+        "explain": "Lặp lại trợ động từ do."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "The meeting is at eight on Monday.",
+        "options": [
+          "8 giờ thứ Hai",
+          "8 giờ thứ Ba",
+          "7 giờ thứ Hai"
+        ],
+        "answer": 0,
+        "explain": "Nghe cả eight và Monday."
+      },
+      {
+        "type": "fill",
+        "question": "Điền am/is/are: I ___ reading.",
+        "answer": "am",
+        "explain": "I đi với am."
+      },
+      {
+        "type": "choice",
+        "question": "Câu nào là nhờ giúp?",
+        "options": [
+          "Do can you help?",
+          "You can a help.",
+          "Can you help me?"
+        ],
+        "answer": 2,
+        "explain": "Can đứng trước you."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: a glass of ___. (nước)",
+        "answer": "water",
+        "explain": "A glass of water là một cốc nước."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "It is ten pounds.",
+        "options": [
+          "30 bảng",
+          "10 bảng",
+          "13 bảng"
+        ],
+        "answer": 1,
+        "explain": "Ten là 10."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: Where is the station? B: Go straight, then turn right. The station is next to the bank.",
+      "vi": "A: Ga ở đâu? B: Đi thẳng rồi rẽ phải. Ga ở cạnh ngân hàng."
+    },
+    "practice": {
+      "speaking": "Giới thiệu bản thân trong 30–60 giây, nói thói quen và hỏi hai câu.",
+      "writing": "Viết 30–50 từ giới thiệu bạn, sở thích và một ngày thường.",
+      "model": "My name is Mai. I am a student. I live with my family. I usually study in the morning. I like tea, but I don’t drink coffee. In the evening, I read a book. I can speak a little English.",
+      "checklist": [
+        "Tôi hoàn thành đủ yêu cầu của đề.",
+        "Tôi nói/viết bằng câu của mình, không chỉ chép mẫu.",
+        "Tôi biết bài nào cần ôn lại và đã đọc lời giải câu sai."
+      ]
+    },
+    "references": [
+      {
+        "href": "/lo-trinh",
+        "label": "Chọn bài cần ôn"
+      },
+      {
+        "href": "/thu-vien",
+        "label": "Mở thư viện"
+      }
+    ]
+  },
+  {
+    "slug": "a2-thoi-quen-va-hien-tai",
+    "stage": 3,
+    "level": "A2",
+    "order": 1,
+    "title": "Thói quen hay việc đang diễn ra?",
+    "goal": "Phân biệt việc thường làm với việc tạm thời hoặc đang diễn ra.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "usually",
+        "ipa": "/ˈjuːʒuəli/",
+        "vi": "thường"
+      },
+      {
+        "en": "today",
+        "ipa": "/təˈdeɪ/",
+        "vi": "hôm nay"
+      },
+      {
+        "en": "busy",
+        "ipa": "/ˈbɪzi/",
+        "vi": "bận"
+      },
+      {
+        "en": "office",
+        "ipa": "/ˈɒfɪs/",
+        "vi": "văn phòng"
+      },
+      {
+        "en": "answer",
+        "ipa": "/ˈɑːnsə/",
+        "vi": "câu trả lời"
+      },
+      {
+        "en": "know",
+        "ipa": "/nəʊ/",
+        "vi": "biết"
+      },
+      {
+        "en": "want",
+        "ipa": "/wɒnt/",
+        "vi": "muốn"
+      }
+    ],
+    "sections": [
+      {
+        "title": "So sánh hai góc nhìn",
+        "body": "Hiện tại đơn nói thói quen; tiếp diễn nói quá trình đang diễn ra hoặc tình huống tạm thời. Cùng một người có thể dùng cả hai tùy ý nghĩa.",
+        "formula": "usually + hiện tại đơn · việc đang diễn ra + tiếp diễn",
+        "examples": [
+          {
+            "en": "I usually work in an office.",
+            "vi": "Tôi thường làm việc ở văn phòng."
+          },
+          {
+            "en": "Today I am working at home.",
+            "vi": "Hôm nay tôi đang làm việc ở nhà."
+          }
+        ]
+      },
+      {
+        "title": "Động từ trạng thái thường dùng đơn",
+        "body": "Know, want, like thường dùng hiện tại đơn trong nghĩa trạng thái cơ bản, kể cả lúc đang nói.",
+        "formula": "I know … / I want …",
+        "examples": [
+          {
+            "en": "I know her name.",
+            "vi": "Tôi biết tên cô ấy."
+          },
+          {
+            "en": "I want some water.",
+            "vi": "Tôi muốn chút nước."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Chọn thì theo ý muốn diễn đạt, không chỉ theo một từ khóa.",
+      "Không nói I am knowing trong nghĩa biết thông tin thông thường."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Mỗi ngày đi bộ đi làm chọn câu nào?",
+        "options": [
+          "I am walk to work.",
+          "I walking work every day.",
+          "I walk to work every day."
+        ],
+        "answer": 2,
+        "explain": "Thói quen dùng hiện tại đơn."
+      },
+      {
+        "type": "fill",
+        "question": "Điền am/is/are: Today she ___ working at home.",
+        "answer": "is",
+        "explain": "She đi với is trong tiếp diễn."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu biết thông tin đúng.",
+        "options": [
+          "I knowing answer.",
+          "I am knowing the answer.",
+          "I know the answer."
+        ],
+        "answer": 2,
+        "explain": "Know thường dùng hiện tại đơn trong nghĩa này."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Today I am working at home.",
+        "options": [
+          "Hôm nay làm việc ở nhà",
+          "Hôm qua nghỉ làm",
+          "Ngày nào cũng làm ở nhà"
+        ],
+        "answer": 0,
+        "explain": "Today và am working nói tình huống hôm nay."
+      },
+      {
+        "type": "choice",
+        "question": "Lan works at a shop, but today she is resting. Ý nào đúng?",
+        "options": [
+          "Lan không bao giờ đi làm",
+          "Lan làm ở ngân hàng",
+          "Hôm nay Lan đang nghỉ"
+        ],
+        "answer": 2,
+        "explain": "But đối chiếu thói quen với hôm nay."
+      },
+      {
+        "type": "fill",
+        "question": "Dạng đúng: He usually ___ early. (start)",
+        "answer": "starts",
+        "explain": "He dùng starts khi nói thói quen."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “thường”?",
+        "options": [
+          "today",
+          "busy",
+          "usually"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, usually nghĩa là thường."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "busy",
+        "options": [
+          "thường",
+          "hôm nay",
+          "bận"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy busy: bận."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Ben usually takes the bus to work. Today the bus is late, so he is walking. He wants to arrive before nine.",
+      "vi": "Ben thường đi xe buýt đi làm. Hôm nay xe buýt muộn nên anh ấy đang đi bộ. Anh ấy muốn đến trước chín giờ."
+    },
+    "practice": {
+      "speaking": "So sánh một thói quen với một điều khác bạn đang làm hôm nay.",
+      "writing": "Viết ba câu: thói quen, hôm nay khác gì, lý do đơn giản.",
+      "model": "I usually work in an office. Today I am working at home because I am tired.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-was-were",
+    "stage": 3,
+    "level": "A2",
+    "order": 2,
+    "title": "Was/were: bạn đã ở đâu?",
+    "goal": "Kể vị trí hoặc trạng thái trong quá khứ bằng was/were.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "yesterday",
+        "ipa": "/ˈjestədeɪ/",
+        "vi": "hôm qua"
+      },
+      {
+        "en": "last night",
+        "ipa": "/ˌlɑːst ˈnaɪt/",
+        "vi": "tối qua"
+      },
+      {
+        "en": "tired",
+        "ipa": "/ˈtaɪəd/",
+        "vi": "mệt"
+      },
+      {
+        "en": "quiet",
+        "ipa": "/ˈkwaɪət/",
+        "vi": "yên tĩnh"
+      },
+      {
+        "en": "lonely",
+        "ipa": "/ˈləʊnli/",
+        "vi": "cô đơn"
+      },
+      {
+        "en": "house",
+        "ipa": "/haʊs/",
+        "vi": "ngôi nhà"
+      },
+      {
+        "en": "parent",
+        "ipa": "/ˈpeərənt/",
+        "vi": "bố hoặc mẹ"
+      }
+    ],
+    "sections": [
+      {
+        "title": "To be ở quá khứ",
+        "body": "I/he/she/it dùng was; you/we/they dùng were. Đây là dạng quá khứ của am/is/are.",
+        "formula": "I was … / They were …",
+        "examples": [
+          {
+            "en": "I was tired yesterday.",
+            "vi": "Hôm qua tôi mệt."
+          },
+          {
+            "en": "We were at home last night.",
+            "vi": "Tối qua chúng tôi ở nhà."
+          }
+        ]
+      },
+      {
+        "title": "Phủ định và câu hỏi",
+        "body": "Thêm not hoặc đảo was/were. Không thêm did vào câu hỏi với was/were.",
+        "formula": "Were you …? / I wasn’t …",
+        "examples": [
+          {
+            "en": "Were you at work yesterday?",
+            "vi": "Hôm qua bạn ở chỗ làm à?"
+          },
+          {
+            "en": "No, I wasn’t.",
+            "vi": "Không, tôi không ở đó."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết did you were hoặc I were trong câu quá khứ thông thường này.",
+      "Last night không cần giới từ at đứng trước."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền was/were: They ___ at home yesterday.",
+        "answer": "were",
+        "explain": "They đi với were."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu hỏi đúng.",
+        "options": [
+          "Did you were tired?",
+          "Was you tired?",
+          "Were you tired?"
+        ],
+        "answer": 2,
+        "explain": "You dùng were và đảo lên đầu."
+      },
+      {
+        "type": "fill",
+        "question": "Điền was/were: I ___ at work.",
+        "answer": "was",
+        "explain": "I đi với was ở quá khứ đơn."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "We were at home last night.",
+        "options": [
+          "Tối nay chúng tôi ở nhà",
+          "Hôm qua chúng tôi đi học",
+          "Tối qua chúng tôi ở nhà"
+        ],
+        "answer": 2,
+        "explain": "Were và last night nói quá khứ."
+      },
+      {
+        "type": "choice",
+        "question": "Was not rút gọn thành gì?",
+        "options": [
+          "weren’t",
+          "wasn’t",
+          "doesn’t"
+        ],
+        "answer": 1,
+        "explain": "Wasn’t = was not."
+      },
+      {
+        "type": "choice",
+        "question": "Đoạn “The room was quiet” mô tả gì?",
+        "options": [
+          "Trạng thái căn phòng trong quá khứ",
+          "Thói quen hiện tại",
+          "Một việc sẽ xảy ra"
+        ],
+        "answer": 0,
+        "explain": "Was là quá khứ của is."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “hôm qua”?",
+        "options": [
+          "yesterday",
+          "tired",
+          "last night"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, yesterday nghĩa là hôm qua."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "tired",
+        "options": [
+          "tối qua",
+          "hôm qua",
+          "mệt"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy tired: mệt."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Yesterday I was at home. My parents were at work. The house was quiet, but I wasn’t lonely.",
+      "vi": "Hôm qua tôi ở nhà. Bố mẹ tôi ở chỗ làm. Nhà yên tĩnh nhưng tôi không cô đơn."
+    },
+    "practice": {
+      "speaking": "Nói bạn đã ở đâu hôm qua và cảm thấy thế nào.",
+      "writing": "Viết ba câu có was/were, trong đó một câu phủ định.",
+      "model": "I was at home yesterday. My friends were busy. I wasn’t tired.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-qua-khu-khang-dinh",
+    "stage": 3,
+    "level": "A2",
+    "order": 3,
+    "title": "Kể một ngày đã qua",
+    "goal": "Kể hành động đã kết thúc bằng động từ quá khứ thường gặp.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "visited",
+        "ipa": "/ˈvɪzɪtɪd/",
+        "vi": "đã thăm"
+      },
+      {
+        "en": "went",
+        "ipa": "/went/",
+        "vi": "đã đi"
+      },
+      {
+        "en": "bought",
+        "ipa": "/bɔːt/",
+        "vi": "đã mua"
+      },
+      {
+        "en": "watched",
+        "ipa": "/wɒtʃt/",
+        "vi": "đã xem"
+      },
+      {
+        "en": "aunt",
+        "ipa": "/ɑːnt/",
+        "vi": "cô / dì / bác gái"
+      },
+      {
+        "en": "together",
+        "ipa": "/təˈɡeðə/",
+        "vi": "cùng nhau"
+      },
+      {
+        "en": "then",
+        "ipa": "/ðen/",
+        "vi": "sau đó"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Quá khứ đều và bất quy tắc",
+        "body": "Động từ có quy tắc thường thêm ed. Một số đổi dạng: go → went, buy → bought, eat → ate. Dạng quá khứ không đổi theo chủ ngữ.",
+        "formula": "S + V2/ed",
+        "examples": [
+          {
+            "en": "I visited my aunt yesterday.",
+            "vi": "Hôm qua tôi thăm dì/cô."
+          },
+          {
+            "en": "She went to the market.",
+            "vi": "Cô ấy đã đi chợ."
+          }
+        ]
+      },
+      {
+        "title": "Nối sự việc theo thứ tự",
+        "body": "Dùng first, then, after that để người nghe theo dõi. Dùng một mốc quá khứ rõ ràng.",
+        "formula": "First … Then …",
+        "examples": [
+          {
+            "en": "First, I cooked dinner.",
+            "vi": "Đầu tiên tôi nấu bữa tối."
+          },
+          {
+            "en": "Then I watched a film.",
+            "vi": "Sau đó tôi xem phim."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết I did went khi muốn khẳng định đơn giản.",
+      "Đuôi ed có thể đọc /t/, /d/ hoặc /ɪd/; nghe từng từ, không thêm âm “ịt” vào mọi từ."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Quá khứ của go là gì?",
+        "answer": "went",
+        "explain": "Go đổi thành went."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "She visited her aunt yesterday.",
+          "She visits her aunt yesterday.",
+          "She did visited aunt yesterday."
+        ],
+        "answer": 0,
+        "explain": "Yesterday đặt sự việc vào quá khứ, dùng visited."
+      },
+      {
+        "type": "choice",
+        "question": "Bought là quá khứ của gì?",
+        "options": [
+          "buy",
+          "bring",
+          "be"
+        ],
+        "answer": 0,
+        "explain": "Buy → bought."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I went to the market yesterday.",
+        "options": [
+          "Ngày mai đi chợ",
+          "Hôm qua đi chợ",
+          "Mỗi ngày đi chợ"
+        ],
+        "answer": 1,
+        "explain": "Went và yesterday chỉ sự việc đã qua."
+      },
+      {
+        "type": "fill",
+        "question": "Dạng quá khứ của watch là gì?",
+        "answer": "watched",
+        "explain": "Động từ có quy tắc thêm ed."
+      },
+      {
+        "type": "choice",
+        "question": "Đoạn “First I cooked. Then I watched a film.” sự việc đầu là gì?",
+        "options": [
+          "Đi ngủ",
+          "Xem phim",
+          "Nấu ăn"
+        ],
+        "answer": 2,
+        "explain": "First đánh dấu việc đầu tiên."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “đã thăm”?",
+        "options": [
+          "bought",
+          "visited",
+          "went"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, visited nghĩa là đã thăm."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "bought",
+        "options": [
+          "đã đi",
+          "đã mua",
+          "đã thăm"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy bought: đã mua."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Last Sunday, I visited my aunt. We cooked lunch together. Then we watched a film. I went home at six.",
+      "vi": "Chủ nhật trước tôi thăm dì/cô. Chúng tôi nấu bữa trưa cùng nhau. Sau đó xem phim. Tôi về nhà lúc sáu giờ."
+    },
+    "practice": {
+      "speaking": "Kể ba việc đã làm hôm qua theo thứ tự.",
+      "writing": "Viết bốn câu về một ngày đã qua, dùng then ít nhất một lần.",
+      "model": "Yesterday I went to the market. I bought some rice. Then I cooked dinner. I watched a film.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-did",
+    "stage": 3,
+    "level": "A2",
+    "order": 4,
+    "title": "Hỏi về quá khứ và nói điều không xảy ra",
+    "goal": "Dùng did/didn’t với động từ nguyên mẫu để hỏi và phủ định.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "trip",
+        "ipa": "/trɪp/",
+        "vi": "chuyến đi"
+      },
+      {
+        "en": "ticket",
+        "ipa": "/ˈtɪkɪt/",
+        "vi": "vé"
+      },
+      {
+        "en": "arrive",
+        "ipa": "/əˈraɪv/",
+        "vi": "đến nơi"
+      },
+      {
+        "en": "stay",
+        "ipa": "/steɪ/",
+        "vi": "ở lại"
+      },
+      {
+        "en": "hotel",
+        "ipa": "/həʊˈtel/",
+        "vi": "khách sạn"
+      },
+      {
+        "en": "book",
+        "ipa": "/bʊk/",
+        "vi": "đặt chỗ, động từ"
+      },
+      {
+        "en": "enjoy",
+        "ipa": "/ɪnˈdʒɔɪ/",
+        "vi": "thích / tận hưởng"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Did mang dấu hiệu quá khứ",
+        "body": "Sau did/didn’t, đưa động từ về nguyên mẫu. Không dùng thêm đuôi ed hoặc dạng went.",
+        "formula": "Did + S + V? / S + didn’t + V",
+        "examples": [
+          {
+            "en": "Did you buy a ticket?",
+            "vi": "Bạn đã mua vé chưa?"
+          },
+          {
+            "en": "I didn’t buy a ticket.",
+            "vi": "Tôi đã không mua vé."
+          }
+        ]
+      },
+      {
+        "title": "Hỏi chi tiết",
+        "body": "Đặt where/when/what trước did. Trả lời ngắn có thể dùng did; câu đầy đủ dùng động từ quá khứ.",
+        "formula": "Where did you go?",
+        "examples": [
+          {
+            "en": "Where did you stay?",
+            "vi": "Bạn đã ở đâu?"
+          },
+          {
+            "en": "I stayed with my aunt.",
+            "vi": "Tôi đã ở cùng dì/cô."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Did you go? đúng; Did you went? sai.",
+      "Was/were có cách hỏi riêng: Were you tired?"
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: Did you ___ a ticket? (buy)",
+        "answer": "buy",
+        "explain": "Sau did dùng nguyên mẫu buy."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu phủ định đúng.",
+        "options": [
+          "I didn’t go.",
+          "I didn’t went.",
+          "I wasn’t go."
+        ],
+        "answer": 0,
+        "explain": "Didn’t đi với go."
+      },
+      {
+        "type": "choice",
+        "question": "Trả lời Did she arrive?",
+        "options": [
+          "Yes, she does.",
+          "Yes, she did.",
+          "Yes, she is."
+        ],
+        "answer": 1,
+        "explain": "Trả lời ngắn lặp lại did."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I didn’t buy a ticket.",
+        "options": [
+          "Tôi đã mua vé",
+          "Tôi làm mất vé",
+          "Tôi không mua vé"
+        ],
+        "answer": 2,
+        "explain": "Didn’t buy phủ định việc mua."
+      },
+      {
+        "type": "fill",
+        "question": "Điền trợ động từ: Where ___ you stay last night?",
+        "answer": "did",
+        "explain": "Hành động ở lại xảy ra last night, dùng did."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu hỏi trạng thái quá khứ.",
+        "options": [
+          "Did you were tired?",
+          "Do you was tired?",
+          "Were you tired?"
+        ],
+        "answer": 2,
+        "explain": "To be quá khứ không dùng did trong câu hỏi này."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “chuyến đi”?",
+        "options": [
+          "ticket",
+          "arrive",
+          "trip"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, trip nghĩa là chuyến đi."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "arrive",
+        "options": [
+          "vé",
+          "đến nơi",
+          "chuyến đi"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy arrive: đến nơi."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: Did you go to Hue? B: Yes, I did. A: Where did you stay? B: I stayed with my aunt. I didn’t book a hotel.",
+      "vi": "A: Bạn đã đi Huế à? B: Đúng. A: Bạn ở đâu? B: Tôi ở cùng dì/cô. Tôi không đặt khách sạn."
+    },
+    "practice": {
+      "speaking": "Hỏi và trả lời ba câu về một chuyến đi thật hoặc tưởng tượng.",
+      "writing": "Viết hai câu hỏi did và một câu phủ định.",
+      "model": "Did you go to Hue? Where did you stay? I didn’t book a hotel.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-qua-khu-tiep-dien",
+    "stage": 3,
+    "level": "A2",
+    "order": 5,
+    "title": "Một việc đang diễn ra khi việc khác xảy ra",
+    "goal": "Dùng quá khứ tiếp diễn để tạo bối cảnh cho một chuyện ngắn.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "rain",
+        "ipa": "/reɪn/",
+        "vi": "mưa"
+      },
+      {
+        "en": "call",
+        "ipa": "/kɔːl/",
+        "vi": "gọi điện"
+      },
+      {
+        "en": "while",
+        "ipa": "/waɪl/",
+        "vi": "trong khi"
+      },
+      {
+        "en": "when",
+        "ipa": "/wen/",
+        "vi": "khi"
+      },
+      {
+        "en": "phone",
+        "ipa": "/fəʊn/",
+        "vi": "điện thoại"
+      },
+      {
+        "en": "rang",
+        "ipa": "/ræŋ/",
+        "vi": "đã reo, quá khứ của ring"
+      },
+      {
+        "en": "start",
+        "ipa": "/stɑːt/",
+        "vi": "bắt đầu"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Đang làm tại mốc quá khứ",
+        "body": "Was/were + V-ing mô tả quá trình đang diễn ra lúc đó.",
+        "formula": "S + was/were + V-ing",
+        "examples": [
+          {
+            "en": "At eight, I was cooking.",
+            "vi": "Lúc tám giờ tôi đang nấu ăn."
+          },
+          {
+            "en": "They were waiting outside.",
+            "vi": "Họ đang chờ bên ngoài."
+          }
+        ]
+      },
+      {
+        "title": "Bối cảnh và sự việc xen vào",
+        "body": "Quá khứ tiếp diễn tạo bối cảnh, quá khứ đơn kể sự việc xảy ra. When/while nối các phần theo nghĩa của câu.",
+        "formula": "I was cooking when + sự việc quá khứ",
+        "examples": [
+          {
+            "en": "I was cooking when Mai called.",
+            "vi": "Tôi đang nấu ăn thì Mai gọi."
+          },
+          {
+            "en": "While I was reading, it started to rain.",
+            "vi": "Trong khi tôi đang đọc, trời bắt đầu mưa."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không bỏ was/were trong was cooking.",
+      "Không phải mọi câu có when đều buộc dùng một thì cố định."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền was/were: I ___ reading at eight.",
+        "answer": "was",
+        "explain": "I đi với was."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "I cooking when Mai called.",
+          "I was cook when Mai called.",
+          "I was cooking when Mai called."
+        ],
+        "answer": 2,
+        "explain": "Bối cảnh dùng was cooking."
+      },
+      {
+        "type": "choice",
+        "question": "Trong I was reading when the phone rang, việc đang diễn ra là gì?",
+        "options": [
+          "Đọc",
+          "Đi chợ",
+          "Điện thoại reo"
+        ],
+        "answer": 0,
+        "explain": "Was reading là quá trình nền."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "They were waiting outside.",
+        "options": [
+          "Họ đang ăn",
+          "Họ sẽ đi làm",
+          "Họ đang chờ ngoài lúc đó"
+        ],
+        "answer": 2,
+        "explain": "Were waiting là đang chờ ở thời điểm quá khứ."
+      },
+      {
+        "type": "fill",
+        "question": "Điền dạng V-ing của wait.",
+        "answer": "waiting",
+        "explain": "Wait thêm ing thành waiting."
+      },
+      {
+        "type": "choice",
+        "question": "Trong While I was reading, it started to rain, việc mới bắt đầu là gì?",
+        "options": [
+          "Đi ngủ",
+          "Đọc",
+          "Trời mưa"
+        ],
+        "answer": 2,
+        "explain": "Started to rain là sự việc xảy ra trong bối cảnh đang đọc."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “mưa”?",
+        "options": [
+          "call",
+          "while",
+          "rain"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, rain nghĩa là mưa."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "while",
+        "options": [
+          "mưa",
+          "gọi điện",
+          "trong khi"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy while: trong khi."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "At eight last night, I was reading. My sister was cooking. While we were at home, it started to rain.",
+      "vi": "Lúc tám giờ tối qua, tôi đang đọc. Chị/em gái tôi đang nấu ăn. Trong lúc chúng tôi ở nhà, trời bắt đầu mưa."
+    },
+    "practice": {
+      "speaking": "Kể một việc đang làm tối qua và một sự việc xen vào.",
+      "writing": "Viết hai câu, một câu có when hoặc while.",
+      "model": "I was reading at eight. I was reading when my friend called.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-ke-hoach",
+    "stage": 3,
+    "level": "A2",
+    "order": 6,
+    "title": "Kế hoạch, lời hứa và quyết định",
+    "goal": "Dùng going to cho dự định và will cho lời hứa hoặc quyết định ngay lúc nói.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "plan",
+        "ipa": "/plæn/",
+        "vi": "kế hoạch"
+      },
+      {
+        "en": "tomorrow",
+        "ipa": "/təˈmɒrəʊ/",
+        "vi": "ngày mai"
+      },
+      {
+        "en": "visit",
+        "ipa": "/ˈvɪzɪt/",
+        "vi": "thăm"
+      },
+      {
+        "en": "later",
+        "ipa": "/ˈleɪtə/",
+        "vi": "lát nữa / sau đó"
+      },
+      {
+        "en": "leave",
+        "ipa": "/liːv/",
+        "vi": "rời đi"
+      },
+      {
+        "en": "drive",
+        "ipa": "/draɪv/",
+        "vi": "lái xe"
+      },
+      {
+        "en": "tonight",
+        "ipa": "/təˈnaɪt/",
+        "vi": "tối nay"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Dự định đã có",
+        "body": "Be going to + động từ nguyên mẫu thường dùng khi đã có dự định. Phải chọn am/is/are đúng chủ ngữ.",
+        "formula": "S + am/is/are going to + V",
+        "examples": [
+          {
+            "en": "I am going to visit my aunt tomorrow.",
+            "vi": "Tôi định thăm dì/cô ngày mai."
+          },
+          {
+            "en": "We are going to study tonight.",
+            "vi": "Chúng tôi định học tối nay."
+          }
+        ]
+      },
+      {
+        "title": "Will cho lời hứa và quyết định lúc nói",
+        "body": "Will + nguyên mẫu, không thêm to hay s. Không phải mọi sự việc tương lai đều phải dùng will.",
+        "formula": "S + will + V",
+        "examples": [
+          {
+            "en": "I will help you.",
+            "vi": "Tôi sẽ giúp bạn."
+          },
+          {
+            "en": "I will call you later.",
+            "vi": "Tôi sẽ gọi bạn sau."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Going to và will có vùng nghĩa giao nhau; học theo tình huống, không áp quy tắc tuyệt đối.",
+      "I’m going to work có thể nói tôi định làm việc hoặc tôi đang đi đến nơi làm, tùy ngữ cảnh."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền to be: She ___ going to visit Hue.",
+        "answer": "is",
+        "explain": "She đi với is."
+      },
+      {
+        "type": "choice",
+        "question": "Bạn quyết định giúp ngay lúc nghe yêu cầu.",
+        "options": [
+          "I will help you.",
+          "I am help you.",
+          "I helped you yesterday."
+        ],
+        "answer": 0,
+        "explain": "Will diễn tả quyết định hoặc lời hứa lúc nói."
+      },
+      {
+        "type": "choice",
+        "question": "Sau going to dùng gì?",
+        "options": [
+          "Động từ nguyên mẫu",
+          "Luôn V-ing",
+          "Luôn V2"
+        ],
+        "answer": 0,
+        "explain": "Going to visit, không going to visited."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I am going to visit my aunt tomorrow.",
+        "options": [
+          "Đã thăm hôm qua",
+          "Không định thăm",
+          "Định thăm dì/cô ngày mai"
+        ],
+        "answer": 2,
+        "explain": "Going to nói dự định; tomorrow là ngày mai."
+      },
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: I will ___ you later. (call)",
+        "answer": "call",
+        "explain": "Sau will dùng call."
+      },
+      {
+        "type": "choice",
+        "question": "Trong “I’ve made a plan. I’m going to study tonight.” ý chính là gì?",
+        "options": [
+          "Đã học xong hôm qua",
+          "Có dự định học tối nay",
+          "Chưa từng học"
+        ],
+        "answer": 1,
+        "explain": "Kế hoạch có trước nên dùng going to tự nhiên."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “kế hoạch”?",
+        "options": [
+          "visit",
+          "plan",
+          "tomorrow"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, plan nghĩa là kế hoạch."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "visit",
+        "options": [
+          "thăm",
+          "ngày mai",
+          "kế hoạch"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy visit: thăm."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "This weekend, Mai is going to visit her parents. Nam says, “I will drive you there.” They are going to leave on Saturday morning.",
+      "vi": "Cuối tuần Mai định thăm bố mẹ. Nam nói: “Anh sẽ lái xe đưa em đến đó.” Họ định đi sáng thứ Bảy."
+    },
+    "practice": {
+      "speaking": "Nói hai dự định và một lời hứa.",
+      "writing": "Viết ba câu về cuối tuần tới.",
+      "model": "I am going to visit my parents. We are going to cook lunch. I will help them.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-so-sanh",
+    "stage": 3,
+    "level": "A2",
+    "order": 7,
+    "title": "So sánh và chọn phương án",
+    "goal": "Dùng so sánh hơn và nhất để chọn đồ hoặc địa điểm.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "cheaper",
+        "ipa": "/ˈtʃiːpə/",
+        "vi": "rẻ hơn"
+      },
+      {
+        "en": "bigger",
+        "ipa": "/ˈbɪɡə/",
+        "vi": "lớn hơn"
+      },
+      {
+        "en": "better",
+        "ipa": "/ˈbetə/",
+        "vi": "tốt hơn"
+      },
+      {
+        "en": "comfortable",
+        "ipa": "/ˈkʌmftəbl/",
+        "vi": "thoải mái"
+      },
+      {
+        "en": "option",
+        "ipa": "/ˈɒpʃn/",
+        "vi": "lựa chọn"
+      },
+      {
+        "en": "cost",
+        "ipa": "/kɒst/",
+        "vi": "có giá / chi phí"
+      },
+      {
+        "en": "choose",
+        "ipa": "/tʃuːz/",
+        "vi": "chọn"
+      }
+    ],
+    "sections": [
+      {
+        "title": "So sánh hai lựa chọn",
+        "body": "Tính từ ngắn thường thêm er; nhiều tính từ dài dùng more. Dùng than trước đối tượng so sánh.",
+        "formula": "A + is + cheaper/more comfortable + than B",
+        "examples": [
+          {
+            "en": "This bag is cheaper than that bag.",
+            "vi": "Túi này rẻ hơn túi kia."
+          },
+          {
+            "en": "This chair is more comfortable.",
+            "vi": "Ghế này thoải mái hơn."
+          }
+        ]
+      },
+      {
+        "title": "Chọn nhất trong một nhóm",
+        "body": "Thường dùng the trước so sánh nhất. Good có dạng better và best.",
+        "formula": "the cheapest / the most comfortable",
+        "examples": [
+          {
+            "en": "This is the cheapest room.",
+            "vi": "Đây là phòng rẻ nhất."
+          },
+          {
+            "en": "This is the best option.",
+            "vi": "Đây là lựa chọn tốt nhất."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không dùng more cheaper; không dùng the better khi chỉ so sánh hai món theo mẫu cơ bản này.",
+      "Cheap → cheaper; big → bigger; good → better → best."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Dạng so sánh hơn của good là gì?",
+        "answer": "better",
+        "explain": "Good có dạng bất quy tắc better."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn cụm đúng.",
+        "options": [
+          "more cheaper than",
+          "cheap than",
+          "cheaper than"
+        ],
+        "answer": 2,
+        "explain": "Cheap thêm er và dùng than."
+      },
+      {
+        "type": "choice",
+        "question": "So sánh nhất của cheap là gì?",
+        "options": [
+          "the cheaper",
+          "the more cheap",
+          "the cheapest"
+        ],
+        "answer": 2,
+        "explain": "Cheapest dùng để chọn rẻ nhất trong nhóm."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "This room is bigger.",
+        "options": [
+          "Phòng này nhỏ hơn",
+          "Phòng này lớn hơn",
+          "Phòng này đắt nhất"
+        ],
+        "answer": 1,
+        "explain": "Bigger là lớn hơn."
+      },
+      {
+        "type": "choice",
+        "question": "Tính từ comfortable thường dùng so sánh hơn thế nào?",
+        "options": [
+          "most more comfortable",
+          "comfortabler",
+          "more comfortable"
+        ],
+        "answer": 2,
+        "explain": "Dùng more trước tính từ dài comfortable."
+      },
+      {
+        "type": "choice",
+        "question": "Phòng A giá 20, B giá 30. Câu nào đúng?",
+        "options": [
+          "A is cheaper than B.",
+          "B is cheaper than A.",
+          "A is more expensive than B."
+        ],
+        "answer": 0,
+        "explain": "20 thấp hơn 30, nên A rẻ hơn B."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “rẻ hơn”?",
+        "options": [
+          "bigger",
+          "cheaper",
+          "better"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, cheaper nghĩa là rẻ hơn."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "better",
+        "options": [
+          "tốt hơn",
+          "rẻ hơn",
+          "lớn hơn"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy better: tốt hơn."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Room A is twenty pounds. Room B is thirty pounds, but it is bigger. Room C is the most comfortable and costs forty pounds.",
+      "vi": "Phòng A giá hai mươi bảng. Phòng B ba mươi bảng nhưng lớn hơn. Phòng C thoải mái nhất và giá bốn mươi bảng."
+    },
+    "practice": {
+      "speaking": "So sánh hai món đồ hoặc hai nơi bạn biết.",
+      "writing": "Viết ba câu so sánh và giải thích bạn chọn phương án nào.",
+      "model": "Room A is cheaper than Room B. Room B is bigger. I choose Room A because it is cheaper.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-so-luong",
+    "stage": 3,
+    "level": "A2",
+    "order": 8,
+    "title": "Some/any, much/many và lượng vừa đủ",
+    "goal": "Hỏi và mô tả số lượng với danh từ đếm được hoặc không đếm được.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "some",
+        "ipa": "/sʌm/",
+        "vi": "một ít / một vài"
+      },
+      {
+        "en": "any",
+        "ipa": "/ˈeni/",
+        "vi": "chút nào / bất kỳ, tùy ngữ cảnh"
+      },
+      {
+        "en": "enough",
+        "ipa": "/ɪˈnʌf/",
+        "vi": "đủ"
+      },
+      {
+        "en": "milk",
+        "ipa": "/mɪlk/",
+        "vi": "sữa"
+      },
+      {
+        "en": "bottle",
+        "ipa": "/ˈbɒtl/",
+        "vi": "chai"
+      },
+      {
+        "en": "need",
+        "ipa": "/niːd/",
+        "vi": "cần"
+      },
+      {
+        "en": "a lot of",
+        "ipa": "/ə ˈlɒt əv/",
+        "vi": "nhiều"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Much hay many",
+        "body": "Many dùng với số nhiều đếm được; much dùng với không đếm được. A lot of dùng được với cả hai.",
+        "formula": "How many apples? / How much milk?",
+        "examples": [
+          {
+            "en": "How many apples do we need?",
+            "vi": "Chúng ta cần bao nhiêu táo?"
+          },
+          {
+            "en": "We don’t have much milk.",
+            "vi": "Chúng ta không có nhiều sữa."
+          }
+        ]
+      },
+      {
+        "title": "Some/any và lời mời",
+        "body": "Some thường trong khẳng định; any thường trong câu hỏi và phủ định. Some tự nhiên trong lời mời hoặc yêu cầu có kỳ vọng được đáp ứng.",
+        "formula": "We have some … / We don’t have any …",
+        "examples": [
+          {
+            "en": "We have some rice.",
+            "vi": "Chúng ta có một ít gạo."
+          },
+          {
+            "en": "Would you like some tea?",
+            "vi": "Bạn uống chút trà không?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Danh từ không đếm được trong nghĩa cơ bản không thêm s: milk, rice, water.",
+      "Enough đứng trước danh từ: enough milk; nhưng sau tính từ: warm enough."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền much/many: How ___ apples?",
+        "answer": "many",
+        "explain": "Apples là số nhiều đếm được."
+      },
+      {
+        "type": "fill",
+        "question": "Điền much/many: How ___ milk?",
+        "answer": "much",
+        "explain": "Milk thường không đếm được."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn lời mời tự nhiên.",
+        "options": [
+          "Would you like many tea?",
+          "Would you likes tea?",
+          "Would you like some tea?"
+        ],
+        "answer": 2,
+        "explain": "Some thường dùng trong lời mời."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "We don’t have any milk.",
+        "options": [
+          "Chúng ta không có sữa",
+          "Chúng ta cần táo",
+          "Chúng ta có nhiều sữa"
+        ],
+        "answer": 0,
+        "explain": "Don’t have any phủ định sự có mặt."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn cụm đúng.",
+        "options": [
+          "milk enough many",
+          "enough milks",
+          "enough milk"
+        ],
+        "answer": 2,
+        "explain": "Enough đứng trước danh từ milk."
+      },
+      {
+        "type": "choice",
+        "question": "Mua hai đơn vị sữa có thể nói gì?",
+        "options": [
+          "two bottles of milk",
+          "many milk",
+          "two milk"
+        ],
+        "answer": 0,
+        "explain": "Đếm bằng chai: bottles of milk."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “một ít / một vài”?",
+        "options": [
+          "enough",
+          "any",
+          "some"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, some nghĩa là một ít / một vài."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "enough",
+        "options": [
+          "đủ",
+          "một ít / một vài",
+          "chút nào / bất kỳ, tùy ngữ cảnh"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy enough: đủ."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "We have some rice and three apples. We don’t have any milk. We need two bottles of milk for breakfast.",
+      "vi": "Chúng ta có chút gạo và ba quả táo. Chúng ta không có sữa. Chúng ta cần hai chai sữa cho bữa sáng."
+    },
+    "practice": {
+      "speaking": "Nói những gì có và thiếu trong một danh sách mua hàng giả định.",
+      "writing": "Viết bốn câu ngắn về đồ ăn cần mua.",
+      "model": "We have some rice. We don’t have any milk. We need two bottles of milk. We have enough apples.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-loi-khuyen",
+    "stage": 3,
+    "level": "A2",
+    "order": 9,
+    "title": "Lời khuyên, nghĩa vụ và điều bị cấm",
+    "goal": "Phân biệt should, have to, mustn’t và don’t have to trong tình huống quen thuộc.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "rest",
+        "ipa": "/rest/",
+        "vi": "nghỉ ngơi"
+      },
+      {
+        "en": "medicine",
+        "ipa": "/ˈmedsn/",
+        "vi": "thuốc"
+      },
+      {
+        "en": "rule",
+        "ipa": "/ruːl/",
+        "vi": "quy định"
+      },
+      {
+        "en": "helmet",
+        "ipa": "/ˈhelmɪt/",
+        "vi": "mũ bảo hiểm"
+      },
+      {
+        "en": "quiet",
+        "ipa": "/ˈkwaɪət/",
+        "vi": "yên lặng"
+      },
+      {
+        "en": "return",
+        "ipa": "/rɪˈtɜːn/",
+        "vi": "trả lại / trở về"
+      },
+      {
+        "en": "on time",
+        "ipa": "/ɒn ˈtaɪm/",
+        "vi": "đúng giờ"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Khuyên hay yêu cầu",
+        "body": "Should đưa lời khuyên; have to thường nói nghĩa vụ. Cả hai đi với động từ nguyên mẫu, nhưng have to đổi thành has to với he/she.",
+        "formula": "should + V · have/has to + V",
+        "examples": [
+          {
+            "en": "You should rest.",
+            "vi": "Bạn nên nghỉ ngơi."
+          },
+          {
+            "en": "She has to wear a helmet.",
+            "vi": "Cô ấy phải đội mũ bảo hiểm."
+          }
+        ]
+      },
+      {
+        "title": "Cấm khác không cần",
+        "body": "Mustn’t nghĩa là không được phép. Don’t have to nghĩa là không bắt buộc, vẫn có thể làm.",
+        "formula": "mustn’t ≠ don’t have to",
+        "examples": [
+          {
+            "en": "You mustn’t smoke here.",
+            "vi": "Bạn không được hút thuốc ở đây."
+          },
+          {
+            "en": "You don’t have to come early.",
+            "vi": "Bạn không cần đến sớm."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết should to rest.",
+      "Các câu sức khỏe ở đây chỉ là tình huống học ngôn ngữ, không thay cho tư vấn y tế."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: You should ___. (rest)",
+        "answer": "rest",
+        "explain": "Should dùng động từ nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Mustn’t smoke nghĩa là gì?",
+        "options": [
+          "Nên hút thuốc",
+          "Không cần hút thuốc",
+          "Không được hút thuốc"
+        ],
+        "answer": 2,
+        "explain": "Mustn’t diễn tả cấm."
+      },
+      {
+        "type": "choice",
+        "question": "Don’t have to come early nghĩa là gì?",
+        "options": [
+          "Bị cấm đến sớm",
+          "Phải đến sớm",
+          "Không bắt buộc đến sớm"
+        ],
+        "answer": 2,
+        "explain": "Don’t have to là không cần thiết."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "You should rest.",
+        "options": [
+          "Bạn nên nghỉ",
+          "Bạn phải chạy",
+          "Bạn bị cấm nghỉ"
+        ],
+        "answer": 0,
+        "explain": "Should đưa lời khuyên."
+      },
+      {
+        "type": "fill",
+        "question": "Điền have/has: She ___ to work today.",
+        "answer": "has",
+        "explain": "She dùng has to."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng.",
+        "options": [
+          "You should asks for help.",
+          "You should ask for help.",
+          "You should to ask for help."
+        ],
+        "answer": 1,
+        "explain": "Sau should dùng ask nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “nghỉ ngơi”?",
+        "options": [
+          "rule",
+          "medicine",
+          "rest"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, rest nghĩa là nghỉ ngơi."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "rule",
+        "options": [
+          "quy định",
+          "nghỉ ngơi",
+          "thuốc"
+        ],
+        "answer": 0,
+        "explain": "Bạn nghe thấy rule: quy định."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "At the library, you mustn’t make a lot of noise. You have to return books on time. You don’t have to stay all day.",
+      "vi": "Ở thư viện, bạn không được gây nhiều tiếng ồn. Bạn phải trả sách đúng hạn. Bạn không cần ở lại cả ngày."
+    },
+    "practice": {
+      "speaking": "Nói một lời khuyên, một quy định và một điều không bắt buộc.",
+      "writing": "Viết ba câu cho một địa điểm quen thuộc.",
+      "model": "You should be quiet. You have to return books. You don’t have to stay all day.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-trai-nghiem",
+    "stage": 3,
+    "level": "A2",
+    "order": 10,
+    "title": "Trải nghiệm với hiện tại hoàn thành",
+    "goal": "Hỏi trải nghiệm bằng have/has + V3 và phân biệt với mốc quá khứ cụ thể.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "ever",
+        "ipa": "/ˈevə/",
+        "vi": "đã từng, trong câu hỏi"
+      },
+      {
+        "en": "never",
+        "ipa": "/ˈnevə/",
+        "vi": "chưa bao giờ"
+      },
+      {
+        "en": "been",
+        "ipa": "/biːn/",
+        "vi": "dạng phân từ của be"
+      },
+      {
+        "en": "seen",
+        "ipa": "/siːn/",
+        "vi": "dạng phân từ của see"
+      },
+      {
+        "en": "experience",
+        "ipa": "/ɪkˈspɪəriəns/",
+        "vi": "trải nghiệm"
+      },
+      {
+        "en": "gone",
+        "ipa": "/ɡɒn/",
+        "vi": "phân từ của go"
+      },
+      {
+        "en": "film",
+        "ipa": "/fɪlm/",
+        "vi": "phim"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Trải nghiệm không nói mốc đã kết thúc",
+        "body": "Have/has + V3 dùng để hỏi hoặc nói trải nghiệm đến hiện tại. Ever thường trong câu hỏi; never mang nghĩa phủ định.",
+        "formula": "Have you ever + V3 …?",
+        "examples": [
+          {
+            "en": "Have you ever been to Hue?",
+            "vi": "Bạn đã từng đến Huế chưa?"
+          },
+          {
+            "en": "I have never been there.",
+            "vi": "Tôi chưa bao giờ đến đó."
+          }
+        ]
+      },
+      {
+        "title": "Thêm mốc quá khứ thì đổi góc nhìn",
+        "body": "Khi kể cụ thể khi nào, dùng quá khứ đơn. Không dùng hiện tại hoàn thành với yesterday/last year trong nghĩa thời gian đã kết thúc.",
+        "formula": "I have been … → I went … last year.",
+        "examples": [
+          {
+            "en": "I have seen that film.",
+            "vi": "Tôi đã xem phim đó rồi."
+          },
+          {
+            "en": "I saw it last week.",
+            "vi": "Tôi xem nó tuần trước."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không viết I haven’t never; never đã mang nghĩa phủ định.",
+      "Have been to thường nói đã đến và quay về; have gone to nói đã đi và chưa quay lại ở thời điểm nói."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền have/has: She ___ seen that film.",
+        "answer": "has",
+        "explain": "She đi với has."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng với last year.",
+        "options": [
+          "I went to Hue last year.",
+          "I has go Hue last year.",
+          "I have been to Hue last year."
+        ],
+        "answer": 0,
+        "explain": "Mốc quá khứ đã kết thúc dùng quá khứ đơn."
+      },
+      {
+        "type": "choice",
+        "question": "Hỏi trải nghiệm đến hiện tại chọn gì?",
+        "options": [
+          "Have you ever been to Hue?",
+          "Are you ever been Hue?",
+          "Did you ever been Hue?"
+        ],
+        "answer": 0,
+        "explain": "Have + chủ ngữ + V3."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I have never been to Hue.",
+        "options": [
+          "Đang ở Huế",
+          "Đã đến Huế hôm qua",
+          "Chưa bao giờ đến Huế"
+        ],
+        "answer": 2,
+        "explain": "Never là chưa bao giờ."
+      },
+      {
+        "type": "fill",
+        "question": "Phân từ của see là gì?",
+        "answer": "seen",
+        "explain": "See → saw → seen."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu phủ định đúng.",
+        "options": [
+          "I have never saw it.",
+          "I haven’t never seen it.",
+          "I have never seen it."
+        ],
+        "answer": 2,
+        "explain": "Never phủ định; sau have dùng seen."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “đã từng, trong câu hỏi”?",
+        "options": [
+          "been",
+          "never",
+          "ever"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, ever nghĩa là đã từng, trong câu hỏi."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "been",
+        "options": [
+          "chưa bao giờ",
+          "đã từng, trong câu hỏi",
+          "dạng phân từ của be"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy been: dạng phân từ của be."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: Have you ever been to Hue? B: Yes, I have. I went there last year. A: Did you enjoy it? B: Yes, I did.",
+      "vi": "A: Bạn từng đến Huế chưa? B: Rồi. Tôi đến đó năm ngoái. A: Bạn thích chuyến đi không? B: Có."
+    },
+    "practice": {
+      "speaking": "Hỏi một trải nghiệm, trả lời rồi kể thêm thời điểm bằng quá khứ đơn.",
+      "writing": "Viết ba câu về một trải nghiệm thật hoặc giả định.",
+      "model": "I have been to Hue. I went there last year. I visited a friend.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-dat-phong",
+    "stage": 3,
+    "level": "A2",
+    "order": 11,
+    "title": "Đặt phòng và xử lý yêu cầu khi đi lại",
+    "goal": "Hỏi thông tin dịch vụ, xác nhận thời gian và nêu yêu cầu lịch sự.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "reservation",
+        "ipa": "/ˌrezəˈveɪʃn/",
+        "vi": "đặt chỗ"
+      },
+      {
+        "en": "single room",
+        "ipa": "/ˌsɪŋɡl ˈruːm/",
+        "vi": "phòng đơn"
+      },
+      {
+        "en": "available",
+        "ipa": "/əˈveɪləbl/",
+        "vi": "còn chỗ / có sẵn"
+      },
+      {
+        "en": "check in",
+        "ipa": "/ˌtʃek ˈɪn/",
+        "vi": "làm thủ tục nhận phòng"
+      },
+      {
+        "en": "included",
+        "ipa": "/ɪnˈkluːdɪd/",
+        "vi": "được bao gồm"
+      },
+      {
+        "en": "confirm",
+        "ipa": "/kənˈfɜːm/",
+        "vi": "xác nhận"
+      },
+      {
+        "en": "key",
+        "ipa": "/kiː/",
+        "vi": "chìa khóa"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Nêu nhu cầu cụ thể",
+        "body": "Nói loại phòng, ngày và số đêm. I’d like… mở yêu cầu lịch sự.",
+        "formula": "I’d like to book … for … nights.",
+        "examples": [
+          {
+            "en": "I’d like to book a single room for two nights.",
+            "vi": "Tôi muốn đặt phòng đơn hai đêm."
+          },
+          {
+            "en": "Is breakfast included?",
+            "vi": "Có bao gồm bữa sáng không?"
+          }
+        ]
+      },
+      {
+        "title": "Xác nhận chi tiết",
+        "body": "Hỏi lại giờ và ghi thông tin quan trọng. Can I…? dùng xin phép hoặc hỏi khả năng dịch vụ.",
+        "formula": "What time can I …?",
+        "examples": [
+          {
+            "en": "What time can I check in?",
+            "vi": "Tôi có thể nhận phòng lúc mấy giờ?"
+          },
+          {
+            "en": "Could you confirm the price?",
+            "vi": "Bạn xác nhận giá giúp tôi được không?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Nói rõ ngày và số đêm để tránh nhầm.",
+      "Included nghĩa là đã nằm trong giá hoặc gói dịch vụ."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Single room thường là gì?",
+        "options": [
+          "Nhà ga",
+          "Hai đêm",
+          "Phòng đơn"
+        ],
+        "answer": 2,
+        "explain": "Single room là phòng đơn."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ: for two ___. (đêm)",
+        "answer": "nights",
+        "explain": "Two đi với danh từ số nhiều nights."
+      },
+      {
+        "type": "choice",
+        "question": "Hỏi bữa sáng trong giá dùng gì?",
+        "options": [
+          "Is breakfast included?",
+          "Are included breakfast eat?",
+          "Does breakfast room?"
+        ],
+        "answer": 0,
+        "explain": "Included hỏi phần đã được bao gồm."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Check-in is at two.",
+        "options": [
+          "Ăn sáng lúc 8 giờ",
+          "Nhận phòng lúc 2 giờ",
+          "Trả phòng lúc 12 giờ"
+        ],
+        "answer": 1,
+        "explain": "Check-in là nhận phòng."
+      },
+      {
+        "type": "choice",
+        "question": "“No rooms are available tonight.” nghĩa là gì?",
+        "options": [
+          "Phòng miễn phí",
+          "Tối nay còn nhiều phòng",
+          "Tối nay hết phòng"
+        ],
+        "answer": 2,
+        "explain": "No rooms và available cho biết hết chỗ."
+      },
+      {
+        "type": "choice",
+        "question": "Bạn muốn xác nhận giá chọn gì?",
+        "options": [
+          "Could you confirm the price?",
+          "Where is my age?",
+          "I was price."
+        ],
+        "answer": 0,
+        "explain": "Confirm là xác nhận."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “đặt chỗ”?",
+        "options": [
+          "single room",
+          "reservation",
+          "available"
+        ],
+        "answer": 1,
+        "explain": "Trong bài này, reservation nghĩa là đặt chỗ."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "available",
+        "options": [
+          "phòng đơn",
+          "đặt chỗ",
+          "còn chỗ / có sẵn"
+        ],
+        "answer": 2,
+        "explain": "Bạn nghe thấy available: còn chỗ / có sẵn."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Hotel note: Check-in is at 2 p.m. Breakfast is included. Please return your key before 11 a.m. on the day you leave.",
+      "vi": "Thông báo khách sạn: Nhận phòng lúc 2 giờ chiều. Có bao gồm bữa sáng. Xin trả chìa khóa trước 11 giờ sáng vào ngày rời đi."
+    },
+    "practice": {
+      "speaking": "Đóng vai khách, hỏi loại phòng, giá và giờ nhận phòng.",
+      "writing": "Viết tin nhắn đặt phòng hai đêm với một câu hỏi.",
+      "model": "Hello. I’d like to book a single room for two nights. Is breakfast included?",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-loi-moi",
+    "stage": 3,
+    "level": "A2",
+    "order": 12,
+    "title": "Mời, đề nghị và hẹn gặp",
+    "goal": "Mời người khác, đồng ý hoặc từ chối có lý do và đề xuất thời gian khác.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "invite",
+        "ipa": "/ɪnˈvaɪt/",
+        "vi": "mời"
+      },
+      {
+        "en": "free",
+        "ipa": "/friː/",
+        "vi": "rảnh, trong ngữ cảnh lịch hẹn"
+      },
+      {
+        "en": "busy",
+        "ipa": "/ˈbɪzi/",
+        "vi": "bận"
+      },
+      {
+        "en": "instead",
+        "ipa": "/ɪnˈsted/",
+        "vi": "thay vào đó"
+      },
+      {
+        "en": "lunch",
+        "ipa": "/lʌntʃ/",
+        "vi": "bữa trưa"
+      },
+      {
+        "en": "meet",
+        "ipa": "/miːt/",
+        "vi": "gặp"
+      },
+      {
+        "en": "thanks",
+        "ipa": "/θæŋks/",
+        "vi": "cảm ơn"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Đề nghị cùng làm gì",
+        "body": "Would you like to…? lịch sự khi mời. Let’s + nguyên mẫu đề nghị cùng làm. How about + V-ing đề xuất một hoạt động.",
+        "formula": "Would you like to + V? / How about + V-ing?",
+        "examples": [
+          {
+            "en": "Would you like to have lunch?",
+            "vi": "Bạn muốn ăn trưa cùng không?"
+          },
+          {
+            "en": "How about meeting at twelve?",
+            "vi": "Gặp lúc mười hai giờ nhé?"
+          }
+        ]
+      },
+      {
+        "title": "Từ chối và giữ cuộc trò chuyện",
+        "body": "Có thể cảm ơn, nêu lý do ngắn và đề xuất một lựa chọn khác.",
+        "formula": "Thanks, but … Can we … instead?",
+        "examples": [
+          {
+            "en": "Thanks, but I am busy on Friday.",
+            "vi": "Cảm ơn, nhưng thứ Sáu tôi bận."
+          },
+          {
+            "en": "Can we meet on Saturday instead?",
+            "vi": "Chúng ta gặp thứ Bảy thay vào đó được không?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Sau would like to dùng nguyên mẫu; sau how about thường dùng V-ing hoặc danh từ.",
+      "Không cần dùng lý do riêng tư thật khi luyện tình huống."
+    ],
+    "quiz": [
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: How about ___ at twelve? (meet)",
+        "answer": "meeting",
+        "explain": "Sau how about dùng V-ing trong mẫu này."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn lời mời đúng.",
+        "options": [
+          "Would you like having to lunch?",
+          "You would likes lunch?",
+          "Would you like to have lunch?"
+        ],
+        "answer": 2,
+        "explain": "Would like to + nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Từ chối lịch sự chọn gì?",
+        "options": [
+          "I am no lunch.",
+          "Thanks, but I am busy.",
+          "You not meet."
+        ],
+        "answer": 1,
+        "explain": "Cảm ơn và nêu lý do ngắn."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Can we meet on Saturday instead?",
+        "options": [
+          "Gặp thứ Sáu như cũ",
+          "Đổi sang gặp thứ Bảy",
+          "Hủy vĩnh viễn"
+        ],
+        "answer": 1,
+        "explain": "Instead đề xuất thay vào đó."
+      },
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: Let’s ___ at twelve. (meet)",
+        "answer": "meet",
+        "explain": "Let’s đi với nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Trong “I’m busy on Friday. How about Saturday?” người nói đề nghị gì?",
+        "options": [
+          "Gặp thứ Bảy",
+          "Gặp thứ Sáu",
+          "Không bao giờ gặp"
+        ],
+        "answer": 0,
+        "explain": "Saturday là phương án thay thế."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “mời”?",
+        "options": [
+          "busy",
+          "free",
+          "invite"
+        ],
+        "answer": 2,
+        "explain": "Trong bài này, invite nghĩa là mời."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "busy",
+        "options": [
+          "rảnh, trong ngữ cảnh lịch hẹn",
+          "bận",
+          "mời"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy busy: bận."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "A: Would you like to have lunch on Friday? B: Thanks, but I am busy. Can we meet on Saturday instead? A: Yes. How about twelve?",
+      "vi": "A: Ăn trưa thứ Sáu nhé? B: Cảm ơn nhưng tôi bận. Gặp thứ Bảy thay được không? A: Được. Mười hai giờ nhé?"
+    },
+    "practice": {
+      "speaking": "Mời một người, từ chối lịch sự rồi đề nghị ngày khác.",
+      "writing": "Viết một tin nhắn mời có hoạt động và thời gian.",
+      "model": "Would you like to have lunch on Saturday? How about meeting at twelve?",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-tin-nhan",
+    "stage": 3,
+    "level": "A2",
+    "order": 13,
+    "title": "Viết tin nhắn và nối ý",
+    "goal": "Viết một tin nhắn ngắn rõ mục đích, có lý do và đề nghị.",
+    "minutes": 18,
+    "intro": "Học một phần mỗi lần: nghe từ, xem cách dùng, rồi thử nói và viết. Ôn lại bài trước trong một phút trước khi bắt đầu.",
+    "vocab": [
+      {
+        "en": "because",
+        "ipa": "/bɪˈkɒz/",
+        "vi": "bởi vì"
+      },
+      {
+        "en": "but",
+        "ipa": "/bʌt/",
+        "vi": "nhưng"
+      },
+      {
+        "en": "so",
+        "ipa": "/səʊ/",
+        "vi": "vì vậy"
+      },
+      {
+        "en": "message",
+        "ipa": "/ˈmesɪdʒ/",
+        "vi": "tin nhắn"
+      },
+      {
+        "en": "sorry",
+        "ipa": "/ˈsɒri/",
+        "vi": "xin lỗi / tiếc"
+      },
+      {
+        "en": "let me know",
+        "ipa": "/let miː ˈnəʊ/",
+        "vi": "cho tôi biết"
+      },
+      {
+        "en": "afternoon",
+        "ipa": "/ˌɑːftəˈnuːn/",
+        "vi": "buổi chiều"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Nối theo quan hệ giữa ý",
+        "body": "And thêm ý; but đối lập; because đưa lý do; so đưa kết quả. Chọn theo nghĩa, không chỉ học thuộc vị trí.",
+        "formula": "Kết quả because lý do · Lý do, so kết quả",
+        "examples": [
+          {
+            "en": "I am late because the bus is slow.",
+            "vi": "Tôi muộn vì xe buýt đi chậm."
+          },
+          {
+            "en": "The bus is slow, so I am late.",
+            "vi": "Xe buýt đi chậm nên tôi muộn."
+          }
+        ]
+      },
+      {
+        "title": "Một tin nhắn có ba phần",
+        "body": "Chào, nói việc cần trao đổi, rồi đề nghị hoặc kết thúc. Dùng câu ngắn và kiểm tra ngày giờ.",
+        "formula": "Hi … / I … because … / Can we …?",
+        "examples": [
+          {
+            "en": "Hi Mai. I can’t meet today because I am busy.",
+            "vi": "Chào Mai. Hôm nay tôi không thể gặp vì bận."
+          },
+          {
+            "en": "Can we meet tomorrow instead?",
+            "vi": "Mai gặp thay được không?"
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Không dùng because và so cùng lúc để nối cùng hai mệnh đề trong mẫu cơ bản này.",
+      "Đọc lại tin nhắn: ai, làm gì, khi nào, người nhận cần phản hồi điều gì?"
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Điền liên từ: I am tired ___ I worked late.",
+        "options": [
+          "because",
+          "or",
+          "but"
+        ],
+        "answer": 0,
+        "explain": "Worked late là lý do."
+      },
+      {
+        "type": "choice",
+        "question": "The bus is late, ___ I will walk.",
+        "options": [
+          "so",
+          "and because",
+          "because"
+        ],
+        "answer": 0,
+        "explain": "Will walk là kết quả/quyết định tiếp theo."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu nối đúng.",
+        "options": [
+          "I like tea because but coffee.",
+          "I like tea, but I don’t like coffee.",
+          "I like tea so because coffee."
+        ],
+        "answer": 1,
+        "explain": "But nối hai ý đối lập."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Can we meet tomorrow instead?",
+        "options": [
+          "Đề nghị gặp ngày mai thay thế",
+          "Hỏi giá",
+          "Xác nhận gặp hôm qua"
+        ],
+        "answer": 0,
+        "explain": "Tomorrow instead là phương án thay thế ngày mai."
+      },
+      {
+        "type": "fill",
+        "question": "Điền từ nối lý do: I am late ___ the bus is slow.",
+        "answer": "because",
+        "explain": "Because đưa lý do."
+      },
+      {
+        "type": "choice",
+        "question": "Tin nhắn “Hi Mai. I can’t meet today. Can we meet tomorrow?” muốn gì?",
+        "options": [
+          "Giới thiệu nghề nghiệp",
+          "Mua một vé",
+          "Đổi lịch sang ngày mai"
+        ],
+        "answer": 2,
+        "explain": "Câu hỏi cuối đề nghị lịch mới."
+      },
+      {
+        "type": "choice",
+        "question": "Từ nào có nghĩa “bởi vì”?",
+        "options": [
+          "because",
+          "so",
+          "but"
+        ],
+        "answer": 0,
+        "explain": "Trong bài này, because nghĩa là bởi vì."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "so",
+        "options": [
+          "nhưng",
+          "vì vậy",
+          "bởi vì"
+        ],
+        "answer": 1,
+        "explain": "Bạn nghe thấy so: vì vậy."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Hi Mai. I can’t come to lunch today because I have to work. I am free tomorrow. Can we meet at twelve instead? Thanks, An.",
+      "vi": "Chào Mai. Hôm nay tôi không thể đến ăn trưa vì phải làm việc. Ngày mai tôi rảnh. Chúng ta gặp lúc mười hai giờ thay vào đó được không? Cảm ơn, An."
+    },
+    "practice": {
+      "speaking": "Nói một lời đổi lịch có lý do và một lựa chọn khác.",
+      "writing": "Viết 40–60 từ mời hoặc đổi lịch hẹn. Bao gồm ngày, giờ và lý do.",
+      "model": "Hi Mai. I am sorry, but I can’t meet on Friday because I have to work. I am free on Saturday. Would you like to have lunch at twelve instead? Please let me know if that time is good for you. Thanks, An.",
+      "checklist": [
+        "Câu trả lời đúng với tình huống của tôi.",
+        "Tôi đã kiểm tra chủ ngữ, động từ và từ mới.",
+        "Tôi có thể đọc câu trả lời thành tiếng chậm và rõ."
+      ]
+    },
+    "passMark": 0.8,
+    "references": [
+      {
+        "href": "/thu-vien/ipa",
+        "label": "Tra phát âm"
+      },
+      {
+        "href": "/thu-vien/cau-truc",
+        "label": "Xem cấu trúc câu"
+      }
+    ]
+  },
+  {
+    "slug": "a2-on-tong-hop",
+    "level": "A2",
+    "stage": 3,
+    "order": 14,
+    "title": "Ôn A2: kể chuyện và xử lý tình huống",
+    "goal": "Kể một việc đã qua, nói kế hoạch và viết tin nhắn có lý do.",
+    "minutes": 20,
+    "checkpoint": true,
+    "passMark": 0.8,
+    "intro": "Làm bài không nhìn ghi nhớ trước. Sau mỗi câu, đọc giải thích và ghi lại điều còn nhầm. Luyện nói/viết được tự đối chiếu, không chấm tự động.",
+    "vocab": [
+      {
+        "en": "usually",
+        "ipa": "/ˈjuːʒuəli/",
+        "vi": "thường"
+      },
+      {
+        "en": "today",
+        "ipa": "/təˈdeɪ/",
+        "vi": "hôm nay"
+      },
+      {
+        "en": "busy",
+        "ipa": "/ˈbɪzi/",
+        "vi": "bận"
+      },
+      {
+        "en": "office",
+        "ipa": "/ˈɒfɪs/",
+        "vi": "văn phòng"
+      }
+    ],
+    "sections": [
+      {
+        "title": "Ôn theo việc bạn làm được",
+        "body": "Nhìn lại mục tiêu từng bài. Nếu chưa nói được, quay về bài đó và đọc theo ví dụ trước khi tự nói.",
+        "formula": "Nhớ ý → nói câu → kiểm tra",
+        "examples": [
+          {
+            "en": "I can speak a little English.",
+            "vi": "Tôi nói được một chút tiếng Anh."
+          },
+          {
+            "en": "Could you say that again?",
+            "vi": "Bạn nói lại được không?"
+          }
+        ]
+      },
+      {
+        "title": "Một điểm số chưa nói hết khả năng",
+        "body": "Các câu hỏi kiểm tra nhận biết và dùng mẫu. Để đánh giá nghe, nói, đọc, viết đầy đủ cần thêm bài đánh giá riêng.",
+        "formula": "Không quy đổi điểm thành chứng chỉ CEFR",
+        "examples": [
+          {
+            "en": "I want to practise every day.",
+            "vi": "Tôi muốn luyện mỗi ngày."
+          },
+          {
+            "en": "I can ask for help.",
+            "vi": "Tôi có thể nhờ giúp."
+          }
+        ]
+      }
+    ],
+    "notes": [
+      "Mục tiêu tối thiểu là 80% câu đúng. Đọc lại phần giải thích của câu sai trước khi thử lại.",
+      "Một bài kiểm tra đạt không có nghĩa mọi kỹ năng ở mức đó đã thành thạo.",
+      "Quay lại ôn từ và luyện nói trong vài ngày, không chỉ làm bài một lần."
+    ],
+    "quiz": [
+      {
+        "type": "choice",
+        "question": "Mỗi ngày đi bộ đi làm chọn câu nào?",
+        "options": [
+          "I walking work every day.",
+          "I walk to work every day.",
+          "I am walk to work."
+        ],
+        "answer": 1,
+        "explain": "Thói quen dùng hiện tại đơn."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu hỏi đúng.",
+        "options": [
+          "Did you were tired?",
+          "Were you tired?",
+          "Was you tired?"
+        ],
+        "answer": 1,
+        "explain": "You dùng were và đảo lên đầu."
+      },
+      {
+        "type": "choice",
+        "question": "Bought là quá khứ của gì?",
+        "options": [
+          "buy",
+          "bring",
+          "be"
+        ],
+        "answer": 0,
+        "explain": "Buy → bought."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "I didn’t buy a ticket.",
+        "options": [
+          "Tôi không mua vé",
+          "Tôi đã mua vé",
+          "Tôi làm mất vé"
+        ],
+        "answer": 0,
+        "explain": "Didn’t buy phủ định việc mua."
+      },
+      {
+        "type": "fill",
+        "question": "Điền was/were: I ___ reading at eight.",
+        "answer": "was",
+        "explain": "I đi với was."
+      },
+      {
+        "type": "choice",
+        "question": "Bạn quyết định giúp ngay lúc nghe yêu cầu.",
+        "options": [
+          "I helped you yesterday.",
+          "I will help you.",
+          "I am help you."
+        ],
+        "answer": 1,
+        "explain": "Will diễn tả quyết định hoặc lời hứa lúc nói."
+      },
+      {
+        "type": "choice",
+        "question": "So sánh nhất của cheap là gì?",
+        "options": [
+          "the cheaper",
+          "the more cheap",
+          "the cheapest"
+        ],
+        "answer": 2,
+        "explain": "Cheapest dùng để chọn rẻ nhất trong nhóm."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "We don’t have any milk.",
+        "options": [
+          "Chúng ta không có sữa",
+          "Chúng ta cần táo",
+          "Chúng ta có nhiều sữa"
+        ],
+        "answer": 0,
+        "explain": "Don’t have any phủ định sự có mặt."
+      },
+      {
+        "type": "fill",
+        "question": "Điền dạng đúng: You should ___. (rest)",
+        "answer": "rest",
+        "explain": "Should dùng động từ nguyên mẫu."
+      },
+      {
+        "type": "choice",
+        "question": "Chọn câu đúng với last year.",
+        "options": [
+          "I have been to Hue last year.",
+          "I went to Hue last year.",
+          "I has go Hue last year."
+        ],
+        "answer": 1,
+        "explain": "Mốc quá khứ đã kết thúc dùng quá khứ đơn."
+      },
+      {
+        "type": "choice",
+        "question": "Hỏi bữa sáng trong giá dùng gì?",
+        "options": [
+          "Does breakfast room?",
+          "Are included breakfast eat?",
+          "Is breakfast included?"
+        ],
+        "answer": 2,
+        "explain": "Included hỏi phần đã được bao gồm."
+      },
+      {
+        "type": "listen",
+        "prompt": "Nghe và chọn thông tin đúng. Bạn có thể nghe lại nhiều lần.",
+        "word": "Can we meet on Saturday instead?",
+        "options": [
+          "Hủy vĩnh viễn",
+          "Đổi sang gặp thứ Bảy",
+          "Gặp thứ Sáu như cũ"
+        ],
+        "answer": 1,
+        "explain": "Instead đề xuất thay vào đó."
+      }
+    ],
+    "reading": {
+      "title": "Đọc và nghe trong tình huống",
+      "en": "Hi Mai. I can’t come to lunch today because I have to work. I am free tomorrow. Can we meet at twelve instead? Thanks, An.",
+      "vi": "Chào Mai. Hôm nay tôi không thể đến ăn trưa vì phải làm việc. Ngày mai tôi rảnh. Chúng ta gặp lúc mười hai giờ thay vào đó được không? Cảm ơn, An."
+    },
+    "practice": {
+      "speaking": "Kể một chuyến đi trong khoảng một phút, rồi nói một kế hoạch sắp tới.",
+      "writing": "Viết 50–70 từ đổi lịch hẹn: giải thích lý do, đề xuất lịch mới và hỏi xác nhận.",
+      "model": "Hi Mai. I am sorry, but I can’t meet on Friday because I have to work. I will be free on Saturday afternoon. Would you like to have coffee at three instead? We can meet at the small cafe next to the station. Please let me know if that time is good for you. Thanks, An.",
+      "checklist": [
+        "Tôi hoàn thành đủ yêu cầu của đề.",
+        "Tôi nói/viết bằng câu của mình, không chỉ chép mẫu.",
+        "Tôi biết bài nào cần ôn lại và đã đọc lời giải câu sai."
+      ]
+    },
+    "references": [
+      {
+        "href": "/lo-trinh",
+        "label": "Chọn bài cần ôn"
+      },
+      {
+        "href": "/thu-vien",
+        "label": "Mở thư viện"
+      }
+    ]
+  }
+]
